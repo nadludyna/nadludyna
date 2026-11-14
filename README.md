@@ -9,10 +9,7 @@ I automate boring stuff, experiment with Linux and self-hosted systems, and occa
   <img src="https://img.shields.io/badge/LINUX-101510?style=flat-square&logo=linux&logoColor=9FE870" alt="Linux" />
   <img src="https://img.shields.io/badge/KDE_PLASMA-101510?style=flat-square&logo=kde&logoColor=9FE870" alt="KDE Plasma" />
   <img src="https://img.shields.io/badge/DOCKER-101510?style=flat-square&logo=docker&logoColor=9FE870" alt="Docker" />
-  <img src="https://img.shields.io/badge/SELF--HOSTING-101510?style=flat-square&logo= serverfault&logoColor=9FE870" alt="Self-hosting" />
 </p>
-
-<sub><code>curiosity &gt; comfort</code> · <code>useful &gt; flashy</code> · <code>understand &gt; just use</code></sub>
 
 **Currently exploring:** Go, automation, Docker, CI/CD, VPS and self-hosting.
 
@@ -35,11 +32,13 @@ I automate boring stuff, experiment with Linux and self-hosted systems, and occa
 
 ---
 
-### ▸ How I work
+### ▸ How I approach problems
 
-I research before I build, prefer the elegant solution over the complicated one, and try not to over-engineer. I like tools that just work — and understanding *why* they work.
+1. **Define the problem.** Figure out what actually needs to be solved.
+2. **Look for an existing solution.** Check what's already available before reinventing the wheel.
+3. **Use it — or build what’s missing.** If a tool does the job well, I use it. If nothing fits, or I need functionality that isn't there, I build a focused tool for that specific need.
 
-I also care about the handoff: clear READMEs, useful documentation, and explaining things so other people can actually use them. The README is part of the project, not an afterthought.
+I prefer practical solutions over complexity, and useful tools over building something just for the sake of it. I also care about clear READMEs and documentation — they're part of the work, not an afterthought.
 
 ---
 
