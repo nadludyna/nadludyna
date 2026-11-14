@@ -2,7 +2,7 @@
 
 A curious tech tinkerer from Lublin, Poland. I like understanding how things work, finding the right tools, and building small, practical things that make everyday tech better.
 
-I automate boring stuff, experiment with Linux and self-hosted systems, and occasionally build tools just because I want them to exist.
+I automate boring stuff, experiment with Linux, and occasionally build tools just because I want them to exist.
 
 <p>
   <img src="https://img.shields.io/badge/GO-101510?style=flat-square&logo=go&logoColor=9FE870" alt="Go" />
@@ -11,7 +11,7 @@ I automate boring stuff, experiment with Linux and self-hosted systems, and occa
   <img src="https://img.shields.io/badge/DOCKER-101510?style=flat-square&logo=docker&logoColor=9FE870" alt="Docker" />
 </p>
 
-**Currently exploring:** Go, automation, Docker, CI/CD, VPS and self-hosting.
+**Currently exploring:** Go, automation, Docker and CI/CD.
 
 ---
 
@@ -26,7 +26,7 @@ I automate boring stuff, experiment with Linux and self-hosted systems, and occa
 
 - **Linux:** I've explored a wide range of distributions, from mainstream choices to more niche ones, both hands-on and through articles, videos and other resources. I have a pretty good feel for the Linux distro landscape, but what matters most to me is practical value: a clean, focused system without unnecessary noise or bloat. I settled on Arch, then found CachyOS — Arch-based, polished, and a great all-rounder. KDE is my desktop environment of choice.
 - **Windows:** clean installs from official ISOs, sensible software management, driver cleanup, WSL, Docker and PowerShell.
-- **Self-hosting:** ran a modded Minecraft server (Fabric) and wrote scripts to check for mod updates.
+- **Self-hosting:** my only self-hosted project so far is a modded Minecraft server running Fabric, with scripts to check for mod updates.
 - **Tinkering:** userscripts, Android app tweaks for my family, minimal modpacks, and getting old games running on modern PCs.
 - **Open source:** my default preference — but I'm happy to pay for software that earns it.
 
@@ -36,7 +36,7 @@ I automate boring stuff, experiment with Linux and self-hosted systems, and occa
 
 1. **Define the problem.** Figure out what actually needs to be solved.
 2. **Look for an existing solution.** Check what's already available before reinventing the wheel.
-3. **Use it — or build what’s missing.** If a tool does the job well, I use it. If nothing fits, or I need functionality that isn't there, I build a focused tool for that specific need.
+3. **Use it — or build what's missing.** If a tool does the job well, I use it. If nothing fits, or I need functionality that isn't there, I build a focused tool for that specific need.
 
 I prefer practical solutions over complexity, and useful tools over building something just for the sake of it. I also care about clear READMEs and documentation — they're part of the work, not an afterthought.
 
