@@ -52,7 +52,9 @@ I've been using LLMs since GPT-3. These days, Claude is my main coding agent. I 
 
 **Gaming:** I play a wide range of games, but tend to gravitate toward atmospheric worlds, RPGs, immersive sims, horror, and unusual indie experiences. I also have a soft spot for puzzles and the occasional cozy game. [Find me on Steam](https://steamcommunity.com/id/jhn_prk67/).
 
-Outside games, I'm into philosophy (Nietzsche, Hegel, mind and AI), music, and an ever-growing collection of useful tools, guides and channels.
+**Typing:** I practice regularly on Monkeytype, track my speed and accuracy, and enjoy mechanical keyboards. Currently using a MonsGeek FUN60 Ultra with Astrolink switches. [Monkeytype profile](https://monkeytype.com/profile/nadludyna).
+
+Outside games and typing, I'm into philosophy (Nietzsche, Hegel, mind and AI), music, and an ever-growing collection of useful tools, guides and channels.
 
 **Languages:** Ukrainian, Russian, Polish, English; basic German.
 
