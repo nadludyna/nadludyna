@@ -54,6 +54,8 @@ I've been using LLMs since GPT-3. These days, Claude is my main coding agent. I 
 
 **Typing:** I practice regularly on Monkeytype, track my speed and accuracy, and enjoy mechanical keyboards. Currently using a MonsGeek FUN60 Ultra with Astrolink switches. [Monkeytype profile](https://monkeytype.com/profile/nadludyna).
 
+**Perspective:** I'm neurodivergent, and I try to understand how my mind works — including the extra friction that can come with it. I don't romanticize it or make it my whole identity; I adapt where I can and keep making room for curiosity and joy. *Amor fati.*
+
 Outside games and typing, I'm into philosophy (Nietzsche, Hegel, mind and AI), music, and an ever-growing collection of useful tools, guides and channels.
 
 **Languages:** Ukrainian, Russian, Polish, English; basic German.
