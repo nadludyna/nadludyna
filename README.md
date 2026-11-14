@@ -1,9 +1,9 @@
 ### Hi, I'm nadludyna 👋
 
 ETI student at Lublin University of Technology. I automate boring stuff: scripts, Telegram bots, Linux servers.
-Lublin, Poland · open to remote work and freelance · Ukrainian, Russian, Polish, English
+Lublin, Poland · open to remote work and freelance · Ukrainian, Russian, Polish, English, basic German
 
-I like things that just work, and I like knowing why they work. I research before I build, pick the elegant path over the hard one, and don't over-engineer. I'm the person friends call when their laptop is dying or they want something better: I find the right tool, set it up, and show them how.
+I like things that just work, and I like knowing why they work. I research before I build, pick the elegant path over the hard one, and don't over-engineer. I'm the person friends call when their laptop is dying or they want something better: I find the right tool, set it up, and show them how. I like explaining things and writing clear docs; my READMEs are part of the work, not an afterthought.
 
 **Projects**
 
