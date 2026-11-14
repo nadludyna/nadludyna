@@ -31,3 +31,5 @@ Using LLMs since GPT-3. Claude is my main coding agent, and I run it like a team
 **Off the clock:** philosophy (Nietzsche, Hegel, mind and AI), games, music.
 
 📫 [oleksandrlysiuk88@gmail.com](mailto:oleksandrlysiuk88@gmail.com) · [LinkedIn](https://www.linkedin.com/in/oleksandr-lysiuk-606a21410)
+
+> *One must still have chaos in oneself to give birth to a dancing star.* — Nietzsche
