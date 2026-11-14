@@ -13,7 +13,7 @@ I automate boring stuff, experiment with Linux and self-hosted systems, and occa
 
 ### Around the computer
 
-- **Linux:** went from Mint and Fedora to Arch (installed by hand) and CachyOS. KDE all the way.
+- **Linux:** I've explored a wide range of distributions, from mainstream choices to more niche ones, both hands-on and through articles, videos and other resources. I have a pretty good feel for the Linux distro landscape, but what matters most to me is practical value: a clean, focused system without unnecessary noise or bloat. I settled on Arch, then found CachyOS — Arch-based, polished, and a great all-rounder. KDE is my desktop environment of choice.
 - **Windows:** clean installs from official ISOs, sensible software management, driver cleanup, WSL, Docker and PowerShell.
 - **Self-hosting:** ran a modded Minecraft server (Fabric) and wrote scripts to check for mod updates.
 - **Tinkering:** userscripts, Android app tweaks for my family, minimal modpacks, and getting old games running on modern PCs.
