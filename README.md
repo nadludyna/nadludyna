@@ -4,14 +4,28 @@ A curious tech tinkerer from Lublin, Poland. I like understanding how things wor
 
 I automate boring stuff, experiment with Linux and self-hosted systems, and occasionally build tools just because I want them to exist.
 
+<p>
+  <img src="https://img.shields.io/badge/GO-101510?style=flat-square&logo=go&logoColor=9FE870" alt="Go" />
+  <img src="https://img.shields.io/badge/LINUX-101510?style=flat-square&logo=linux&logoColor=9FE870" alt="Linux" />
+  <img src="https://img.shields.io/badge/KDE_PLASMA-101510?style=flat-square&logo=kde&logoColor=9FE870" alt="KDE Plasma" />
+  <img src="https://img.shields.io/badge/DOCKER-101510?style=flat-square&logo=docker&logoColor=9FE870" alt="Docker" />
+  <img src="https://img.shields.io/badge/SELF--HOSTING-101510?style=flat-square&logo= serverfault&logoColor=9FE870" alt="Self-hosting" />
+</p>
+
+<sub><code>curiosity &gt; comfort</code> · <code>useful &gt; flashy</code> · <code>understand &gt; just use</code></sub>
+
 **Currently exploring:** Go, automation, Docker, CI/CD, VPS and self-hosting.
 
-### Things I've built
+---
+
+### ▸ Things I've built
 
 - [**typeTrainer**](https://github.com/nadludyna/typeTrainer) — a typing trainer that finds your weak letters and builds the next words around them. My engineering thesis. Go, JavaScript, PostgreSQL. [Try it](https://nadludyna.github.io/typeTrainer/)
 - [**ТЯГА**](https://github.com/nadludyna/tyaga) — paste a YouTube link, get a file. A small Go app with a browser UI, built on yt-dlp, with CI and releases for Windows, macOS and Linux.
 
-### Around the computer
+---
+
+### ▸ Around the computer
 
 - **Linux:** I've explored a wide range of distributions, from mainstream choices to more niche ones, both hands-on and through articles, videos and other resources. I have a pretty good feel for the Linux distro landscape, but what matters most to me is practical value: a clean, focused system without unnecessary noise or bloat. I settled on Arch, then found CachyOS — Arch-based, polished, and a great all-rounder. KDE is my desktop environment of choice.
 - **Windows:** clean installs from official ISOs, sensible software management, driver cleanup, WSL, Docker and PowerShell.
@@ -19,17 +33,23 @@ I automate boring stuff, experiment with Linux and self-hosted systems, and occa
 - **Tinkering:** userscripts, Android app tweaks for my family, minimal modpacks, and getting old games running on modern PCs.
 - **Open source:** my default preference — but I'm happy to pay for software that earns it.
 
-### How I work
+---
+
+### ▸ How I work
 
 I research before I build, prefer the elegant solution over the complicated one, and try not to over-engineer. I like tools that just work — and understanding *why* they work.
 
 I also care about the handoff: clear READMEs, useful documentation, and explaining things so other people can actually use them. The README is part of the project, not an afterthought.
 
-### Working with AI
+---
+
+### ▸ Working with AI
 
 I've been using LLMs since GPT-3. These days, Claude is my main coding agent. I treat AI-assisted development like collaborative engineering: written project rules, separate branches for focused work, pull requests, tests, and performance checks before merging. I use other models for second opinions and code audits.
 
-### Beyond tech
+---
+
+### ▸ Beyond tech
 
 Philosophy (Nietzsche, Hegel, mind and AI), games, music, and an ever-growing collection of useful tools, guides and channels.
 
