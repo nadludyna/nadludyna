@@ -1,4 +1,4 @@
-### Hey, I'm nadludyna 👋
+### Hey 👋
 
 A curious tech tinkerer from Lublin, Poland. I like understanding how things work, finding the right tools, and building small, practical things that make everyday tech better.
 
