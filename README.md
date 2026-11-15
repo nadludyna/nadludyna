@@ -47,15 +47,15 @@ I like understanding how things work, finding the right tools for the job, and b
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?domain=mojaveexpressguide.com&sz=64" width="16" align="absmiddle" alt="" /> [Mojave Express](https://mojaveexpressguide.com/docs/Introduction)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?domain=wastelandsurvival.guide&sz=64" width="16" align="absmiddle" alt="" /> [Wasteland Survival Guide](https://wastelandsurvival.guide/docs/intro)
 
-<img src="assets/icons/opensource.svg" width="20" align="absmiddle" alt="" /> **Open source** — my default. But I'm happy to pay for software that earns it.
+<img src="assets/icons/opensource.svg" width="20" align="absmiddle" alt="" /> **Open source** — not a rule, more of a pattern. I pick software that's popular for a reason, solid, and does its job — and more often than not, that turns out to be open source. Happy to pay for anything that earns it.
 
 ---
 
 ### ▸ How I approach problems
 
-<img src="assets/icons/step1.svg" width="20" align="absmiddle" alt="1" /> **Define** — figure out what actually needs solving.<br>
-<img src="assets/icons/step2.svg" width="20" align="absmiddle" alt="2" /> **Search** — check what already exists before reinventing the wheel.<br>
-<img src="assets/icons/step3.svg" width="20" align="absmiddle" alt="3" /> **Use or build** — if a tool does the job, use it. If nothing fits, build a focused one.
+<img src="assets/icons/step1.svg" width="22" align="absmiddle" alt="1" /> **Define** — figure out what actually needs solving.<br>
+<img src="assets/icons/step2.svg" width="22" align="absmiddle" alt="2" /> **Search** — check what already exists before reinventing the wheel.<br>
+<img src="assets/icons/step3.svg" width="22" align="absmiddle" alt="3" /> **Use or build** — if a tool does the job, use it. If nothing fits, build a focused one.
 
 <p>
   <code>practical &gt; complex</code><br>
