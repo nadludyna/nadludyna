@@ -42,7 +42,7 @@ I like understanding how things work, finding the right tools for the job, and b
 
 **🏠 Self-hosting** — one project so far: a modded [Minecraft](https://www.minecraft.net) server on [Fabric](https://fabricmc.net), with scripts that check for mod updates.
 
-**🔧 Tinkering** — userscripts, Android app tweaks for my family (like [Morphe](https://morphe.software) patches for YouTube), minimal modpacks, and getting old games to run on modern PCs.
+**🔧 Tinkering** — userscripts, Android app tweaks for my family (like [Morphe](https://morphe.software) patches for YouTube), minimal Minecraft modpacks (in [Prism Launcher](https://prismlauncher.org) — the best way to juggle instances), and getting old games to run on modern PCs.
 
 **🔓 Open source** — my default. But I'm happy to pay for software that earns it.
 
