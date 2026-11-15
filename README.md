@@ -78,22 +78,22 @@ Curious by default, AuDHD by design.
 <div align="center">
 
 <p>
-  <img src="https://img.shields.io/badge/CLAUDE-101510?style=flat-square&logo=claude&logoColor=9FE870" alt="Claude" />
-  <img src="https://img.shields.io/badge/OBSIDIAN-101510?style=flat-square&logo=obsidian&logoColor=9FE870" alt="Obsidian" />
-  <img src="https://img.shields.io/badge/GEMINI-101510?style=flat-square&logo=googlegemini&logoColor=9FE870" alt="Gemini" />
+  <a href="https://claude.ai"><img src="https://img.shields.io/badge/CLAUDE-101510?style=flat-square&logo=claude&logoColor=9FE870" alt="Claude" /></a>
+  <a href="https://obsidian.md"><img src="https://img.shields.io/badge/OBSIDIAN-101510?style=flat-square&logo=obsidian&logoColor=9FE870" alt="Obsidian" /></a>
+  <a href="https://gemini.google.com"><img src="https://img.shields.io/badge/GEMINI-101510?style=flat-square&logo=googlegemini&logoColor=9FE870" alt="Gemini" /></a>
 </p>
 
-I've been using LLMs since GPT-3. Today, [Claude](https://claude.ai) is my main coding agent — and just as much a thinking partner.
+I've been using LLMs since GPT-3. Today, Claude is my main coding agent — and just as much a thinking partner.
 
 `raw thought` → `talk it through` → `let it brew` → `.md in the vault` → `notes pile up` → `build`
 
 </div>
 
-**Thinking:** I say raw thoughts straight to Claude and talk them through. Then I let them brew — walk around, come back, finish the conversation. Whatever's worth keeping becomes a Markdown note in my [Obsidian](https://obsidian.md) vault.
+**Thinking:** I say raw thoughts straight to Claude and talk them through. Then I let them brew — walk around, come back, finish the conversation. Whatever's worth keeping becomes a Markdown note in my Obsidian vault.
 
 **Building:** once enough notes and references pile up, something clicks: *okay, this could be a thing.* I point Claude to the relevant part of the vault, and we build from my own notes instead of a blank prompt. Then it's collaborative engineering: project rules, focused branches, pull requests, tests, and performance checks before merging.
 
-**Other models:** I've tried most mainstream and Chinese ones ([GLM 5.3](https://z.ai), [DeepSeek](https://www.deepseek.com) and [Kimi](https://www.kimi.com) were pleasant surprises), but Claude stays the strongest all-rounder for me. [Gemini](https://gemini.google.com) covers side chats and images; other models handle second opinions and code audits.
+**Other models:** I've tried most mainstream and Chinese ones ([GLM 5.3](https://z.ai), [DeepSeek](https://www.deepseek.com) and [Kimi](https://www.kimi.com) were pleasant surprises), but Claude stays the strongest all-rounder for me. Gemini covers side chats and images; other models handle second opinions and code audits.
 
 ---
 
