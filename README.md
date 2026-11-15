@@ -4,9 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=9FE870&vCenter=true&width=520&height=32&lines=%24+whoami+%E2%86%92+curious+tech+tinkerer;automating+the+boring+stuff;building+tools+that+should+exist;sudo+make+life+a+bit+better" alt="whoami: curious tech tinkerer" />
 </a>
 
-I'm a curious tech tinkerer from Lublin, Poland. I like understanding how things work, finding the right tools, and building small, practical things that make everyday life a bit better.
-
-I automate boring stuff, experiment with Linux, and sometimes build a tool just because I want it to exist.
+I like understanding how things work, finding the right tools for the job, and building small, practical things that make everyday life a bit better — mostly in Go, mostly on Linux.
 
 <p>
   <img src="https://img.shields.io/badge/GO-101510?style=flat-square&logo=go&logoColor=9FE870" alt="Go" />
@@ -15,7 +13,7 @@ I automate boring stuff, experiment with Linux, and sometimes build a tool just 
   <img src="https://img.shields.io/badge/DOCKER-101510?style=flat-square&logo=docker&logoColor=9FE870" alt="Docker" />
 </p>
 
-**Currently exploring:** Go, automation, Docker and CI/CD.
+**Main language:** Go · **Currently going deeper into:** automation, Docker and CI/CD.
 
 ---
 
@@ -53,21 +51,40 @@ Practical over complex. Useful over impressive. Clear READMEs and docs are part 
 
 ### ▸ Working with AI
 
-I've been using LLMs since GPT-3. Today, Claude is my main coding agent. I treat AI-assisted development as collaborative engineering: written project rules, separate branches for focused work, pull requests, tests, and performance checks before merging. Other models give me second opinions and code audits.
+<p>
+  <img src="https://img.shields.io/badge/CLAUDE-101510?style=flat-square&logo=claude&logoColor=9FE870" alt="Claude" />
+  <img src="https://img.shields.io/badge/OBSIDIAN-101510?style=flat-square&logo=obsidian&logoColor=9FE870" alt="Obsidian" />
+  <img src="https://img.shields.io/badge/GEMINI-101510?style=flat-square&logo=googlegemini&logoColor=9FE870" alt="Gemini" />
+</p>
+
+I've been using LLMs since GPT-3. Today, Claude is my main coding agent — and just as much a thinking partner.
+
+`raw thoughts` → `Obsidian vault` → `plan` → `Claude` → `PR`
+
+**Thinking:** random ideas, half-formed plans and long streams of thought get sorted into something coherent. Whatever's worth keeping goes into Obsidian.
+
+**Building:** I connect my vault, so Claude works from my own notes and drafts instead of a blank prompt. Then it's collaborative engineering: project rules, focused branches, pull requests, tests, and performance checks before merging.
+
+**Other models:** I've tried most mainstream and Chinese ones (GLM 5.3 was a pleasant surprise), but Claude stays the strongest all-rounder for me. Gemini covers side chats and images; other models handle second opinions and code audits.
 
 ---
 
 ### ▸ Beyond tech
 
-**🎮 Gaming** — I play a lot of different things, but I keep coming back to the same few:
+**🎮 Gaming** — I play a lot of different things, but I keep coming back to the same few:<br>
 `atmospheric worlds` `RPGs` `immersive sims` `horror` `weird indie` — plus a soft spot for puzzles and the occasional cozy game.
 
-**⌨️ Typing** — regular practice on Monkeytype, tracking speed and accuracy. Mechanical keyboard nerd.
+**⌨️ Typing** — regular practice on Monkeytype, tracking speed and accuracy. Mechanical keyboard nerd.<br>
 Current setup: <kbd>MonsGeek FUN60 Ultra</kbd> + <kbd>Astrolink switches</kbd>
 
 **🧭 Perspective** — My brain often takes a non-standard route. That's where a lot of my ideas come from — and also some of the friction. I've learned to work with it instead of fighting it: no romanticizing the hard parts, no making them my whole identity. Adapt, stay curious, leave room for joy. *Amor fati.*
 
-**📚 Also into** — philosophy (Nietzsche, Hegel, Wittgenstein), questions of consciousness and AI, music, and an ever-growing collection of useful tools, guides and channels.
+**🎧 Music** — a tuning knob for my nervous system: sometimes to balance a mood, sometimes to lean into it.<br>
+Mostly atmosphere: `ethereal ambient` `dark ambient` `plunderphonics` `hauntology` `vaporwave` `barber beats` `muzak` `IDM` `glitch` `experimental` `game soundtracks` `liminal-space scores`<br>
+Then: `alternative rock` `art rock` `progressive rock` `avant-prog` `progressive metal` `avant-garde metal` `lo-fi experimental indie`<br>
+And the exact opposite: `breakcore` `jungle` `digital hardcore` `rage rap` `trap` `hyperpop`
+
+**📚 Also into** — philosophy (Nietzsche, Hegel, Wittgenstein), questions of consciousness and AI, and an ever-growing collection of useful tools, guides and channels.
 
 **🗣️ Languages** — Ukrainian · Russian · Polish · English · German *(basic)*
 
@@ -79,7 +96,7 @@ Current setup: <kbd>MonsGeek FUN60 Ultra</kbd> + <kbd>Astrolink switches</kbd>
   <a href="mailto:oleksandrlysiuk88@gmail.com"><img src="https://img.shields.io/badge/EMAIL-101510?style=flat-square&logo=gmail&logoColor=9FE870" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/oleksandr-lysiuk-606a21410"><img src="https://img.shields.io/badge/LINKEDIN-101510?style=flat-square" alt="LinkedIn" /></a>
   <a href="https://steamcommunity.com/id/nadludyna/"><img src="https://img.shields.io/badge/STEAM-101510?style=flat-square&logo=steam&logoColor=9FE870" alt="Steam" /></a>
-  <a href="https://monkeytype.com/profile/nadludyna"><img src="https://img.shields.io/badge/MONKEYTYPE-101510?style=flat-square" alt="Monkeytype" /></a>
+  <a href="https://monkeytype.com/profile/nadludyna"><img src="https://img.shields.io/badge/MONKEYTYPE-101510?style=flat-square&logo=monkeytype&logoColor=9FE870" alt="Monkeytype" /></a>
 </p>
 
 > *One must still have chaos in oneself to give birth to a dancing star.* — Nietzsche
