@@ -46,7 +46,7 @@ I like understanding how things work, finding the right tools for the job, and b
 
 **🧩 Modding**<br>
 <img src="https://www.google.com/s2/favicons?domain=prismlauncher.org&sz=64" width="16" align="center" alt="" /> [Prism Launcher](https://prismlauncher.org) — minimal Minecraft modpacks, the best way to juggle instances.<br>
-[Fallout: New Vegas](https://store.steampowered.com/app/22380/) / [Tale of Two Wastelands](https://taleoftwowastelands.com), built by the guides that actually work:<br>
+[Fallout: New Vegas](https://store.steampowered.com/app/22490/Fallout_New_Vegas/) / [Tale of Two Wastelands](https://taleoftwowastelands.com), built by the guides that actually work:<br>
 <img src="https://www.google.com/s2/favicons?domain=vivanewvegas.moddinglinked.com&sz=64" width="16" align="center" alt="" /> [Viva New Vegas](https://vivanewvegas.moddinglinked.com/intro.html)<br>
 <img src="https://www.google.com/s2/favicons?domain=mojaveexpressguide.com&sz=64" width="16" align="center" alt="" /> [Mojave Express](https://mojaveexpressguide.com/docs/Introduction)<br>
 <img src="https://www.google.com/s2/favicons?domain=wastelandsurvival.guide&sz=64" width="16" align="center" alt="" /> [Wasteland Survival Guide](https://wastelandsurvival.guide/docs/intro)
