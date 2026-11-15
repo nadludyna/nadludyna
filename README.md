@@ -63,6 +63,8 @@ A vibe coder — with taste. Curious by default, AuDHD by design.<br>
 <img src="assets/icons/step2.svg" width="26" align="absmiddle" alt="2" /> **Search** — check what already exists before reinventing the wheel.<br>
 <img src="assets/icons/step3.svg" width="26" align="absmiddle" alt="3" /> **Use or build** — if a tool does the job, use it. If nothing fits, build a focused one.
 
+**How I learn:** I keep the core in my head — the few load-bearing ideas every field stands on — and look up the rest when I need it. New things land on that frame fast: hours, not weeks.
+
 <p>
   <code>practical &gt; complex</code><br>
   <code>useful &gt; impressive</code><br>
