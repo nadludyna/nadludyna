@@ -92,7 +92,7 @@ I've been using LLMs since GPT-3. Today, [Claude](https://claude.ai) is my main 
 ### ▸ Beyond tech
 
 **🎮 Gaming** — I play a lot of different things, but I keep coming back to the same few:<br>
-`atmospheric worlds` `RPGs` `immersive sims` `horror` `weird indie` — plus a soft spot for puzzles and the occasional cozy game.
+`atmospheric worlds` `RPGs` `immersive sims` `horror` `weird indie` — plus a soft spot for puzzles and the occasional cozy game. The full library is on [Steam](https://steamcommunity.com/id/nadludyna/), my all-time top 10 is [here](https://nadludyna.github.io/top10gier/).
 
 **⌨️ Typing** — regular practice on [Monkeytype](https://monkeytype.com), tracking speed and accuracy. Mechanical keyboard nerd.<br>
 Current setup: <a href="https://www.monsgeek.com"><kbd>MonsGeek FUN60 Ultra</kbd></a> + <kbd>Astrolink switches</kbd>
