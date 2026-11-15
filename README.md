@@ -35,7 +35,7 @@ I like understanding how things work, finding the right tools for the job, and b
 **🐧 Linux** — I've tried a lot of distros, mainstream and niche. What I care about is practical value: a clean, focused system without noise or bloat. My Linux home is [CachyOS](https://cachyos.org) — built on [Arch](https://archlinux.org), polished, a great all-rounder, with [KDE Plasma](https://kde.org/plasma-desktop/) on top.<br>
 `CachyOS` `Arch` `KDE Plasma`
 
-**🪟 Windows** — my main system right now. Clean installs from [official ISOs](https://www.microsoft.com/software-download/windows11), sensible software management, driver cleanup.<br>
+**🪟 Windows** — my main system right now. Clean installs with [Rufus](https://rufus.ie) (it even downloads the official ISO for you) or [balenaEtcher](https://etcher.balena.io). Then [WinUtil](https://github.com/ChrisTitusTech/winutil) by Chris Titus Tech for tweaks and debloat, [UniGetUI](https://devolutions.net/unigetui/) to install and update everything in one place, and driver cleanup.<br>
 `Windows 11` `WSL` `Docker` `PowerShell`
 
 **🔁 The pendulum** — Windows annoys me → I move to CachyOS for a while → Linux wears me out → back to Windows. Repeat. Both setups stay ready, so switching is cheap.
@@ -44,8 +44,12 @@ I like understanding how things work, finding the right tools for the job, and b
 
 **🔧 Tinkering** — userscripts, Android app tweaks for my family (like [Morphe](https://morphe.software) patches for YouTube), and getting old games to run on modern PCs.
 
-**🧩 Modding** — minimal Minecraft modpacks in [Prism Launcher](https://prismlauncher.org), the best way to juggle instances. And Fallout: New Vegas / [Tale of Two Wastelands](https://taleoftwowastelands.com), built by the guides that actually work:<br>
-[Viva New Vegas](https://vivanewvegas.moddinglinked.com/intro.html) · [Mojave Express](https://mojaveexpressguide.com/docs/Introduction) · [Wasteland Survival Guide](https://wastelandsurvival.guide/docs/intro)
+**🧩 Modding**<br>
+<img src="https://www.google.com/s2/favicons?domain=prismlauncher.org&sz=64" width="16" align="center" alt="" /> [Prism Launcher](https://prismlauncher.org) — minimal Minecraft modpacks, the best way to juggle instances.<br>
+[Fallout: New Vegas](https://store.steampowered.com/app/22380/) / [Tale of Two Wastelands](https://taleoftwowastelands.com), built by the guides that actually work:<br>
+<img src="https://www.google.com/s2/favicons?domain=vivanewvegas.moddinglinked.com&sz=64" width="16" align="center" alt="" /> [Viva New Vegas](https://vivanewvegas.moddinglinked.com/intro.html)<br>
+<img src="https://www.google.com/s2/favicons?domain=mojaveexpressguide.com&sz=64" width="16" align="center" alt="" /> [Mojave Express](https://mojaveexpressguide.com/docs/Introduction)<br>
+<img src="https://www.google.com/s2/favicons?domain=wastelandsurvival.guide&sz=64" width="16" align="center" alt="" /> [Wasteland Survival Guide](https://wastelandsurvival.guide/docs/intro)
 
 **🔓 Open source** — my default. But I'm happy to pay for software that earns it.
 
