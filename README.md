@@ -60,11 +60,11 @@ I like understanding how things work, finding the right tools for the job, and b
 
 I've been using LLMs since GPT-3. Today, Claude is my main coding agent — and just as much a thinking partner.
 
-`raw thoughts` → `Obsidian vault` → `plan` → `Claude` → `PR`
+`raw thought` → `talk it through` → `let it brew` → `.md in the vault` → `notes pile up` → `build`
 
-**Thinking:** random ideas, half-formed plans and long streams of thought get sorted into something coherent. Whatever's worth keeping goes into Obsidian.
+**Thinking:** I say raw thoughts straight to Claude and talk them through. Then I let them brew — walk around, come back, finish the conversation. Whatever's worth keeping becomes a Markdown note in my Obsidian vault.
 
-**Building:** I connect my vault, so Claude works from my own notes and drafts instead of a blank prompt. Then it's collaborative engineering: project rules, focused branches, pull requests, tests, and performance checks before merging.
+**Building:** once enough notes and references pile up, something clicks: *okay, this could be a thing.* I point Claude to the relevant part of the vault, and we build from my own notes instead of a blank prompt. Then it's collaborative engineering: project rules, focused branches, pull requests, tests, and performance checks before merging.
 
 **Other models:** I've tried most mainstream and Chinese ones (GLM 5.3 was a pleasant surprise), but Claude stays the strongest all-rounder for me. Gemini covers side chats and images; other models handle second opinions and code audits.
 
