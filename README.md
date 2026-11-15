@@ -41,11 +41,11 @@ A vibe coder — with taste. Curious by default, AuDHD by design.<br>
 <img src="assets/icons/tinker.svg" width="26" align="absmiddle" alt="" /> **Tinkering** — userscripts, Android app tweaks for my family (like [Morphe](https://morphe.software) patches for YouTube), and getting old games to run on modern PCs.
 
 <img src="assets/icons/modding.svg" width="26" align="absmiddle" alt="" /> **Modding**<br>
-<img src="assets/icons/minecraft.svg" width="22" align="absmiddle" alt="" /> ***Minecraft*** — [Prism Launcher](https://prismlauncher.org) for minimal modpacks, the best way to juggle instances.<br>
+<img src="assets/icons/minecraft.svg" width="22" align="absmiddle" alt="" /> ***Minecraft*** — <img src="https://www.google.com/s2/favicons?domain=prismlauncher.org&sz=64" width="20" align="absmiddle" alt="" /> [Prism Launcher](https://prismlauncher.org) for minimal modpacks, the best way to juggle instances.<br>
 <img src="assets/icons/fallout.svg" width="22" align="absmiddle" alt="" /> ***[Fallout: New Vegas](https://store.steampowered.com/app/22490/Fallout_New_Vegas/) / [TTW](https://taleoftwowastelands.com)*** — set up by following these guides:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/icons/guide.svg" width="22" align="absmiddle" alt="" /> [Viva New Vegas](https://vivanewvegas.moddinglinked.com/intro.html)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/icons/guide.svg" width="22" align="absmiddle" alt="" /> [Mojave Express](https://mojaveexpressguide.com/docs/Introduction)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="assets/icons/guide.svg" width="22" align="absmiddle" alt="" /> [Wasteland Survival Guide](https://wastelandsurvival.guide/docs/intro)
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?domain=vivanewvegas.moddinglinked.com&sz=64" width="20" align="absmiddle" alt="" /> [Viva New Vegas](https://vivanewvegas.moddinglinked.com/intro.html)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?domain=mojaveexpressguide.com&sz=64" width="20" align="absmiddle" alt="" /> [Mojave Express](https://mojaveexpressguide.com/docs/Introduction)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?domain=wastelandsurvival.guide&sz=64" width="20" align="absmiddle" alt="" /> [Wasteland Survival Guide](https://wastelandsurvival.guide/docs/intro)
 
 <img src="assets/icons/opensource.svg" width="26" align="absmiddle" alt="" /> **Open source** — not a rule, more of a pattern. I pick software that's popular for a reason, solid, and does its job — and more often than not, that turns out to be open source. Happy to pay for anything that earns it.
 
