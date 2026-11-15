@@ -43,7 +43,9 @@ I like understanding how things work, finding the right tools for the job, and b
 **③ Use or build** — if a tool does the job, use it. If nothing fits, build a focused one.
 
 <p>
-  <code>practical &gt; complex</code> · <code>useful &gt; impressive</code> · <code>docs = part of the work</code>
+  <code>practical &gt; complex</code><br>
+  <code>useful &gt; impressive</code><br>
+  <code>docs = part of the work</code>
 </p>
 
 ---
