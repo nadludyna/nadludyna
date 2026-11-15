@@ -1,8 +1,12 @@
 ### Hey 👋
 
-I am a curious tech tinkerer from Lublin, Poland. I like understanding how things work, finding the right tools, and building small, practical things that make everyday life a bit better.
+<a href="https://github.com/nadludyna">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=9FE870&vCenter=true&width=520&height=32&lines=%24+whoami+%E2%86%92+curious+tech+tinkerer;automating+the+boring+stuff;building+tools+that+should+exist;sudo+make+life+a+bit+better" alt="whoami: curious tech tinkerer" />
+</a>
 
-I automate boring stuff, experiment with Linux, and occasionally build tools just because I want them to exist.
+I'm a curious tech tinkerer from Lublin, Poland. I like understanding how things work, finding the right tools, and building small, practical things that make everyday life a bit better.
+
+I automate boring stuff, experiment with Linux, and sometimes build a tool just because I want it to exist.
 
 <p>
   <img src="https://img.shields.io/badge/GO-101510?style=flat-square&logo=go&logoColor=9FE870" alt="Go" />
@@ -17,55 +21,65 @@ I automate boring stuff, experiment with Linux, and occasionally build tools jus
 
 ### ▸ Things I've built
 
-- [**typeTrainer**](https://github.com/nadludyna/typeTrainer) — a typing trainer that finds your weak letters and builds the next words around them. My engineering thesis. Go, JavaScript, PostgreSQL.
-[Try it](https://nadludyna.github.io/typeTrainer/)
+- [**typeTrainer**](https://github.com/nadludyna/typeTrainer) — a typing trainer that finds your weak letters and builds the next words around them. My engineering thesis. `Go` `JavaScript` `PostgreSQL` · [**▶ Try it**](https://nadludyna.github.io/typeTrainer/)
 
-- [**ТЯГА**](https://github.com/nadludyna/tyaga) — paste a YouTube link, get a file. A small Go app with a browser UI, built on yt-dlp, with CI and releases for Windows, macOS and Linux.
+- [**ТЯГА**](https://github.com/nadludyna/tyaga) — paste a YouTube link, get a file. A small Go app with a browser UI, built on yt-dlp, with CI and releases for Windows, macOS and Linux. `Go` `yt-dlp` `GitHub Actions`
 
 ---
 
 ### ▸ Around the computer
 
-- **Linux:** I've explored a wide range of distributions, from mainstream choices to more niche ones, both hands-on and through articles, videos and other resources. I have a pretty good feel for the Linux distro landscape, but what matters most to me is practical value: a clean, focused system without unnecessary noise or bloat. I settled on Arch, then found CachyOS — Arch-based, polished, and a great all-rounder. KDE is my desktop environment of choice.
-- **Windows:** Windows 11 is my main system of choice right now. Clean installs from official ISOs, sensible software management, driver cleanup, WSL, Docker and PowerShell.
-- **Self-hosting:** my only self-hosted project so far is a modded Minecraft server running Fabric, with scripts to check for mod updates.
-- **Tinkering:** userscripts, Android app tweaks for my family, minimal modpacks, and getting old games running on modern PCs.
-- **Open source:** my default preference — but I'm happy to pay for software that earns it.
+- **Linux:** I've tried a lot of distros — mainstream and niche, hands-on and through articles and videos. What I care about is practical value: a clean, focused system without noise or bloat. My Linux home is CachyOS — Arch-based, polished, a great all-rounder — with KDE Plasma on top.
+- **Windows:** Windows 11 is my main system right now. Clean installs from official ISOs, sensible software management, driver cleanup, WSL, Docker and PowerShell.
+- **The pendulum:** Windows annoys me → I move to CachyOS for a while → Linux wears me out → back to Windows. Repeat. Both setups stay ready, so switching is cheap.
+- **Self-hosting:** one project so far — a modded Minecraft server on Fabric, with scripts that check for mod updates.
+- **Tinkering:** userscripts, Android app tweaks for my family, minimal modpacks, and getting old games to run on modern PCs.
+- **Open source:** my default — but I'm happy to pay for software that earns it.
 
 ---
 
 ### ▸ How I approach problems
 
-**1 - Define:** Figure out what actually needs to be solved.
+```
+1. define   →  what actually needs to be solved?
+2. search   →  does a good solution already exist?
+3. decide   →  if it does the job, use it.
+               if nothing fits, build a focused tool for exactly that need.
+```
 
-**2 - Look for an existing solution:** Check what's already available before reinventing the wheel.
-
-**3 - Use it — or build your solution:** If a tool does the job well, I use it. If nothing fits, or I need functionality that isn't there, I build a focused tool for that specific need.
-
-I prefer practical solutions over complexity, and useful tools over building something just for the sake of it. I also care about clear READMEs and documentation — they're part of the work, not an afterthought.
+Practical over complex. Useful over impressive. Clear READMEs and docs are part of the work, not an afterthought.
 
 ---
 
 ### ▸ Working with AI
 
-I've been using LLMs since GPT-3. These days, Claude is my main coding agent. I treat AI-assisted development like collaborative engineering: written project rules, separate branches for focused work, pull requests, tests, and performance checks before merging. I use other models for second opinions and code audits.
+I've been using LLMs since GPT-3. Today, Claude is my main coding agent. I treat AI-assisted development as collaborative engineering: written project rules, separate branches for focused work, pull requests, tests, and performance checks before merging. Other models give me second opinions and code audits.
 
 ---
 
 ### ▸ Beyond tech
 
-**Gaming:** I play a wide range of games, but tend to gravitate toward atmospheric worlds, RPGs, immersive sims, horror, and unusual indie experiences. I also have a soft spot for puzzles and the occasional cozy game. [Find me on Steam](https://steamcommunity.com/id/nadludyna/).
+**🎮 Gaming** — I play a lot of different things, but I keep coming back to the same few:
+`atmospheric worlds` `RPGs` `immersive sims` `horror` `weird indie` — plus a soft spot for puzzles and the occasional cozy game.
 
-**Typing:** I practice regularly on Monkeytype, track my speed and accuracy, and enjoy mechanical keyboards. Currently using a MonsGeek FUN60 Ultra with Astrolink switches. [Monkeytype profile](https://monkeytype.com/profile/nadludyna).
+**⌨️ Typing** — regular practice on Monkeytype, tracking speed and accuracy. Mechanical keyboard nerd.
+Current setup: <kbd>MonsGeek FUN60 Ultra</kbd> + <kbd>Astrolink switches</kbd>
 
-**Perspective:** I know my mind doesn't always take the standard route, and that comes with its own friction. I'm learning to work with it rather than against it. I don't romanticize the hard parts or make them my whole identity; I try to adapt, stay curious, and make room for joy. *Amor fati.*
+**🧭 Perspective** — My brain often takes a non-standard route. That's where a lot of my ideas come from — and also some of the friction. I've learned to work with it instead of fighting it: no romanticizing the hard parts, no making them my whole identity. Adapt, stay curious, leave room for joy. *Amor fati.*
 
-Outside games and typing, I'm into philosophy (Nietzsche, Hegel, Wittgenstein, consciousness and AI), music, and an ever-growing collection of useful tools, guides and channels. 
+**📚 Also into** — philosophy (Nietzsche, Hegel, Wittgenstein), questions of consciousness and AI, music, and an ever-growing collection of useful tools, guides and channels.
 
-**Languages:** Ukrainian, Russian, Polish, English; basic German.
+**🗣️ Languages** — Ukrainian · Russian · Polish · English · German *(basic)*
+
+---
 
 📍 Lublin, Poland · Open to remote work and freelance
 
-📫 [Email](mailto:oleksandrlysiuk88@gmail.com) · [LinkedIn](https://www.linkedin.com/in/oleksandr-lysiuk-606a21410)
+<p>
+  <a href="mailto:oleksandrlysiuk88@gmail.com"><img src="https://img.shields.io/badge/EMAIL-101510?style=flat-square&logo=gmail&logoColor=9FE870" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/oleksandr-lysiuk-606a21410"><img src="https://img.shields.io/badge/LINKEDIN-101510?style=flat-square" alt="LinkedIn" /></a>
+  <a href="https://steamcommunity.com/id/nadludyna/"><img src="https://img.shields.io/badge/STEAM-101510?style=flat-square&logo=steam&logoColor=9FE870" alt="Steam" /></a>
+  <a href="https://monkeytype.com/profile/nadludyna"><img src="https://img.shields.io/badge/MONKEYTYPE-101510?style=flat-square" alt="Monkeytype" /></a>
+</p>
 
 > *One must still have chaos in oneself to give birth to a dancing star.* — Nietzsche
