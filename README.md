@@ -19,20 +19,32 @@ I like understanding how things work, finding the right tools for the job, and b
 
 ### ▸ Things I've built
 
-- [**typeTrainer**](https://github.com/nadludyna/typeTrainer) — a typing trainer that finds your weak letters and builds the next words around them. My engineering thesis. `Go` `JavaScript` `PostgreSQL` · [**▶ Try it**](https://nadludyna.github.io/typeTrainer/)
+<img src="https://github.com/nadludyna/typeTrainer/raw/HEAD/web/favicon.svg" width="22" align="center" alt="" /> &nbsp;[**typeTrainer**](https://github.com/nadludyna/typeTrainer) — a typing trainer that finds your weak letters and builds the next words around them. Real words only. My engineering thesis.<br>
+`Go` `JavaScript` `PostgreSQL`
 
-- [**ТЯГА**](https://github.com/nadludyna/tyaga) — paste a YouTube link, get a file. A small Go app with a browser UI, built on yt-dlp, with CI and releases for Windows, macOS and Linux. `Go` `yt-dlp` `GitHub Actions`
+<img src="https://github.com/nadludyna/tyaga/raw/HEAD/winres/icon.svg" width="22" align="center" alt="" /> &nbsp;[**ТЯГА**](https://github.com/nadludyna/tyaga) — paste a YouTube link, get a file. One small program with a browser UI, built on yt-dlp, with releases for Windows, macOS and Linux.<br>
+`Go` `yt-dlp` `GitHub Actions`
+
+<img src="https://github.com/nadludyna/top10gier/raw/HEAD/grafika/ikona/favicon-192.png" width="22" align="center" alt="" /> &nbsp;[**TOP 10 GIER**](https://github.com/nadludyna/top10gier) — my personal hall of fame: the ten best games ever, with tiers and reviews I'll defend to the end. A one-page site for a university web course.<br>
+`HTML` `CSS` `vanilla JS`
 
 ---
 
 ### ▸ Around the computer
 
-- **Linux:** I've tried a lot of distros — mainstream and niche, hands-on and through articles and videos. What I care about is practical value: a clean, focused system without noise or bloat. My Linux home is CachyOS — Arch-based, polished, a great all-rounder — with KDE Plasma on top.
-- **Windows:** Windows 11 is my main system right now. Clean installs from official ISOs, sensible software management, driver cleanup, WSL, Docker and PowerShell.
-- **The pendulum:** Windows annoys me → I move to CachyOS for a while → Linux wears me out → back to Windows. Repeat. Both setups stay ready, so switching is cheap.
-- **Self-hosting:** one project so far — a modded Minecraft server on Fabric, with scripts that check for mod updates.
-- **Tinkering:** userscripts, Android app tweaks for my family, minimal modpacks, and getting old games to run on modern PCs.
-- **Open source:** my default — but I'm happy to pay for software that earns it.
+**🐧 Linux** — I've tried a lot of distros, mainstream and niche. What I care about is practical value: a clean, focused system without noise or bloat. My Linux home is CachyOS — Arch-based, polished, a great all-rounder.<br>
+`CachyOS` `Arch` `KDE Plasma`
+
+**🪟 Windows** — my main system right now. Clean installs from official ISOs, sensible software management, driver cleanup.<br>
+`Windows 11` `WSL` `Docker` `PowerShell`
+
+**🔁 The pendulum** — Windows annoys me → I move to CachyOS for a while → Linux wears me out → back to Windows. Repeat. Both setups stay ready, so switching is cheap.
+
+**🏠 Self-hosting** — one project so far: a modded Minecraft server on Fabric, with scripts that check for mod updates.
+
+**🔧 Tinkering** — userscripts, Android app tweaks for my family, minimal modpacks, and getting old games to run on modern PCs.
+
+**🔓 Open source** — my default. But I'm happy to pay for software that earns it.
 
 ---
 
