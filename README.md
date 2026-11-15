@@ -29,8 +29,9 @@ I automate boring stuff, experiment with Linux, and sometimes build a tool just 
 
 ### ▸ Around the computer
 
-- **Linux:** I've tried a lot of distros — mainstream and niche, hands-on and through articles and videos. What I care about is practical value: a clean, focused system without noise or bloat. I settled on Arch, then found CachyOS — Arch-based, polished, a great all-rounder. KDE Plasma on top.
-- **Windows:** Windows 11 is my daily system right now. Clean installs from official ISOs, sensible software management, driver cleanup, WSL, Docker and PowerShell.
+- **Linux:** I've tried a lot of distros — mainstream and niche, hands-on and through articles and videos. What I care about is practical value: a clean, focused system without noise or bloat. My Linux home is CachyOS — Arch-based, polished, a great all-rounder — with KDE Plasma on top.
+- **Windows:** Windows 11 is my main system right now. Clean installs from official ISOs, sensible software management, driver cleanup, WSL, Docker and PowerShell.
+- **The pendulum:** Windows annoys me → I move to CachyOS for a while → Linux wears me out → back to Windows. Repeat. Both setups stay ready, so switching is cheap.
 - **Self-hosting:** one project so far — a modded Minecraft server on Fabric, with scripts that check for mod updates.
 - **Tinkering:** userscripts, Android app tweaks for my family, minimal modpacks, and getting old games to run on modern PCs.
 - **Open source:** my default — but I'm happy to pay for software that earns it.
