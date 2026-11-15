@@ -95,7 +95,7 @@ Current setup: <a href="https://www.monsgeek.com"><kbd>MonsGeek FUN60 Ultra</kbd
 
 <img src="assets/icons/perspective.svg" width="20" align="absmiddle" alt="" /> **Perspective** — I'm AuDHD: autistic and ADHD at once. I say it openly because it makes me easier to understand — for other people and for myself. My brain often takes a non-standard route. That's where a lot of my ideas come from — and also some of the friction. I've learned to work with it instead of fighting it: no romanticizing the hard parts, no making them my whole identity. Adapt, stay curious, leave room for joy. *[Amor fati](https://en.wikipedia.org/wiki/Amor_fati).*
 
-<img src="assets/icons/music.svg" width="20" align="absmiddle" alt="" /> **Music** — a tuning knob for my nervous system: sometimes to balance a mood, sometimes to lean into it.
+<img src="assets/icons/music.svg" width="20" align="absmiddle" alt="" /> **Music** — a tuning knob for my nervous system: sometimes to balance a mood, sometimes to lean into it. These are just the highlights: my taste swings like a pendulum — something clicks, wears off, and later I come back and hear it anew.
 
 <table>
   <tr>
