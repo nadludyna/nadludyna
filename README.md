@@ -60,7 +60,7 @@ I've been using LLMs since GPT-3. These days, Claude is my main coding agent. I 
 
 **Perspective:** I know my mind doesn't always take the standard route, and that comes with its own friction. I'm learning to work with it rather than against it. I don't romanticize the hard parts or make them my whole identity; I try to adapt, stay curious, and make room for joy. *Amor fati.*
 
-Outside games and typing, I'm into philosophy (Nietzsche, Hegel, brain, consciousness and AI), music, and an ever-growing collection of useful tools, guides and channels on YT. 
+Outside games and typing, I'm into philosophy (Nietzsche, Hegel, Wittgenstein, consciousness and AI), music, and an ever-growing collection of useful tools, guides and channels on YT. 
 
 **Languages:** Ukrainian, Russian, Polish, English; basic German.
 
