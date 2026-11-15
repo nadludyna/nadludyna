@@ -79,7 +79,7 @@ Current setup: <kbd>MonsGeek FUN60 Ultra</kbd> + <kbd>Astrolink switches</kbd>
   <a href="mailto:oleksandrlysiuk88@gmail.com"><img src="https://img.shields.io/badge/EMAIL-101510?style=flat-square&logo=gmail&logoColor=9FE870" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/oleksandr-lysiuk-606a21410"><img src="https://img.shields.io/badge/LINKEDIN-101510?style=flat-square" alt="LinkedIn" /></a>
   <a href="https://steamcommunity.com/id/nadludyna/"><img src="https://img.shields.io/badge/STEAM-101510?style=flat-square&logo=steam&logoColor=9FE870" alt="Steam" /></a>
-  <a href="https://monkeytype.com/profile/nadludyna"><img src="https://img.shields.io/badge/MONKEYTYPE-101510?style=flat-square" alt="Monkeytype" /></a>
+  <a href="https://monkeytype.com/profile/nadludyna"><img src="https://img.shields.io/badge/MONKEYTYPE-101510?style=flat-square&logo=monkeytype&logoColor=9FE870" alt="Monkeytype" /></a>
 </p>
 
 > *One must still have chaos in oneself to give birth to a dancing star.* — Nietzsche
