@@ -4,13 +4,8 @@
 
 <img src="assets/terminal.svg" width="520" alt="$ whoami → curious tech tinkerer" />
 
-I like understanding how things work, finding the right tools for the job, and building small, practical things that make everyday life a bit better — mostly in Go.
-
-<p>
-  <a href="https://go.dev"><img src="https://img.shields.io/badge/GO-101510?style=flat-square&logo=go&logoColor=9FE870" alt="Go" /></a>
-  <a href="https://www.kernel.org"><img src="https://img.shields.io/badge/LINUX-101510?style=flat-square&logo=linux&logoColor=9FE870" alt="Linux" /></a>
-  <a href="https://www.docker.com"><img src="https://img.shields.io/badge/DOCKER-101510?style=flat-square&logo=docker&logoColor=9FE870" alt="Docker" /></a>
-</p>
+Go developer who automates the boring stuff and builds the small tools that should exist.<br>
+Curious by default, AuDHD by design.
 
 **Currently going deeper into:** DevOps.
 

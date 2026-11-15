@@ -1,59 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="520" height="112" viewBox="0 0 520 112" role="img" aria-label="whoami: curious tech tinkerer">
-<style>
-text{font-family:ui-monospace,SFMono-Regular,"JetBrains Mono",Consolas,"Liberation Mono",monospace;font-size:16px;white-space:pre}
-.p{fill:#9FE870;font-weight:700} .c{fill:#7DD3FC;font-weight:700} .a{fill:#FCD34D}
-.r{fill:#6B7A6B} .out{fill:#E6EDF3} .cur{fill:#9FE870;animation:b 1s steps(1) infinite}
-@keyframes b{50%{opacity:0}}
-@keyframes v0{0%,0.000%{opacity:0}0.062%,24.688%{opacity:1}25.000%,100%{opacity:0}}
-.s0{opacity:0;animation:v0 16.0s linear infinite}
-@keyframes c0{0%{width:0}1.562%{width:2px}1.938%{width:12px}2.312%{width:21px}2.688%{width:31px}3.062%{width:40px}3.438%{width:50px}3.812%{width:60px}100%{width:480px}}
-.k0{animation:c0 16.0s steps(1,end) infinite}
-@keyframes o0{0%,5.062%{opacity:0}5.375%,100%{opacity:1}}
-.o0{opacity:0;animation:o0 16.0s linear infinite}
-@keyframes v1{0%,25.000%{opacity:0}25.062%,49.688%{opacity:1}50.000%,100%{opacity:0}}
-.s1{opacity:0;animation:v1 16.0s linear infinite}
-@keyframes c1{0%{width:0}26.562%{width:2px}26.937%{width:12px}27.312%{width:21px}27.688%{width:31px}28.062%{width:40px}28.438%{width:50px}28.813%{width:60px}29.188%{width:69px}29.563%{width:79px}29.938%{width:88px}30.312%{width:98px}30.688%{width:108px}31.062%{width:117px}31.438%{width:127px}100%{width:480px}}
-.k1{animation:c1 16.0s steps(1,end) infinite}
-@keyframes o1{0%,32.688%{opacity:0}33.000%,100%{opacity:1}}
-.o1{opacity:0;animation:o1 16.0s linear infinite}
-@keyframes v2{0%,50.000%{opacity:0}50.062%,74.688%{opacity:1}75.000%,100%{opacity:0}}
-.s2{opacity:0;animation:v2 16.0s linear infinite}
-@keyframes c2{0%{width:0}51.562%{width:2px}51.938%{width:12px}52.312%{width:21px}52.688%{width:31px}53.062%{width:40px}53.438%{width:50px}53.812%{width:60px}54.188%{width:69px}54.562%{width:79px}54.937%{width:88px}55.312%{width:98px}55.688%{width:108px}56.063%{width:117px}56.437%{width:127px}56.812%{width:136px}57.188%{width:146px}57.563%{width:156px}57.938%{width:165px}58.312%{width:175px}58.688%{width:184px}59.062%{width:194px}59.438%{width:204px}59.812%{width:213px}60.187%{width:223px}60.562%{width:232px}60.938%{width:242px}61.312%{width:252px}61.687%{width:261px}100%{width:480px}}
-.k2{animation:c2 16.0s steps(1,end) infinite}
-@keyframes o2{0%,62.937%{opacity:0}63.250%,100%{opacity:1}}
-.o2{opacity:0;animation:o2 16.0s linear infinite}
-@keyframes v3{0%,75.000%{opacity:0}75.062%,99.688%{opacity:1}100.000%,100%{opacity:0}}
-.s3{opacity:0;animation:v3 16.0s linear infinite}
-@keyframes c3{0%{width:0}76.562%{width:2px}76.938%{width:12px}77.312%{width:21px}77.688%{width:31px}78.062%{width:40px}78.438%{width:50px}78.812%{width:60px}79.188%{width:69px}79.562%{width:79px}79.938%{width:88px}80.312%{width:98px}80.688%{width:108px}81.062%{width:117px}81.438%{width:127px}81.812%{width:136px}100%{width:480px}}
-.k3{animation:c3 16.0s steps(1,end) infinite}
-@keyframes o3{0%,83.062%{opacity:0}83.375%,100%{opacity:1}}
-.o3{opacity:0;animation:o3 16.0s linear infinite}
-</style>
-<rect width="520" height="112" rx="10" fill="#101510" stroke="#2A3A2A"/>
-<circle cx="18" cy="16" r="5" fill="#FF5F57"/><circle cx="34" cy="16" r="5" fill="#FEBC2E"/><circle cx="50" cy="16" r="5" fill="#28C840"/>
-<text x="260" y="21" text-anchor="middle" style="font-size:12px;fill:#6B7A6B">nadludyna@lublin: ~</text>
-<g class="s0">
-  <clipPath id="cp0"><rect class="k0" x="34" y="44" width="0" height="26"/></clipPath>
-  <text x="16" y="62" class="p">$</text>
-  <text x="34" y="62" clip-path="url(#cp0)"><tspan class="c">whoami</tspan></text>
-  <text x="16" y="90" class="o0"><tspan class="r">→</tspan><tspan class="out"> curious tech tinkerer</tspan><tspan class="cur">▋</tspan></text>
-</g>
-<g class="s1">
-  <clipPath id="cp1"><rect class="k1" x="34" y="44" width="0" height="26"/></clipPath>
-  <text x="16" y="62" class="p">$</text>
-  <text x="34" y="62" clip-path="url(#cp1)"><tspan class="c">cat</tspan><tspan class="a"> motto.txt</tspan></text>
-  <text x="16" y="90" class="o1"><tspan class="r">→</tspan><tspan class="out"> automating the boring stuff</tspan><tspan class="cur">▋</tspan></text>
-</g>
-<g class="s2">
-  <clipPath id="cp2"><rect class="k2" x="34" y="44" width="0" height="26"/></clipPath>
-  <text x="16" y="62" class="p">$</text>
-  <text x="34" y="62" clip-path="url(#cp2)"><tspan class="c">./build</tspan><tspan class="a"> --because-i-want-it</tspan></text>
-  <text x="16" y="90" class="o2"><tspan class="r">→</tspan><tspan class="out"> tools that should exist</tspan><tspan class="cur">▋</tspan></text>
-</g>
-<g class="s3">
-  <clipPath id="cp3"><rect class="k3" x="34" y="44" width="0" height="26"/></clipPath>
-  <text x="16" y="62" class="p">$</text>
-  <text x="34" y="62" clip-path="url(#cp3)"><tspan class="c">sudo make</tspan><tspan class="a"> life</tspan></text>
-  <text x="16" y="90" class="o3"><tspan class="r">→</tspan><tspan class="out"> a bit better</tspan><tspan class="cur">▋</tspan></text>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="44" viewBox="0 0 520 44" role="img" aria-label="whoami: curious tech tinkerer">
+<style>text{font-family:ui-monospace,SFMono-Regular,"JetBrains Mono",Consolas,"DejaVu Sans Mono",monospace;font-size:16px;white-space:pre}
+.p{fill:#9FE870;font-weight:700}.c{fill:#7DD3FC;font-weight:700}.a{fill:#FCD34D}.r{fill:#6B7A6B}.out{fill:#E6EDF3}.cur{fill:#9FE870;animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}
+@keyframes v0{0%,0.000%{opacity:0}0.062%,24.688%{opacity:1}25.000%,100%{opacity:0}}.s0{opacity:0;animation:v0 16.0s linear infinite}
+@keyframes c0{0%{width:0}1.562%{width:2px}1.938%{width:12px}2.312%{width:21px}2.688%{width:31px}3.062%{width:40px}3.438%{width:50px}3.812%{width:60px}100%{width:480px}}.k0{animation:c0 16.0s linear infinite}
+@keyframes o0{0%,4.750%{opacity:0}5.687%,100%{opacity:1}}.o0{opacity:0;animation:o0 16.0s linear infinite}
+@keyframes v1{0%,25.000%{opacity:0}25.062%,49.688%{opacity:1}50.000%,100%{opacity:0}}.s1{opacity:0;animation:v1 16.0s linear infinite}
+@keyframes c1{0%{width:0}26.562%{width:2px}26.937%{width:12px}27.312%{width:21px}27.688%{width:31px}28.062%{width:40px}28.438%{width:50px}100%{width:480px}}.k1{animation:c1 16.0s linear infinite}
+@keyframes o1{0%,29.375%{opacity:0}30.312%,100%{opacity:1}}.o1{opacity:0;animation:o1 16.0s linear infinite}
+@keyframes v2{0%,50.000%{opacity:0}50.062%,74.688%{opacity:1}75.000%,100%{opacity:0}}.s2{opacity:0;animation:v2 16.0s linear infinite}
+@keyframes c2{0%{width:0}51.562%{width:2px}51.938%{width:12px}52.312%{width:21px}52.688%{width:31px}53.062%{width:40px}53.438%{width:50px}53.812%{width:60px}54.188%{width:69px}54.562%{width:79px}54.937%{width:88px}55.312%{width:98px}55.688%{width:108px}56.063%{width:117px}56.437%{width:127px}100%{width:480px}}.k2{animation:c2 16.0s linear infinite}
+@keyframes o2{0%,57.375%{opacity:0}58.312%,100%{opacity:1}}.o2{opacity:0;animation:o2 16.0s linear infinite}
+@keyframes v3{0%,75.000%{opacity:0}75.062%,99.688%{opacity:1}100.000%,100%{opacity:0}}.s3{opacity:0;animation:v3 16.0s linear infinite}
+@keyframes c3{0%{width:0}76.562%{width:2px}76.938%{width:12px}77.312%{width:21px}77.688%{width:31px}78.062%{width:40px}78.438%{width:50px}78.812%{width:60px}100%{width:480px}}.k3{animation:c3 16.0s linear infinite}
+@keyframes o3{0%,79.750%{opacity:0}80.688%,100%{opacity:1}}.o3{opacity:0;animation:o3 16.0s linear infinite}</style>
+<rect width="520" height="44" rx="8" fill="#101510"/>
+<text x="14" y="27" class="p">$</text>
+<g class="s0"><clipPath id="cp0"><rect class="k0" x="32" y="8" width="0" height="28"/></clipPath>
+<text x="32" y="27" clip-path="url(#cp0)"><tspan class="c">whoami</tspan></text>
+<text x="106" y="27" class="o0"><tspan class="r">→ </tspan><tspan class="out">curious tech tinkerer</tspan><tspan class="cur">▋</tspan></text></g>
+<g class="s1"><clipPath id="cp1"><rect class="k1" x="32" y="8" width="0" height="28"/></clipPath>
+<text x="32" y="27" clip-path="url(#cp1)"><tspan class="c">stack</tspan></text>
+<text x="96" y="27" class="o1"><tspan class="r">→ </tspan><tspan class="out">Go · Linux · Docker</tspan><tspan class="cur">▋</tspan></text></g>
+<g class="s2"><clipPath id="cp2"><rect class="k2" x="32" y="8" width="0" height="28"/></clipPath>
+<text x="32" y="27" clip-path="url(#cp2)"><tspan class="c">cat</tspan><tspan class="a"> motto.txt</tspan></text>
+<text x="173" y="27" class="o2"><tspan class="r">→ </tspan><tspan class="out">define, search, build</tspan><tspan class="cur">▋</tspan></text></g>
+<g class="s3"><clipPath id="cp3"><rect class="k3" x="32" y="8" width="0" height="28"/></clipPath>
+<text x="32" y="27" clip-path="url(#cp3)"><tspan class="c">status</tspan></text>
+<text x="106" y="27" class="o3"><tspan class="r">→ </tspan><tspan class="out">open to remote &amp; freelance</tspan><tspan class="cur">▋</tspan></text></g>
 </svg>
