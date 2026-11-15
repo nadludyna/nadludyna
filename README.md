@@ -112,8 +112,10 @@ And the exact opposite: `breakcore` `jungle` `digital hardcore` `rage rap` `trap
 
 <p>
   <a href="mailto:oleksandrlysiuk88@gmail.com"><img src="https://img.shields.io/badge/EMAIL_%E2%86%97-9FE870?style=for-the-badge&logo=gmail&logoColor=101510" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/oleksandr-lysiuk-606a21410"><img src="https://img.shields.io/badge/LINKEDIN_%E2%86%97-9FE870?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://signal.me/#eu/jYQ_tF8RVF1xH5HM1sRJypxOGtHM7Rxzm1rRiPzu9L9B-57MHMhCIpVary7ETOg7"><img src="https://img.shields.io/badge/SIGNAL_%E2%86%97-9FE870?style=for-the-badge&logo=signal&logoColor=101510" alt="Signal" /></a>
+  <a href="https://m.me/oleklysiuk167"><img src="https://img.shields.io/badge/MESSENGER_%E2%86%97-9FE870?style=for-the-badge&logo=messenger&logoColor=101510" alt="Messenger" /></a>
   <br>
+  <a href="https://www.linkedin.com/in/oleksandr-lysiuk-606a21410"><img src="https://img.shields.io/badge/LINKEDIN_%E2%86%97-9FE870?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://steamcommunity.com/id/nadludyna/"><img src="https://img.shields.io/badge/STEAM_%E2%86%97-9FE870?style=for-the-badge&logo=steam&logoColor=101510" alt="Steam" /></a>
   <a href="https://monkeytype.com/profile/nadludyna"><img src="https://img.shields.io/badge/MONKEYTYPE_%E2%86%97-9FE870?style=for-the-badge&logo=monkeytype&logoColor=101510" alt="Monkeytype" /></a>
 </p>
