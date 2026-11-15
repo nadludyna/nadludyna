@@ -13,7 +13,7 @@ I like understanding how things work, finding the right tools for the job, and b
   <img src="https://img.shields.io/badge/DOCKER-101510?style=flat-square&logo=docker&logoColor=9FE870" alt="Docker" />
 </p>
 
-**Main language:** Go · **Currently going deeper into:** automation, Docker and CI/CD.
+**Main language:** [Go](https://go.dev) · **Currently going deeper into:** automation, [Docker](https://www.docker.com) and CI/CD.
 
 ---
 
@@ -22,7 +22,7 @@ I like understanding how things work, finding the right tools for the job, and b
 <img src="https://github.com/nadludyna/typeTrainer/raw/HEAD/web/favicon.svg" width="22" align="center" alt="" /> &nbsp;[**typeTrainer**](https://github.com/nadludyna/typeTrainer) — a typing trainer that finds your weak letters and builds the next words around them. Real words only. My engineering thesis.<br>
 `Go` `JavaScript` `PostgreSQL`
 
-<img src="https://github.com/nadludyna/tyaga/raw/HEAD/winres/icon.svg" width="22" align="center" alt="" /> &nbsp;[**ТЯГА**](https://github.com/nadludyna/tyaga) — paste a YouTube link, get a file. One small program with a browser UI, built on yt-dlp, with releases for Windows, macOS and Linux.<br>
+<img src="https://github.com/nadludyna/tyaga/raw/HEAD/winres/icon.svg" width="22" align="center" alt="" /> &nbsp;[**ТЯГА**](https://github.com/nadludyna/tyaga) — paste a YouTube link, get a file. One small program with a browser UI, built on [yt-dlp](https://github.com/yt-dlp/yt-dlp), with releases for Windows, macOS and Linux.<br>
 `Go` `yt-dlp` `GitHub Actions`
 
 <img src="https://github.com/nadludyna/top10gier/raw/HEAD/grafika/ikona/favicon-192.png" width="22" align="center" alt="" /> &nbsp;[**TOP 10 GIER**](https://github.com/nadludyna/top10gier) — my personal hall of fame: the ten best games ever, with tiers and reviews I'll defend to the end. A one-page site for a university web course.<br>
@@ -32,17 +32,17 @@ I like understanding how things work, finding the right tools for the job, and b
 
 ### ▸ Around the computer
 
-**🐧 Linux** — I've tried a lot of distros, mainstream and niche. What I care about is practical value: a clean, focused system without noise or bloat. My Linux home is CachyOS — Arch-based, polished, a great all-rounder.<br>
+**🐧 Linux** — I've tried a lot of distros, mainstream and niche. What I care about is practical value: a clean, focused system without noise or bloat. My Linux home is [CachyOS](https://cachyos.org) — built on [Arch](https://archlinux.org), polished, a great all-rounder, with [KDE Plasma](https://kde.org/plasma-desktop/) on top.<br>
 `CachyOS` `Arch` `KDE Plasma`
 
-**🪟 Windows** — my main system right now. Clean installs from official ISOs, sensible software management, driver cleanup.<br>
+**🪟 Windows** — my main system right now. Clean installs from [official ISOs](https://www.microsoft.com/software-download/windows11), sensible software management, driver cleanup.<br>
 `Windows 11` `WSL` `Docker` `PowerShell`
 
 **🔁 The pendulum** — Windows annoys me → I move to CachyOS for a while → Linux wears me out → back to Windows. Repeat. Both setups stay ready, so switching is cheap.
 
-**🏠 Self-hosting** — one project so far: a modded Minecraft server on Fabric, with scripts that check for mod updates.
+**🏠 Self-hosting** — one project so far: a modded [Minecraft](https://www.minecraft.net) server on [Fabric](https://fabricmc.net), with scripts that check for mod updates.
 
-**🔧 Tinkering** — userscripts, Android app tweaks for my family, minimal modpacks, and getting old games to run on modern PCs.
+**🔧 Tinkering** — userscripts, Android app tweaks for my family (like [Morphe](https://morphe.software) patches for YouTube), minimal modpacks, and getting old games to run on modern PCs.
 
 **🔓 Open source** — my default. But I'm happy to pay for software that earns it.
 
@@ -70,15 +70,15 @@ I like understanding how things work, finding the right tools for the job, and b
   <img src="https://img.shields.io/badge/GEMINI-101510?style=flat-square&logo=googlegemini&logoColor=9FE870" alt="Gemini" />
 </p>
 
-I've been using LLMs since GPT-3. Today, Claude is my main coding agent — and just as much a thinking partner.
+I've been using LLMs since GPT-3. Today, [Claude](https://claude.ai) is my main coding agent — and just as much a thinking partner.
 
 `raw thought` → `talk it through` → `let it brew` → `.md in the vault` → `notes pile up` → `build`
 
-**Thinking:** I say raw thoughts straight to Claude and talk them through. Then I let them brew — walk around, come back, finish the conversation. Whatever's worth keeping becomes a Markdown note in my Obsidian vault.
+**Thinking:** I say raw thoughts straight to Claude and talk them through. Then I let them brew — walk around, come back, finish the conversation. Whatever's worth keeping becomes a Markdown note in my [Obsidian](https://obsidian.md) vault.
 
 **Building:** once enough notes and references pile up, something clicks: *okay, this could be a thing.* I point Claude to the relevant part of the vault, and we build from my own notes instead of a blank prompt. Then it's collaborative engineering: project rules, focused branches, pull requests, tests, and performance checks before merging.
 
-**Other models:** I've tried most mainstream and Chinese ones (GLM 5.3 was a pleasant surprise), but Claude stays the strongest all-rounder for me. Gemini covers side chats and images; other models handle second opinions and code audits.
+**Other models:** I've tried most mainstream and Chinese ones ([GLM 5.3](https://z.ai) was a pleasant surprise), but Claude stays the strongest all-rounder for me. [Gemini](https://gemini.google.com) covers side chats and images; other models handle second opinions and code audits.
 
 ---
 
@@ -87,17 +87,17 @@ I've been using LLMs since GPT-3. Today, Claude is my main coding agent — and 
 **🎮 Gaming** — I play a lot of different things, but I keep coming back to the same few:<br>
 `atmospheric worlds` `RPGs` `immersive sims` `horror` `weird indie` — plus a soft spot for puzzles and the occasional cozy game.
 
-**⌨️ Typing** — regular practice on Monkeytype, tracking speed and accuracy. Mechanical keyboard nerd.<br>
-Current setup: <kbd>MonsGeek FUN60 Ultra</kbd> + <kbd>Astrolink switches</kbd>
+**⌨️ Typing** — regular practice on [Monkeytype](https://monkeytype.com), tracking speed and accuracy. Mechanical keyboard nerd.<br>
+Current setup: <a href="https://www.monsgeek.com"><kbd>MonsGeek FUN60 Ultra</kbd></a> + <kbd>Astrolink switches</kbd>
 
-**🧭 Perspective** — My brain often takes a non-standard route. That's where a lot of my ideas come from — and also some of the friction. I've learned to work with it instead of fighting it: no romanticizing the hard parts, no making them my whole identity. Adapt, stay curious, leave room for joy. *Amor fati.*
+**🧭 Perspective** — My brain often takes a non-standard route. That's where a lot of my ideas come from — and also some of the friction. I've learned to work with it instead of fighting it: no romanticizing the hard parts, no making them my whole identity. Adapt, stay curious, leave room for joy. *[Amor fati](https://en.wikipedia.org/wiki/Amor_fati).*
 
 **🎧 Music** — a tuning knob for my nervous system: sometimes to balance a mood, sometimes to lean into it.<br>
 Mostly atmosphere: `ethereal ambient` `dark ambient` `plunderphonics` `hauntology` `vaporwave` `barber beats` `muzak` `IDM` `glitch` `experimental` `game soundtracks` `liminal-space scores`<br>
 Then: `alternative rock` `art rock` `progressive rock` `avant-prog` `progressive metal` `avant-garde metal` `lo-fi experimental indie`<br>
 And the exact opposite: `breakcore` `jungle` `digital hardcore` `rage rap` `trap` `hyperpop`
 
-**📚 Also into** — philosophy (Nietzsche, Hegel, Wittgenstein), questions of consciousness and AI, and an ever-growing collection of useful tools, guides and channels.
+**📚 Also into** — philosophy ([Nietzsche](https://plato.stanford.edu/entries/nietzsche/), [Hegel](https://plato.stanford.edu/entries/hegel/), [Wittgenstein](https://plato.stanford.edu/entries/wittgenstein/)), questions of consciousness and AI, and an ever-growing collection of useful tools, guides and channels.
 
 **🗣️ Languages** — Ukrainian · Russian · Polish · English · German *(basic)*
 
