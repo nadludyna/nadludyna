@@ -38,14 +38,20 @@ I like understanding how things work, finding the right tools for the job, and b
 
 ### ▸ How I approach problems
 
-```
-1. define   →  what actually needs to be solved?
-2. search   →  does a good solution already exist?
-3. decide   →  if it does the job, use it.
-               if nothing fits, build a focused tool for exactly that need.
+```mermaid
+%%{init: {"theme": "base", "themeVariables": {"fontFamily": "JetBrains Mono, monospace", "lineColor": "#9FE870", "primaryTextColor": "#9FE870", "textColor": "#9FE870", "edgeLabelBackground": "#101510"}}}%%
+flowchart LR
+    P(["🧩 problem"]) --> D["<b>1 · define</b><br/>what actually<br/>needs solving?"]
+    D --> S{"<b>2 · search</b><br/>does a good<br/>tool exist?"}
+    S -- yes --> U["✅ <b>use it</b>"]
+    S -- no --> B["🛠️ <b>build</b><br/>a focused tool<br/>for exactly that"]
+    classDef box fill:#101510,stroke:#9FE870,color:#9FE870,stroke-width:1.5px
+    class P,D,S,U,B box
 ```
 
-Practical over complex. Useful over impressive. Clear READMEs and docs are part of the work, not an afterthought.
+<p>
+  <code>practical &gt; complex</code> · <code>useful &gt; impressive</code> · <code>docs = part of the work</code>
+</p>
 
 ---
 
