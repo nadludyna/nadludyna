@@ -42,7 +42,10 @@ I like understanding how things work, finding the right tools for the job, and b
 
 **🏠 Self-hosting** — one project so far: a modded [Minecraft](https://www.minecraft.net) server on [Fabric](https://fabricmc.net), with scripts that check for mod updates.
 
-**🔧 Tinkering** — userscripts, Android app tweaks for my family (like [Morphe](https://morphe.software) patches for YouTube), minimal Minecraft modpacks (in [Prism Launcher](https://prismlauncher.org) — the best way to juggle instances), and getting old games to run on modern PCs.
+**🔧 Tinkering** — userscripts, Android app tweaks for my family (like [Morphe](https://morphe.software) patches for YouTube), and getting old games to run on modern PCs.
+
+**🧩 Modding** — minimal Minecraft modpacks in [Prism Launcher](https://prismlauncher.org), the best way to juggle instances. And Fallout: New Vegas / [Tale of Two Wastelands](https://taleoftwowastelands.com), built by the guides that actually work:<br>
+[Viva New Vegas](https://vivanewvegas.moddinglinked.com/intro.html) · [Mojave Express](https://mojaveexpressguide.com/docs/Introduction) · [Wasteland Survival Guide](https://wastelandsurvival.guide/docs/intro)
 
 **🔓 Open source** — my default. But I'm happy to pay for software that earns it.
 
