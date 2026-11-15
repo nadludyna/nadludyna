@@ -2,11 +2,10 @@
 
 ### Hey <img src="assets/icons/hey.svg" width="30" align="absmiddle" alt="" />
 
-<img src="assets/terminal.svg" width="520" alt="$ whoami → curious tech tinkerer" />
+<img src="assets/terminal.svg" width="480" alt="$ whoami → curious tech tinkerer" />
 
 Go developer who automates the boring stuff and builds the small tools that should exist.<br>
-Curious by default, AuDHD by design.
-
+Curious by default, AuDHD by design.<br>
 **Currently going deeper into:** DevOps.
 
 </div>
