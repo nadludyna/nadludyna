@@ -1,3 +1,5 @@
+<div align="center">
+
 ### Hey <img src="assets/icons/hey.svg" width="30" align="absmiddle" alt="" />
 
 <img src="assets/terminal.svg" width="520" alt="$ whoami → curious tech tinkerer" />
@@ -12,6 +14,8 @@ I like understanding how things work, finding the right tools for the job, and b
 </p>
 
 **Currently going deeper into:** DevOps.
+
+</div>
 
 ---
 
@@ -53,6 +57,8 @@ I like understanding how things work, finding the right tools for the job, and b
 
 ### ▸ How I approach problems
 
+<div align="center">
+
 <img src="assets/icons/step1.svg" width="26" align="absmiddle" alt="1" /> **Define** — figure out what actually needs solving.<br>
 <img src="assets/icons/step2.svg" width="26" align="absmiddle" alt="2" /> **Search** — check what already exists before reinventing the wheel.<br>
 <img src="assets/icons/step3.svg" width="26" align="absmiddle" alt="3" /> **Use or build** — if a tool does the job, use it. If nothing fits, build a focused one.
@@ -63,9 +69,13 @@ I like understanding how things work, finding the right tools for the job, and b
   <code>docs = part of the work</code>
 </p>
 
+</div>
+
 ---
 
 ### ▸ Working with AI
+
+<div align="center">
 
 <p>
   <img src="https://img.shields.io/badge/CLAUDE-101510?style=flat-square&logo=claude&logoColor=9FE870" alt="Claude" />
@@ -76,6 +86,8 @@ I like understanding how things work, finding the right tools for the job, and b
 I've been using LLMs since GPT-3. Today, [Claude](https://claude.ai) is my main coding agent — and just as much a thinking partner.
 
 `raw thought` → `talk it through` → `let it brew` → `.md in the vault` → `notes pile up` → `build`
+
+</div>
 
 **Thinking:** I say raw thoughts straight to Claude and talk them through. Then I let them brew — walk around, come back, finish the conversation. Whatever's worth keeping becomes a Markdown note in my [Obsidian](https://obsidian.md) vault.
 
@@ -141,6 +153,8 @@ Current setup: <a href="https://www.monsgeek.com"><kbd>MonsGeek FUN60 Ultra</kbd
 
 ---
 
+<div align="center">
+
 <img src="assets/icons/pin.svg" width="26" align="absmiddle" alt="" /> Lublin, Poland · Open to remote work and freelance
 
 **Find me ↓**
@@ -156,4 +170,6 @@ Current setup: <a href="https://www.monsgeek.com"><kbd>MonsGeek FUN60 Ultra</kbd
   <a href="https://www.youtube.com/@nadludyna"><img src="https://img.shields.io/badge/YOUTUBE_%E2%86%97-9FE870?style=for-the-badge&logo=youtube&logoColor=101510" alt="YouTube" /></a>
 </p>
 
-> *One must still have chaos in oneself to give birth to a dancing star.* — Nietzsche
+*One must still have chaos in oneself to give birth to a dancing star.* — Nietzsche
+
+</div>
