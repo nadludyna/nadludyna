@@ -1,81 +1,71 @@
-<div align="center">
-
 ### Hey <img src="assets/icons/hey.svg" width="30" align="absmiddle" alt="" />
 
-<img src="assets/terminal.svg" width="520" alt="$ whoami → curious tech tinkerer" />
+<img src="assets/terminal.svg" width="480" alt="$ whoami → curious tech tinkerer" />
 
-Go developer who automates the boring stuff and builds the small tools that should exist.<br>
-Curious by default, AuDHD by design.
-
+**Engineer, not a developer:** I figure out what's needed, use whatever gets results, and build the rest with AI.<br>
+I pick things up fast — from zero to something useful in hours, not weeks.<br>
+A vibe coder — with taste. Curious by default, AuDHD by design.<br>
 **Currently going deeper into:** DevOps.
 
-</div>
-
 ---
+
+<div align="center">
 
 ### ▸ Things I've built so far
 
 <img src="https://github.com/nadludyna/typeTrainer/raw/HEAD/web/favicon.svg" width="28" align="absmiddle" alt="" /> &nbsp;[**typeTrainer**](https://github.com/nadludyna/typeTrainer) — a typing trainer that finds your weak letters and builds the next words around them. Real words only. My engineering thesis.<br>
-`Go` `JavaScript` `PostgreSQL`
+<img src="https://img.shields.io/badge/GO-101510?style=flat-square" alt="GO" /> <img src="https://img.shields.io/badge/JAVASCRIPT-101510?style=flat-square" alt="JAVASCRIPT" /> <img src="https://img.shields.io/badge/POSTGRESQL-101510?style=flat-square" alt="POSTGRESQL" />
 
 <img src="https://github.com/nadludyna/tyaga/raw/HEAD/winres/icon.svg" width="28" align="absmiddle" alt="" /> &nbsp;[**ТЯГА**](https://github.com/nadludyna/tyaga) — paste a YouTube link, get a file. One small program with a browser UI, built on [yt-dlp](https://github.com/yt-dlp/yt-dlp), with releases for Windows, macOS and Linux.<br>
-`Go` `GitHub Actions`
+<img src="https://img.shields.io/badge/GO-101510?style=flat-square" alt="GO" /> <img src="https://img.shields.io/badge/GITHUB_ACTIONS-101510?style=flat-square" alt="GITHUB ACTIONS" />
 
 <img src="https://github.com/nadludyna/top10gier/raw/HEAD/grafika/ikona/favicon-192.png" width="28" align="absmiddle" alt="" /> &nbsp;[**TOP 10 GIER**](https://github.com/nadludyna/top10gier) — my personal hall of fame: ten favorite games, with tiers and very subjective reviews. A one-page site for a university web course.<br>
-`HTML` `CSS` `vanilla JS`
+<img src="https://img.shields.io/badge/HTML-101510?style=flat-square" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-101510?style=flat-square" alt="CSS" /> <img src="https://img.shields.io/badge/VANILLA_JS-101510?style=flat-square" alt="VANILLA JS" />
 
-<p align="center">
+<p>
   <a href="https://github.com/nadludyna/typeTrainer"><img src="https://github.com/nadludyna/typeTrainer/raw/HEAD/docs/media/social-preview.png" height="150" alt="typeTrainer" /></a>
   <a href="https://github.com/nadludyna/tyaga"><img src="https://github.com/nadludyna/tyaga/raw/HEAD/docs/screenshot.png" height="150" alt="ТЯГА" /></a>
   <a href="https://nadludyna.github.io/top10gier/"><img src="assets/shots/top10gier.jpg" height="150" alt="TOP 10 GIER" /></a>
 </p>
 
+</div>
+
 ---
 
 ### ▸ Around the computer
 
-<img src="assets/icons/linux.svg" width="26" align="absmiddle" alt="" /> **Linux** — I've tried quite a few distros, some hands-on, some just by reading and watching about them. What I care about is practical value: a clean, focused system without noise or bloat. My Linux home is [CachyOS](https://cachyos.org) — built on [Arch](https://archlinux.org), polished, a great all-rounder, with KDE Plasma on top.
+<img src="assets/icons/linux.svg" width="26" align="absmiddle" alt="" /> **Linux** — Distro-curious, practical first: a clean, focused system without noise or bloat. Home base is [CachyOS](https://cachyos.org) — built on [Arch](https://archlinux.org) — with KDE Plasma.
 
-<img src="assets/icons/windows.svg" width="26" align="absmiddle" alt="" /> **Windows** — my main system right now. Clean installs with [Rufus](https://rufus.ie) (it even downloads the official ISO for you) or [balenaEtcher](https://etcher.balena.io). Then [WinUtil](https://github.com/ChrisTitusTech/winutil) by Chris Titus Tech for tweaks and debloat, [UniGetUI](https://devolutions.net/unigetui/) to install and update everything in one place, and driver cleanup. Day to day: WSL and PowerShell.
+<img src="assets/icons/windows.svg" width="26" align="absmiddle" alt="" /> **Windows** — Main system right now. Clean installs via [Rufus](https://rufus.ie) or [balenaEtcher](https://etcher.balena.io), [WinUtil](https://github.com/ChrisTitusTech/winutil) for tweaks, [UniGetUI](https://devolutions.net/unigetui/) for updates. WSL and PowerShell day to day.
 
-<img src="assets/icons/pendulum.svg" width="26" align="absmiddle" alt="" /> **The pendulum** — Windows annoys me → I move to CachyOS for a while → Linux wears me out → back to Windows. Repeat. Both setups stay ready, so switching is cheap.
+<img src="assets/icons/pendulum.svg" width="26" align="absmiddle" alt="" /> **The pendulum** — Windows ⇄ CachyOS, depending on which one annoys me less this month. Both setups stay ready, so switching is cheap.
 
 <img src="assets/icons/selfhost.svg" width="26" align="absmiddle" alt="" /> **Self-hosting** — one project so far: a modded [Minecraft](https://www.minecraft.net) server on [Fabric](https://fabricmc.net), with scripts that check for mod updates.
 
-<img src="assets/icons/tinker.svg" width="26" align="absmiddle" alt="" /> **Tinkering** — userscripts, Android app tweaks for my family (like [Morphe](https://morphe.software) patches for YouTube), and getting old games to run on modern PCs.
+<img src="assets/icons/tinker.svg" width="26" align="absmiddle" alt="" /> **Tinkering** — userscripts, patched Android apps for my family ([Morphe](https://morphe.software)), and old games running on modern PCs.
 
-<img src="assets/icons/modding.svg" width="26" align="absmiddle" alt="" /> **Modding**<br>
-▸ ***Minecraft*** — <img src="https://www.google.com/s2/favicons?domain=prismlauncher.org&sz=64" width="20" align="absmiddle" alt="" /> [Prism Launcher](https://prismlauncher.org) for minimal modpacks, the best way to juggle instances.<br>
-▸ ***[Fallout: New Vegas](https://store.steampowered.com/app/22490/Fallout_New_Vegas/) / [TTW](https://taleoftwowastelands.com)*** — set up by following these guides:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?domain=vivanewvegas.moddinglinked.com&sz=64" width="20" align="absmiddle" alt="" /> [Viva New Vegas](https://vivanewvegas.moddinglinked.com/intro.html)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?domain=mojaveexpressguide.com&sz=64" width="20" align="absmiddle" alt="" /> [Mojave Express](https://mojaveexpressguide.com/docs/Introduction)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?domain=wastelandsurvival.guide&sz=64" width="20" align="absmiddle" alt="" /> [Wasteland Survival Guide](https://wastelandsurvival.guide/docs/intro)
-
-<img src="assets/icons/opensource.svg" width="26" align="absmiddle" alt="" /> **Open source** — not a rule, more of a pattern. I pick software that's popular for a reason, solid, and does its job — and more often than not, that turns out to be open source. Happy to pay for anything that earns it.
+<img src="assets/icons/opensource.svg" width="26" align="absmiddle" alt="" /> **Open source** — my usual pick, not as a rule but because it's so often the best tool. Happy to pay for anything that earns it.
 
 ---
 
 ### ▸ How I approach problems
 
-<div align="center">
-
 <img src="assets/icons/step1.svg" width="26" align="absmiddle" alt="1" /> **Define** — figure out what actually needs solving.<br>
 <img src="assets/icons/step2.svg" width="26" align="absmiddle" alt="2" /> **Search** — check what already exists before reinventing the wheel.<br>
 <img src="assets/icons/step3.svg" width="26" align="absmiddle" alt="3" /> **Use or build** — if a tool does the job, use it. If nothing fits, build a focused one.
 
+**How I learn:** I keep the core in my head — the few load-bearing ideas every field stands on — and look up the rest when I need it. New things land on that frame fast.
+
 <p>
   <code>practical &gt; complex</code><br>
   <code>useful &gt; impressive</code><br>
+  <code>one precise move &gt; busywork</code><br>
   <code>docs = part of the work</code>
 </p>
-
-</div>
 
 ---
 
 ### ▸ Working with AI
-
-<div align="center">
 
 <p>
   <a href="https://claude.ai"><img src="https://img.shields.io/badge/CLAUDE-101510?style=flat-square&logo=claude&logoColor=9FE870" alt="Claude" /></a>
@@ -87,25 +77,37 @@ I've been using LLMs since GPT-3. Today, Claude is my main coding agent — and 
 
 `raw thought` → `talk it through` → `let it brew` → `.md in the vault` → `notes pile up` → `build`
 
-</div>
+**Thinking:** raw thoughts go straight to Claude. I talk them through, let them brew, and keep what's worth it as Markdown notes in my Obsidian vault.
 
-**Thinking:** I say raw thoughts straight to Claude and talk them through. Then I let them brew — walk around, come back, finish the conversation. Whatever's worth keeping becomes a Markdown note in my Obsidian vault.
+**Building:** once enough notes pile up and something clicks — *okay, this could be a thing* — I point Claude to that part of the vault and we build from my notes, not a blank prompt. Branches, PRs and tests before anything merges.
 
-**Building:** once enough notes and references pile up, something clicks: *okay, this could be a thing.* I point Claude to the relevant part of the vault, and we build from my own notes instead of a blank prompt. Then it's collaborative engineering: project rules, focused branches, pull requests, tests, and performance checks before merging.
-
-**Other models:** I've tried most mainstream and Chinese ones ([GLM 5.3](https://z.ai), [DeepSeek](https://www.deepseek.com) and [Kimi](https://www.kimi.com) were pleasant surprises), but Claude stays the strongest all-rounder for me. Gemini covers side chats and images; other models handle second opinions and code audits.
+**Other models:** I've tried most mainstream and Chinese ones ([GLM 5.3](https://z.ai), [DeepSeek](https://www.deepseek.com) and [Kimi](https://www.kimi.com) stood out). Claude stays the main tool; the others give second opinions and code audits.
 
 ---
 
 ### ▸ Beyond tech
 
+<img src="assets/icons/languages.svg" width="26" align="absmiddle" alt="" /> **Languages** — Ukrainian · Russian · Polish · English · German *(basic)*
+
+<details>
+<summary><b>The person behind the work</b> <sub>— games, typing, AuDHD, music, philosophy · click to expand</sub></summary>
+<br>
+
 <img src="assets/icons/gaming.svg" width="26" align="absmiddle" alt="" /> **Gaming** — I play a lot of different things, but I keep coming back to the same few:<br>
 `atmospheric worlds` `RPGs` `immersive sims` `horror` `weird indie` — plus a soft spot for puzzles and the occasional cozy game. The full library is on [Steam](https://steamcommunity.com/id/nadludyna/), my all-time top 10 is [here](https://nadludyna.github.io/top10gier/).
 
-<img src="assets/icons/typing.svg" width="26" align="absmiddle" alt="" /> **Typing** — regular practice on [Monkeytype](https://monkeytype.com/profile/nadludyna), tracking speed and accuracy. I like mechanical keyboards.<br>
+<img src="assets/icons/modding.svg" width="26" align="absmiddle" alt="" /> **Modding**<br>
+<img src="assets/icons/minecraft.svg" width="22" align="absmiddle" alt="" /> ***Minecraft*** — <img src="https://www.google.com/s2/favicons?domain=prismlauncher.org&sz=64" width="20" align="absmiddle" alt="" /> [Prism Launcher](https://prismlauncher.org) for minimal modpacks, the best way to juggle instances.<br>
+<img src="assets/icons/fallout.svg" width="22" align="absmiddle" alt="" /> ***Fallout: New Vegas / TTW*** — set up by following these guides:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?domain=vivanewvegas.moddinglinked.com&sz=64" width="20" align="absmiddle" alt="" /> [Viva New Vegas](https://vivanewvegas.moddinglinked.com/intro.html)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?domain=mojaveexpressguide.com&sz=64" width="20" align="absmiddle" alt="" /> [Mojave Express](https://mojaveexpressguide.com/docs/Introduction)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?domain=wastelandsurvival.guide&sz=64" width="20" align="absmiddle" alt="" /> [Wasteland Survival Guide](https://wastelandsurvival.guide/docs/intro)
+
+<img src="assets/icons/typing.svg" width="26" align="absmiddle" alt="" /> **Typing** — regular practice on [Monkeytype](https://monkeytype.com/profile/nadludyna), tracking speed and accuracy. It's also my main way to switch my head off. I like mechanical keyboards.<br>
 Current setup: <a href="https://www.monsgeek.com"><kbd>MonsGeek FUN60 Ultra</kbd></a> + <kbd>Astrolink switches</kbd>
 
-<img src="assets/icons/perspective.svg" width="26" align="absmiddle" alt="" /> **Perspective** — I'm AuDHD: autistic and ADHD at once. I say it openly because it makes me easier to understand — for other people and for myself. My brain often takes a non-standard route. That's where a lot of my ideas come from — and also some of the friction. I've learned to work with it instead of fighting it: no romanticizing the hard parts, no making them my whole identity. Adapt, stay curious, leave room for joy. *[Amor fati](https://en.wikipedia.org/wiki/Amor_fati).*
+<img src="assets/icons/perspective.svg" width="26" align="absmiddle" alt="" /> **Perspective** — I'm AuDHD: autistic and ADHD at once. I say it openly because it makes me easier to understand — for others and for myself. My brain often takes a non-standard route: that's where many of my ideas come from, and some of the friction.<br><br>
+My head never really goes quiet, so I rest by doing: fast typing, music that keeps evolving, repeating voices until they sound just right (hence the easy impressions). I work with it, not against it — no romanticizing, no making it my whole identity. *[Amor fati](https://en.wikipedia.org/wiki/Amor_fati).*
 
 <img src="assets/icons/music.svg" width="26" align="absmiddle" alt="" /> **Music** — a tuning knob for my nervous system: sometimes to balance a mood, sometimes to lean into it. These are just the highlights: my taste swings like a pendulum — something clicks, wears off, and later I come back and hear it anew. Some of it I know inside out, some I just heard a few times and it stuck.
 
@@ -172,7 +174,7 @@ Current setup: <a href="https://www.monsgeek.com"><kbd>MonsGeek FUN60 Ultra</kbd
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Tool">Tool</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Kayo+Dot">Kayo Dot</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=maudlin+of+the+Well">maudlin of the Well</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Devin+Townsend">Devin Townsend</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/@RomanSecetra">Devin Townsend Project</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=pilotredsun">pilotredsun</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Gorillaz">Gorillaz</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Tame+Impala">Tame Impala</a><br>
@@ -204,7 +206,7 @@ Current setup: <a href="https://www.monsgeek.com"><kbd>MonsGeek FUN60 Ultra</kbd
 <br><br>
 </details>
 <details>
-<summary><img src="assets/icons/pop.svg" width="26" align="absmiddle" alt="" /> <b>Pop</b></summary>
+<summary><img src="assets/icons/pop.svg" width="26" align="absmiddle" alt="" /> <b>Pop</b> <sub>— dance-pop · synth-pop · alt-pop</sub></summary>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Michael+Jackson">Michael Jackson</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Modern+Talking">Modern Talking</a><br>
@@ -219,7 +221,8 @@ Current setup: <a href="https://www.monsgeek.com"><kbd>MonsGeek FUN60 Ultra</kbd
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Shygirl">Shygirl</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=ADELA">ADELA</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Billie+Eilish">Billie Eilish</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Caroline+Polachek">Caroline Polachek</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Caroline+Polachek">Caroline Polachek</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Dev+Lemons">Dev Lemons</a>
 <br><br>
 </details>
 <details>
@@ -232,7 +235,7 @@ Current setup: <a href="https://www.monsgeek.com"><kbd>MonsGeek FUN60 Ultra</kbd
 <br><br>
 </details>
 <details>
-<summary><img src="assets/icons/opposite.svg" width="26" align="absmiddle" alt="" /> <b>The exact opposite</b> <sub>— breakcore · digital hardcore · rage · trap · hyperpop</sub></summary>
+<summary><img src="assets/icons/opposite.svg" width="26" align="absmiddle" alt="" /> <b>Loud &amp; chaotic</b> <sub>— breakcore · digital hardcore · rage · trap · hyperpop</sub></summary>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=bye2">bye2</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Machine+Girl">Machine Girl</a><br>
@@ -242,11 +245,8 @@ Current setup: <a href="https://www.monsgeek.com"><kbd>MonsGeek FUN60 Ultra</kbd
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=strxwberrymilk">strxwberrymilk</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Yameii+Online">Yameii Online</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Odetari">Odetari</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Dev+Lemons">Dev Lemons</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Dekma">Dekma</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Ghostemane">Ghostemane</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Scarlxrd">Scarlxrd</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=DMT+Boy">DMT Boy</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Tyler%2C+The+Creator">Tyler, The Creator</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Travis+Scott">Travis Scott</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Playboi+Carti">Playboi Carti</a><br>
@@ -286,7 +286,9 @@ Current setup: <a href="https://www.monsgeek.com"><kbd>MonsGeek FUN60 Ultra</kbd
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB+%D0%9A%D1%80%D1%83%D0%B3">Михаил Круг</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=%D0%A8%D0%BE%D1%80%D1%82%D0%BF%D0%B0%D1%80%D0%B8%D1%81">Шортпарис</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=IC3PEAK">IC3PEAK</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ Klavdia Petrivna: <a href="https://www.youtube.com/watch?v=nApYUBVaJYY">one</a> · <a href="https://www.youtube.com/watch?v=sY-zOE6q83c">two</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ Klavdia Petrivna: <a href="https://www.youtube.com/watch?v=nApYUBVaJYY">one</a> · <a href="https://www.youtube.com/watch?v=sY-zOE6q83c">two</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Dekma">Dekma</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=DMT+Boy">DMT Boy</a>
 <br><br>
 </details>
 <details>
@@ -344,13 +346,9 @@ Current setup: <a href="https://www.monsgeek.com"><kbd>MonsGeek FUN60 Ultra</kbd
 
 <img src="assets/icons/books.svg" width="26" align="absmiddle" alt="" /> **Also into** — philosophy as a curious reader ([Nietzsche](https://plato.stanford.edu/entries/nietzsche/), [Hegel](https://plato.stanford.edu/entries/hegel/), [Wittgenstein](https://plato.stanford.edu/entries/wittgenstein/)), questions of consciousness and AI, and hoarding good tools, guides and YouTube channels like other people hoard tabs.
 
-<img src="assets/icons/languages.svg" width="26" align="absmiddle" alt="" /> **Languages** — Ukrainian · Russian · Polish · English · German *(basic)*
+</details>
 
 ---
-
-<div align="center">
-
-<img src="assets/icons/pin.svg" width="26" align="absmiddle" alt="" /> Lublin, Poland · Open to remote work and freelance
 
 **Find me ↓**
 
@@ -365,6 +363,4 @@ Current setup: <a href="https://www.monsgeek.com"><kbd>MonsGeek FUN60 Ultra</kbd
   <a href="https://www.youtube.com/@nadludyna"><img src="https://img.shields.io/badge/YOUTUBE_%E2%86%97-9FE870?style=for-the-badge&logo=youtube&logoColor=101510" alt="YouTube" /></a>
 </p>
 
-*One must still have chaos in oneself to give birth to a dancing star.* — Nietzsche
-
-</div>
+> *One must still have chaos in oneself to give birth to a dancing star.* — Nietzsche
