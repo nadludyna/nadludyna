@@ -1,19 +1,17 @@
 ### Hey 👋
 
-<a href="https://github.com/nadludyna">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=9FE870&vCenter=true&width=520&height=32&lines=%24+whoami+%E2%86%92+curious+tech+tinkerer;automating+the+boring+stuff;building+tools+that+should+exist;sudo+make+life+a+bit+better" alt="whoami: curious tech tinkerer" />
-</a>
+<img src="assets/terminal.svg" width="520" alt="$ whoami → curious tech tinkerer" />
 
-I like understanding how things work, finding the right tools for the job, and building small, practical things that make everyday life a bit better — mostly in Go, mostly on Linux.
+I like understanding how things work, finding the right tools for the job, and building small, practical things that make everyday life a bit better — mostly in Go.
 
 <p>
-  <img src="https://img.shields.io/badge/GO-101510?style=flat-square&logo=go&logoColor=9FE870" alt="Go" />
-  <img src="https://img.shields.io/badge/LINUX-101510?style=flat-square&logo=linux&logoColor=9FE870" alt="Linux" />
-  <img src="https://img.shields.io/badge/KDE_PLASMA-101510?style=flat-square&logo=kde&logoColor=9FE870" alt="KDE Plasma" />
-  <img src="https://img.shields.io/badge/DOCKER-101510?style=flat-square&logo=docker&logoColor=9FE870" alt="Docker" />
+  <a href="https://go.dev"><img src="https://img.shields.io/badge/GO-101510?style=flat-square&logo=go&logoColor=9FE870" alt="Go" /></a>
+  <a href="https://www.kernel.org"><img src="https://img.shields.io/badge/LINUX-101510?style=flat-square&logo=linux&logoColor=9FE870" alt="Linux" /></a>
+  <a href="https://kde.org/plasma-desktop/"><img src="https://img.shields.io/badge/KDE_PLASMA-101510?style=flat-square&logo=kde&logoColor=9FE870" alt="KDE Plasma" /></a>
+  <a href="https://www.docker.com"><img src="https://img.shields.io/badge/DOCKER-101510?style=flat-square&logo=docker&logoColor=9FE870" alt="Docker" /></a>
 </p>
 
-**Main language:** [Go](https://go.dev) · **Currently going deeper into:** automation, [Docker](https://www.docker.com) and CI/CD.
+**Currently going deeper into:** automation and CI/CD.
 
 ---
 
@@ -23,7 +21,7 @@ I like understanding how things work, finding the right tools for the job, and b
 `Go` `JavaScript` `PostgreSQL`
 
 <img src="https://github.com/nadludyna/tyaga/raw/HEAD/winres/icon.svg" width="22" align="absmiddle" alt="" /> &nbsp;[**ТЯГА**](https://github.com/nadludyna/tyaga) — paste a YouTube link, get a file. One small program with a browser UI, built on [yt-dlp](https://github.com/yt-dlp/yt-dlp), with releases for Windows, macOS and Linux.<br>
-`Go` `yt-dlp` `GitHub Actions`
+`Go` `GitHub Actions`
 
 <img src="https://github.com/nadludyna/top10gier/raw/HEAD/grafika/ikona/favicon-192.png" width="22" align="absmiddle" alt="" /> &nbsp;[**TOP 10 GIER**](https://github.com/nadludyna/top10gier) — my personal hall of fame: the ten best games ever, with tiers and reviews I'll defend to the end. A one-page site for a university web course.<br>
 `HTML` `CSS` `vanilla JS`
@@ -32,11 +30,10 @@ I like understanding how things work, finding the right tools for the job, and b
 
 ### ▸ Around the computer
 
-**🐧 Linux** — I've tried a lot of distros, mainstream and niche. What I care about is practical value: a clean, focused system without noise or bloat. My Linux home is [CachyOS](https://cachyos.org) — built on [Arch](https://archlinux.org), polished, a great all-rounder, with [KDE Plasma](https://kde.org/plasma-desktop/) on top.<br>
-`CachyOS` `Arch` `KDE Plasma`
+**🐧 Linux** — I've tried a lot of distros, mainstream and niche. What I care about is practical value: a clean, focused system without noise or bloat. My Linux home is [CachyOS](https://cachyos.org) — built on [Arch](https://archlinux.org), polished, a great all-rounder, with KDE Plasma on top.
 
 **🪟 Windows** — my main system right now. Clean installs with [Rufus](https://rufus.ie) (it even downloads the official ISO for you) or [balenaEtcher](https://etcher.balena.io). Then [WinUtil](https://github.com/ChrisTitusTech/winutil) by Chris Titus Tech for tweaks and debloat, [UniGetUI](https://devolutions.net/unigetui/) to install and update everything in one place, and driver cleanup.<br>
-`Windows 11` `WSL` `Docker` `PowerShell`
+`Windows 11` `WSL` `PowerShell`
 
 **🔁 The pendulum** — Windows annoys me → I move to CachyOS for a while → Linux wears me out → back to Windows. Repeat. Both setups stay ready, so switching is cheap.
 
@@ -97,7 +94,7 @@ I've been using LLMs since GPT-3. Today, [Claude](https://claude.ai) is my main 
 **⌨️ Typing** — regular practice on [Monkeytype](https://monkeytype.com), tracking speed and accuracy. Mechanical keyboard nerd.<br>
 Current setup: <a href="https://www.monsgeek.com"><kbd>MonsGeek FUN60 Ultra</kbd></a> + <kbd>Astrolink switches</kbd>
 
-**🧭 Perspective** — My brain often takes a non-standard route. That's where a lot of my ideas come from — and also some of the friction. I've learned to work with it instead of fighting it: no romanticizing the hard parts, no making them my whole identity. Adapt, stay curious, leave room for joy. *[Amor fati](https://en.wikipedia.org/wiki/Amor_fati).*
+**🧭 Perspective** — I'm AuDHD: autistic and ADHD at once. I say it openly because it makes me easier to understand — for other people and for myself. My brain often takes a non-standard route. That's where a lot of my ideas come from — and also some of the friction. I've learned to work with it instead of fighting it: no romanticizing the hard parts, no making them my whole identity. Adapt, stay curious, leave room for joy. *[Amor fati](https://en.wikipedia.org/wiki/Amor_fati).*
 
 **🎧 Music** — a tuning knob for my nervous system: sometimes to balance a mood, sometimes to lean into it. Each genre opens a record that nails it for me on YouTube Music.<br>
 Mostly atmosphere: [`ethereal ambient`](https://music.youtube.com/search?q=Eternal+Depths "Eternal Depths") [`drone ambient`](https://music.youtube.com/search?q=Warmth+Transients "Warmth — Transients") [`dark ambient`](https://music.youtube.com/search?q=Alphaxone+Interdimensional "Alphaxone — Interdimensional") [`plunderphonics`](https://music.youtube.com/search?q=The+Caretaker+An+Empty+Bliss+Beyond+This+World "The Caretaker — An Empty Bliss Beyond This World") [`hauntology`](https://music.youtube.com/search?q=The+Caretaker+Everywhere+at+the+End+of+Time "The Caretaker — Everywhere at the End of Time") [`vaporwave`](https://music.youtube.com/search?q=Windows96+How+to+See+Through+Walls "Windows96 — How to See Through Walls") [`barber beats`](https://music.youtube.com/search?q=Mabisyo "Mabisyo") [`muzak`](https://music.youtube.com/search?q=Jerry+Martin+The+Sims+build+mode+music "Jerry Martin — The Sims build mode music") [`IDM & glitch`](https://music.youtube.com/search?q=Aphex+Twin+Richard+D.+James+Album "Aphex Twin — Richard D. James Album") [`liminal-space scores`](https://music.youtube.com/search?q=Kane+Parsons+Backrooms+soundtrack "Kane Parsons — Backrooms soundtrack")<br>
