@@ -27,7 +27,7 @@ I automate boring stuff, experiment with Linux, and occasionally build tools jus
 ### ▸ Around the computer
 
 - **Linux:** I've explored a wide range of distributions, from mainstream choices to more niche ones, both hands-on and through articles, videos and other resources. I have a pretty good feel for the Linux distro landscape, but what matters most to me is practical value: a clean, focused system without unnecessary noise or bloat. I settled on Arch, then found CachyOS — Arch-based, polished, and a great all-rounder. KDE is my desktop environment of choice.
-- **Windows:** clean installs from official ISOs, sensible software management, driver cleanup, WSL, Docker and PowerShell.
+- **Windows:** Windows 11 is my main system of choice right now. Clean installs from official ISOs, sensible software management, driver cleanup, WSL, Docker and PowerShell.
 - **Self-hosting:** my only self-hosted project so far is a modded Minecraft server running Fabric, with scripts to check for mod updates.
 - **Tinkering:** userscripts, Android app tweaks for my family, minimal modpacks, and getting old games running on modern PCs.
 - **Open source:** my default preference — but I'm happy to pay for software that earns it.
@@ -36,9 +36,9 @@ I automate boring stuff, experiment with Linux, and occasionally build tools jus
 
 ### ▸ How I approach problems
 
-1. **Define the problem.** Figure out what actually needs to be solved.
+1. **Define** Figure out what actually needs to be solved.
 2. **Look for an existing solution.** Check what's already available before reinventing the wheel.
-3. **Use it — or build what's missing.** If a tool does the job well, I use it. If nothing fits, or I need functionality that isn't there, I build a focused tool for that specific need.
+3. **Use it — or build your solution.** If a tool does the job well, I use it. If nothing fits, or I need functionality that isn't there, I build a focused tool for that specific need.
 
 I prefer practical solutions over complexity, and useful tools over building something just for the sake of it. I also care about clear READMEs and documentation — they're part of the work, not an afterthought.
 
@@ -52,13 +52,13 @@ I've been using LLMs since GPT-3. These days, Claude is my main coding agent. I 
 
 ### ▸ Beyond tech
 
-**Gaming:** I play a wide range of games, but tend to gravitate toward atmospheric worlds, RPGs, immersive sims, horror, and unusual indie experiences. I also have a soft spot for puzzles and the occasional cozy game. [Find me on Steam](https://steamcommunity.com/id/jhn_prk67/).
+**Gaming:** I play a wide range of games, but tend to gravitate toward atmospheric worlds, RPGs, immersive sims, horror, and unusual indie experiences. I also have a soft spot for puzzles and the occasional cozy game. [Find me on Steam](https://steamcommunity.com/id/nadludyna/).
 
 **Typing:** I practice regularly on Monkeytype, track my speed and accuracy, and enjoy mechanical keyboards. Currently using a MonsGeek FUN60 Ultra with Astrolink switches. [Monkeytype profile](https://monkeytype.com/profile/nadludyna).
 
 **Perspective:** I know my mind doesn't always take the standard route, and that comes with its own friction. I'm learning to work with it rather than against it. I don't romanticize the hard parts or make them my whole identity; I try to adapt, stay curious, and make room for joy. *Amor fati.*
 
-Outside games and typing, I'm into philosophy (Nietzsche, Hegel, mind and AI), music, and an ever-growing collection of useful tools, guides and channels.
+Outside games and typing, I'm into philosophy (Nietzsche, Hegel, brain, consciousness and AI), music, and an ever-growing collection of useful tools, guides and channels on YT. 
 
 **Languages:** Ukrainian, Russian, Polish, English; basic German.
 
