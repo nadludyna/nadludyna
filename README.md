@@ -109,43 +109,110 @@ Current setup: <a href="https://www.monsgeek.com"><kbd>MonsGeek FUN60 Ultra</kbd
 
 <img src="assets/icons/music.svg" width="26" align="absmiddle" alt="" /> **Music** — a tuning knob for my nervous system: sometimes to balance a mood, sometimes to lean into it. These are just the highlights: my taste swings like a pendulum — something clicks, wears off, and later I come back and hear it anew.
 
-<table>
-  <tr>
-    <td align="center" width="150"><img src="assets/icons/atmosphere.svg" width="36" alt="" /><br><b>Atmosphere</b><br><sub>ambient · drone · dark ambient · hauntology · vaporwave · barber beats · IDM</sub></td>
-    <td valign="top">▸ <a href="https://music.youtube.com/search?q=Eternal+Depths">Eternal Depths</a><br>▸ <a href="https://music.youtube.com/search?q=Warmth">Warmth</a><br>▸ <a href="https://music.youtube.com/search?q=Alphaxone">Alphaxone</a><br>▸ <a href="https://music.youtube.com/search?q=Atrium+Carceri">Atrium Carceri</a><br>▸ <a href="https://music.youtube.com/search?q=The+Caretaker">The Caretaker</a><br>▸ <a href="https://music.youtube.com/search?q=Windows96">Windows96</a></td>
-    <td valign="top">▸ <a href="https://music.youtube.com/search?q=Mabisyo">Mabisyo</a><br>▸ <a href="https://music.youtube.com/search?q=haircuts+for+men">haircuts for men</a><br>▸ <a href="https://music.youtube.com/search?q=Aphex+Twin">Aphex Twin</a><br>▸ <a href="https://music.youtube.com/search?q=C418">C418</a><br>▸ <a href="https://music.youtube.com/search?q=Kane+Parsons">Kane Parsons</a><br>▸ <a href="https://music.youtube.com/search?q=Jerry+Martin+The+Sims+build+mode">The Sims muzak</a></td>
-  </tr>
-  <tr>
-    <td align="center" width="150"><img src="assets/icons/ghost.svg" width="36" alt="" /><br><b>Caretaker fan universe</b><br><sub>hauntology · plunderphonics</sub></td>
-    <td valign="top">▸ <a href="https://music.youtube.com/search?q=The+Caretakers+Nowhere+at+the+Millennium+of+Space+Redux">Nowhere at the Millennium of Space: Redux</a><br>▸ <a href="https://music.youtube.com/search?q=Light+and+Darkness+Context+Switch">Light and Darkness</a><br>▸ <a href="https://music.youtube.com/search?q=We+Are+Eternal">We Are Eternal</a></td>
-    <td valign="top">▸ <a href="https://music.youtube.com/search?q=Tome+of+Patina+and+Self-recursion">Tome of Patina and Self-recursion</a><br>▸ <a href="https://music.youtube.com/search?q=Milwaukee+Protocol+Caretaker">Milwaukee Protocol</a><br>▸ <a href="https://music.youtube.com/search?q=The+Patients+vCJD">vCJD</a></td>
-  </tr>
-  <tr>
-    <td align="center" width="150"><img src="assets/icons/rock.svg" width="36" alt="" /><br><b>Rock &amp; metal</b><br><sub>prog · shoegaze · post-rock</sub></td>
-    <td valign="top">▸ <a href="https://music.youtube.com/search?q=Radiohead">Radiohead</a><br>▸ <a href="https://music.youtube.com/search?q=Muse">Muse</a><br>▸ <a href="https://music.youtube.com/search?q=Slowdive">Slowdive</a><br>▸ <a href="https://music.youtube.com/search?q=Talk+Talk">Talk Talk</a><br>▸ <a href="https://music.youtube.com/search?q=Porcupine+Tree">Porcupine Tree</a><br>▸ <a href="https://music.youtube.com/search?q=Yes">Yes</a></td>
-    <td valign="top">▸ <a href="https://music.youtube.com/search?q=Pink+Floyd">Pink Floyd</a><br>▸ <a href="https://music.youtube.com/search?q=Kayo+Dot">Kayo Dot</a><br>▸ <a href="https://music.youtube.com/search?q=maudlin+of+the+Well">maudlin of the Well</a><br>▸ <a href="https://music.youtube.com/search?q=Devin+Townsend">Devin Townsend</a><br>▸ <a href="https://music.youtube.com/search?q=pilotredsun">pilotredsun</a></td>
-  </tr>
-  <tr>
-    <td align="center" width="150"><img src="assets/icons/classical.svg" width="36" alt="" /><br><b>Classical</b><br><sub>piano, symphonies, opera, organ</sub></td>
-    <td valign="top">▸ <a href="https://www.youtube.com/@HALIDONMUSIC/search?query=Bach">Bach</a><br>▸ <a href="https://www.youtube.com/@HALIDONMUSIC/search?query=Chopin">Chopin</a><br>▸ <a href="https://www.youtube.com/@HALIDONMUSIC/search?query=Liszt">Liszt</a><br>▸ <a href="https://www.youtube.com/@HALIDONMUSIC/search?query=Tchaikovsky">Tchaikovsky</a></td>
-    <td valign="top">▸ <a href="https://www.youtube.com/@HALIDONMUSIC/search?query=Wagner">Wagner</a><br>▸ <a href="https://www.youtube.com/@HALIDONMUSIC/search?query=Rachmaninoff">Rachmaninoff</a><br>▸ <a href="https://www.youtube.com/@HALIDONMUSIC/search?query=Shostakovich">Shostakovich</a></td>
-  </tr>
-  <tr>
-    <td align="center" width="150"><img src="assets/icons/pop.svg" width="36" alt="" /><br><b>Pop, done right</b></td>
-    <td valign="top">▸ <a href="https://music.youtube.com/search?q=Michael+Jackson">Michael Jackson</a><br>▸ <a href="https://music.youtube.com/search?q=Dua+Lipa">Dua Lipa</a></td>
-    <td valign="top">▸ <a href="https://music.youtube.com/search?q=Doja+Cat">Doja Cat</a><br>▸ <a href="https://music.youtube.com/search?q=Sabrina+Carpenter">Sabrina Carpenter</a></td>
-  </tr>
-  <tr>
-    <td align="center" width="150"><img src="assets/icons/opposite.svg" width="36" alt="" /><br><b>The exact opposite</b><br><sub>breakcore · digital hardcore · rage · trap · hyperpop</sub></td>
-    <td valign="top">▸ <a href="https://music.youtube.com/search?q=bye2">bye2</a><br>▸ <a href="https://music.youtube.com/search?q=Machine+Girl">Machine Girl</a><br>▸ <a href="https://music.youtube.com/search?q=Tyler%2C+The+Creator">Tyler, The Creator</a><br>▸ <a href="https://music.youtube.com/search?q=Playboi+Carti">Playboi Carti</a></td>
-    <td valign="top">▸ <a href="https://music.youtube.com/search?q=Yeat">Yeat</a><br>▸ <a href="https://music.youtube.com/search?q=Ken+Carson">Ken Carson</a><br>▸ <a href="https://music.youtube.com/search?q=Don+Toliver">Don Toliver</a><br>▸ <a href="https://music.youtube.com/search?q=2hollis">2hollis</a></td>
-  </tr>
-  <tr>
-    <td align="center" width="150"><img src="assets/icons/games.svg" width="36" alt="" /><br><b>Game soundtracks</b><br><sub>the highlights</sub></td>
-    <td valign="top">▸ <a href="https://music.youtube.com/search?q=Half-Life+soundtrack">Half-Life 1 & 2</a><br>▸ <a href="https://music.youtube.com/search?q=STALKER+soundtrack">S.T.A.L.K.E.R.</a><br>▸ <a href="https://music.youtube.com/search?q=Fallout+soundtrack+Mark+Morgan">Fallout 1, 2 & New Vegas</a><br>▸ <a href="https://music.youtube.com/search?q=Deus+Ex+soundtrack">Deus Ex</a><br>▸ <a href="https://music.youtube.com/search?q=System+Shock+2+soundtrack">System Shock 2</a><br>▸ <a href="https://music.youtube.com/search?q=FEAR+soundtrack">F.E.A.R.</a><br>▸ <a href="https://music.youtube.com/search?q=DOOM+Mick+Gordon+soundtrack">DOOM 2016 & Eternal</a><br>▸ <a href="https://music.youtube.com/search?q=ULTRAKILL+soundtrack">ULTRAKILL</a><br>▸ <a href="https://music.youtube.com/search?q=Postal+soundtrack">Postal</a><br>▸ <a href="https://music.youtube.com/search?q=Darkwood+soundtrack">Darkwood</a><br>▸ <a href="https://music.youtube.com/search?q=Yume+Nikki+soundtrack">Yume Nikki</a></td>
-    <td valign="top">▸ <a href="https://music.youtube.com/search?q=NieR+Automata+soundtrack">NieR: Automata</a><br>▸ <a href="https://music.youtube.com/search?q=Hades+soundtrack+Darren+Korb">Hades</a><br>▸ <a href="https://music.youtube.com/search?q=Neon+White+soundtrack+Machine+Girl">Neon White</a><br>▸ <a href="https://music.youtube.com/search?q=Against+the+Storm+soundtrack">Against the Storm</a><br>▸ <a href="https://music.youtube.com/search?q=Core+Keeper+soundtrack">Core Keeper</a><br>▸ <a href="https://music.youtube.com/search?q=Terraria+soundtrack">Terraria</a><br>▸ <a href="https://music.youtube.com/search?q=Amanita+Design+Machinarium+Samorost+soundtrack">Machinarium &amp; Samorost</a><br>▸ <a href="https://music.youtube.com/search?q=GTA+radio">GTA radio</a><br>▸ <a href="https://music.youtube.com/search?q=Plants+vs+Zombies+soundtrack">Plants vs. Zombies</a><br>▸ <a href="https://music.youtube.com/search?q=Balatro+soundtrack">Balatro</a></td>
-  </tr>
-</table>
+<details>
+<summary><img src="assets/icons/atmosphere.svg" width="26" align="absmiddle" alt="" /> <b>Atmosphere</b> <sub>— ambient · drone · dark ambient · hauntology · vaporwave · barber beats · IDM</sub></summary>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Eternal+Depths">Eternal Depths</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Warmth">Warmth</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Alphaxone">Alphaxone</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Atrium+Carceri">Atrium Carceri</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=The+Caretaker">The Caretaker</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Windows96">Windows96</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Mabisyo">Mabisyo</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=haircuts+for+men">haircuts for men</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Aphex+Twin">Aphex Twin</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=C418">C418</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Kane+Parsons">Kane Parsons</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Jerry+Martin+The+Sims+build+mode">The Sims muzak</a>
+<br><br>
+</details>
+<details>
+<summary><img src="assets/icons/ghost.svg" width="26" align="absmiddle" alt="" /> <b>Caretaker fan universe</b> <sub>— hauntology · plunderphonics</sub></summary>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=The+Caretakers+Nowhere+at+the+Millennium+of+Space+Redux">Nowhere at the Millennium of Space: Redux</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Light+and+Darkness+Context+Switch">Light and Darkness</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=We+Are+Eternal">We Are Eternal</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Tome+of+Patina+and+Self-recursion">Tome of Patina and Self-recursion</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Milwaukee+Protocol+Caretaker">Milwaukee Protocol</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=The+Patients+vCJD">vCJD</a>
+<br><br>
+</details>
+<details>
+<summary><img src="assets/icons/rock.svg" width="26" align="absmiddle" alt="" /> <b>Rock &amp; metal</b> <sub>— prog · shoegaze · post-rock</sub></summary>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Radiohead">Radiohead</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Muse">Muse</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Slowdive">Slowdive</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Talk+Talk">Talk Talk</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Porcupine+Tree">Porcupine Tree</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Yes">Yes</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Pink+Floyd">Pink Floyd</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Kayo+Dot">Kayo Dot</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=maudlin+of+the+Well">maudlin of the Well</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Devin+Townsend">Devin Townsend</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=pilotredsun">pilotredsun</a>
+<br><br>
+</details>
+<details>
+<summary><img src="assets/icons/classical.svg" width="26" align="absmiddle" alt="" /> <b>Classical</b> <sub>— piano, symphonies, opera, organ</sub></summary>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://www.youtube.com/@HALIDONMUSIC/search?query=Bach">Bach</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://www.youtube.com/@HALIDONMUSIC/search?query=Chopin">Chopin</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://www.youtube.com/@HALIDONMUSIC/search?query=Liszt">Liszt</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://www.youtube.com/@HALIDONMUSIC/search?query=Tchaikovsky">Tchaikovsky</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://www.youtube.com/@HALIDONMUSIC/search?query=Wagner">Wagner</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://www.youtube.com/@HALIDONMUSIC/search?query=Rachmaninoff">Rachmaninoff</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://www.youtube.com/@HALIDONMUSIC/search?query=Shostakovich">Shostakovich</a>
+<br><br>
+</details>
+<details>
+<summary><img src="assets/icons/pop.svg" width="26" align="absmiddle" alt="" /> <b>Pop, done right</b></summary>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Michael+Jackson">Michael Jackson</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Dua+Lipa">Dua Lipa</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Doja+Cat">Doja Cat</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Sabrina+Carpenter">Sabrina Carpenter</a>
+<br><br>
+</details>
+<details>
+<summary><img src="assets/icons/opposite.svg" width="26" align="absmiddle" alt="" /> <b>The exact opposite</b> <sub>— breakcore · digital hardcore · rage · trap · hyperpop</sub></summary>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=bye2">bye2</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Machine+Girl">Machine Girl</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Tyler%2C+The+Creator">Tyler, The Creator</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Playboi+Carti">Playboi Carti</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Yeat">Yeat</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Ken+Carson">Ken Carson</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Don+Toliver">Don Toliver</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=2hollis">2hollis</a>
+<br><br>
+</details>
+<details>
+<summary><img src="assets/icons/games.svg" width="26" align="absmiddle" alt="" /> <b>Game soundtracks</b> <sub>— the highlights</sub></summary>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Half-Life+soundtrack">Half-Life 1 & 2</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=STALKER+soundtrack">S.T.A.L.K.E.R.</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Fallout+soundtrack+Mark+Morgan">Fallout 1, 2 & New Vegas</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Deus+Ex+soundtrack">Deus Ex</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=System+Shock+2+soundtrack">System Shock 2</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=FEAR+soundtrack">F.E.A.R.</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=DOOM+Mick+Gordon+soundtrack">DOOM 2016 & Eternal</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=ULTRAKILL+soundtrack">ULTRAKILL</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Postal+soundtrack">Postal</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Darkwood+soundtrack">Darkwood</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Yume+Nikki+soundtrack">Yume Nikki</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=NieR+Automata+soundtrack">NieR: Automata</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Hades+soundtrack+Darren+Korb">Hades</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Neon+White+soundtrack+Machine+Girl">Neon White</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Against+the+Storm+soundtrack">Against the Storm</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Core+Keeper+soundtrack">Core Keeper</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Terraria+soundtrack">Terraria</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Amanita+Design+Machinarium+Samorost+soundtrack">Machinarium &amp; Samorost</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=GTA+radio">GTA radio</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Plants+vs+Zombies+soundtrack">Plants vs. Zombies</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Balatro+soundtrack">Balatro</a>
+<br><br>
+</details>
 
 <img src="assets/icons/books.svg" width="26" align="absmiddle" alt="" /> **Also into** — philosophy ([Nietzsche](https://plato.stanford.edu/entries/nietzsche/), [Hegel](https://plato.stanford.edu/entries/hegel/), [Wittgenstein](https://plato.stanford.edu/entries/wittgenstein/)), questions of consciousness and AI, and hoarding good tools, guides and YouTube channels like other people hoard tabs.
 
