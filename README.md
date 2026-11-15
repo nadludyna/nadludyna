@@ -38,16 +38,9 @@ I like understanding how things work, finding the right tools for the job, and b
 
 ### ▸ How I approach problems
 
-```mermaid
-%%{init: {"theme": "base", "themeVariables": {"fontFamily": "JetBrains Mono, monospace", "lineColor": "#9FE870", "primaryTextColor": "#9FE870", "textColor": "#9FE870", "edgeLabelBackground": "#101510"}}}%%
-flowchart TD
-    P(["🧩 problem"]) --> D["<b>define</b><br/>what actually needs solving?"]
-    D --> S{"<b>search</b><br/>good tool exists?"}
-    S -- yes --> U["✅ use it"]
-    S -- no --> B["🛠️ build my own"]
-    classDef box fill:#101510,stroke:#9FE870,color:#9FE870,stroke-width:1.5px
-    class P,D,S,U,B box
-```
+**① Define** — figure out what actually needs solving.<br>
+**② Search** — check what already exists before reinventing the wheel.<br>
+**③ Use or build** — if a tool does the job, use it. If nothing fits, build a focused one.
 
 <p>
   <code>practical &gt; complex</code> · <code>useful &gt; impressive</code> · <code>docs = part of the work</code>
