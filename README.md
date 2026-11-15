@@ -53,7 +53,21 @@ Practical over complex. Useful over impressive. Clear READMEs and docs are part 
 
 ### ▸ Working with AI
 
-I've been using LLMs since GPT-3. Today, Claude is my main coding agent. I treat AI-assisted development as collaborative engineering: written project rules, separate branches for focused work, pull requests, tests, and performance checks before merging. Other models give me second opinions and code audits.
+<p>
+  <img src="https://img.shields.io/badge/CLAUDE-101510?style=flat-square&logo=claude&logoColor=9FE870" alt="Claude" />
+  <img src="https://img.shields.io/badge/OBSIDIAN-101510?style=flat-square&logo=obsidian&logoColor=9FE870" alt="Obsidian" />
+  <img src="https://img.shields.io/badge/GEMINI-101510?style=flat-square&logo=googlegemini&logoColor=9FE870" alt="Gemini" />
+</p>
+
+I've been using LLMs since GPT-3. Today, Claude is my main coding agent — and just as much a thinking partner.
+
+`raw thoughts` → `Obsidian vault` → `plan` → `Claude` → `PR`
+
+**Thinking:** I think out loud — random ideas, half-formed plans, long streams of thought — and then sort them into something coherent. Whatever's worth keeping goes into Obsidian.
+
+**Building:** when it's time to implement, I connect my vault, so Claude works from my own notes, ideas and drafts instead of a blank prompt. From there it's collaborative engineering: written project rules, separate branches for focused work, pull requests, tests, and performance checks before merging.
+
+**Other models:** I've tried most of the mainstream ones, with and without subscriptions, plus Mistral and the Chinese wave — DeepSeek, Qwen, Kimi, GLM. GLM 5.3 surprised me: strong and genuinely pleasant to work with. Still, Claude is my favorite for now — the most capable all-rounder. I keep Gemini (student plan) for side chats and image generation, and bring in other models for second opinions and code audits.
 
 ---
 
