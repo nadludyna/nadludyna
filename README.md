@@ -102,7 +102,7 @@ I've been using LLMs since GPT-3. Today, Claude is my main coding agent — and 
 <img src="assets/icons/gaming.svg" width="26" align="absmiddle" alt="" /> **Gaming** — I play a lot of different things, but I keep coming back to the same few:<br>
 `atmospheric worlds` `RPGs` `immersive sims` `horror` `weird indie` — plus a soft spot for puzzles and the occasional cozy game. The full library is on [Steam](https://steamcommunity.com/id/nadludyna/), my all-time top 10 is [here](https://nadludyna.github.io/top10gier/).
 
-<img src="assets/icons/typing.svg" width="26" align="absmiddle" alt="" /> **Typing** — regular practice on [Monkeytype](https://monkeytype.com), tracking speed and accuracy. Mechanical keyboard nerd.<br>
+<img src="assets/icons/typing.svg" width="26" align="absmiddle" alt="" /> **Typing** — regular practice on [Monkeytype](https://monkeytype.com/profile/nadludyna), tracking speed and accuracy. Mechanical keyboard nerd.<br>
 Current setup: <a href="https://www.monsgeek.com"><kbd>MonsGeek FUN60 Ultra</kbd></a> + <kbd>Astrolink switches</kbd>
 
 <img src="assets/icons/perspective.svg" width="26" align="absmiddle" alt="" /> **Perspective** — I'm AuDHD: autistic and ADHD at once. I say it openly because it makes me easier to understand — for other people and for myself. My brain often takes a non-standard route. That's where a lot of my ideas come from — and also some of the friction. I've learned to work with it instead of fighting it: no romanticizing the hard parts, no making them my whole identity. Adapt, stay curious, leave room for joy. *[Amor fati](https://en.wikipedia.org/wiki/Amor_fati).*
