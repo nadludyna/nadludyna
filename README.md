@@ -4,9 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1200&color=9FE870&vCenter=true&width=520&height=32&lines=%24+whoami+%E2%86%92+curious+tech+tinkerer;automating+the+boring+stuff;building+tools+that+should+exist;sudo+make+life+a+bit+better" alt="whoami: curious tech tinkerer" />
 </a>
 
-I'm a curious tech tinkerer from Lublin, Poland. I like understanding how things work, finding the right tools, and building small, practical things that make everyday life a bit better.
-
-I automate boring stuff, experiment with Linux, and sometimes build a tool just because I want it to exist.
+I like understanding how things work, finding the right tools for the job, and building small, practical things that make everyday life a bit better — mostly in Go, mostly on Linux.
 
 <p>
   <img src="https://img.shields.io/badge/GO-101510?style=flat-square&logo=go&logoColor=9FE870" alt="Go" />
@@ -15,7 +13,7 @@ I automate boring stuff, experiment with Linux, and sometimes build a tool just 
   <img src="https://img.shields.io/badge/DOCKER-101510?style=flat-square&logo=docker&logoColor=9FE870" alt="Docker" />
 </p>
 
-**Currently exploring:** Go, automation, Docker and CI/CD.
+**Main language:** Go · **Currently going deeper into:** automation, Docker and CI/CD.
 
 ---
 
@@ -63,11 +61,11 @@ I've been using LLMs since GPT-3. Today, Claude is my main coding agent — and 
 
 `raw thoughts` → `Obsidian vault` → `plan` → `Claude` → `PR`
 
-**Thinking:** I think out loud — random ideas, half-formed plans, long streams of thought — and then sort them into something coherent. Whatever's worth keeping goes into Obsidian.
+**Thinking:** random ideas, half-formed plans and long streams of thought get sorted into something coherent. Whatever's worth keeping goes into Obsidian.
 
-**Building:** when it's time to implement, I connect my vault, so Claude works from my own notes, ideas and drafts instead of a blank prompt. From there it's collaborative engineering: written project rules, separate branches for focused work, pull requests, tests, and performance checks before merging.
+**Building:** I connect my vault, so Claude works from my own notes and drafts instead of a blank prompt. Then it's collaborative engineering: project rules, focused branches, pull requests, tests, and performance checks before merging.
 
-**Other models:** I've tried most of the mainstream ones, with and without subscriptions, plus Mistral and the Chinese wave — DeepSeek, Qwen, Kimi, GLM. GLM 5.3 surprised me: strong and genuinely pleasant to work with. Still, Claude is my favorite for now — the most capable all-rounder. I keep Gemini (student plan) for side chats and image generation, and bring in other models for second opinions and code audits.
+**Other models:** I've tried most mainstream and Chinese ones (GLM 5.3 was a pleasant surprise), but Claude stays the strongest all-rounder for me. Gemini covers side chats and images; other models handle second opinions and code audits.
 
 ---
 
