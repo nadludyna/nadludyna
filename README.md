@@ -1,6 +1,6 @@
 ### Hey 👋
 
-I am a curious tech tinkerer from Lublin, Poland. I like understanding how things work, finding the right tools, and building small, practical things that make everyday life better.
+I am a curious tech tinkerer from Lublin, Poland. I like understanding how things work, finding the right tools, and building small, practical things that make everyday life a bit better.
 
 I automate boring stuff, experiment with Linux, and occasionally build tools just because I want them to exist.
 
