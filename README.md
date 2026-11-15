@@ -71,17 +71,17 @@ I've been using LLMs since GPT-3. Today, Claude is my main coding agent — and 
 
 ### ▸ Beyond tech
 
-**🎮 Gaming** — I play a lot of different things, but I keep coming back to the same few:
+**🎮 Gaming** — I play a lot of different things, but I keep coming back to the same few:<br>
 `atmospheric worlds` `RPGs` `immersive sims` `horror` `weird indie` — plus a soft spot for puzzles and the occasional cozy game.
 
-**⌨️ Typing** — regular practice on Monkeytype, tracking speed and accuracy. Mechanical keyboard nerd.
+**⌨️ Typing** — regular practice on Monkeytype, tracking speed and accuracy. Mechanical keyboard nerd.<br>
 Current setup: <kbd>MonsGeek FUN60 Ultra</kbd> + <kbd>Astrolink switches</kbd>
 
 **🧭 Perspective** — My brain often takes a non-standard route. That's where a lot of my ideas come from — and also some of the friction. I've learned to work with it instead of fighting it: no romanticizing the hard parts, no making them my whole identity. Adapt, stay curious, leave room for joy. *Amor fati.*
 
-**🎧 Music** — a tuning knob for my nervous system: sometimes to balance a mood, sometimes to lean into it.
-Mostly atmosphere: `ethereal ambient` `dark ambient` `plunderphonics` `hauntology` `vaporwave` `barber beats` `muzak` `IDM` `glitch` `experimental` `game soundtracks` `liminal-space scores`
-Then: `alternative rock` `art rock` `progressive rock` `avant-prog` `progressive metal` `avant-garde metal` `lo-fi experimental indie`
+**🎧 Music** — a tuning knob for my nervous system: sometimes to balance a mood, sometimes to lean into it.<br>
+Mostly atmosphere: `ethereal ambient` `dark ambient` `plunderphonics` `hauntology` `vaporwave` `barber beats` `muzak` `IDM` `glitch` `experimental` `game soundtracks` `liminal-space scores`<br>
+Then: `alternative rock` `art rock` `progressive rock` `avant-prog` `progressive metal` `avant-garde metal` `lo-fi experimental indie`<br>
 And the exact opposite: `breakcore` `jungle` `digital hardcore` `rage rap` `trap` `hyperpop`
 
 **📚 Also into** — philosophy (Nietzsche, Hegel, Wittgenstein), questions of consciousness and AI, and an ever-growing collection of useful tools, guides and channels.
