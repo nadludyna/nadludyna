@@ -123,19 +123,29 @@ Current setup: <a href="https://www.monsgeek.com"><kbd>MonsGeek FUN60 Ultra</kbd
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=C418">C418</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Kane+Parsons">Kane Parsons</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/playlist?list=OLAK5uy_mutZ0A5Ekpmw-PcwIwOKs0kldJ6Y2myVw">Boards of Canada</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Jerry+Martin+The+Sims+build+mode">The Sims muzak</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Jerry+Martin+The+Sims+build+mode">The Sims muzak</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=William+Basinski+The+Disintegration+Loops">William Basinski — The Disintegration Loops</a>
 <br><br>
 </details>
 <details>
-<summary><img src="assets/icons/electronic.svg" width="26" align="absmiddle" alt="" /> <b>Electronic</b> <sub>— IDM · synth · art pop</sub></summary>
+<summary><img src="assets/icons/electronic.svg" width="26" align="absmiddle" alt="" /> <b>Electronic</b> <sub>— IDM · synthwave · art pop</sub></summary>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Aphex+Twin">Aphex Twin</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Orbital">Orbital</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Kraftwerk">Kraftwerk</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=SOPHIE">SOPHIE</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Bj%C3%B6rk">Björk</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Grimes">Grimes</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Vangelis+Blade+Runner">Vangelis — Blade Runner & 2049</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Vangelis+Blade+Runner">Vangelis — Blade Runner & 2049</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Arca">Arca</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Disasterpeace">Disasterpeace</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Susumu+Hirasawa">Susumu Hirasawa</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Lorn">Lorn</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Perturbator">Perturbator</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Lazerhawk">Lazerhawk</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Scattle">Scattle</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Graham+Kartna">Graham Kartna</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=metaroom">metaroom</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Cynthoni">Cynthoni</a>
 <br><br>
 </details>
 <details>
@@ -168,7 +178,16 @@ Current setup: <a href="https://www.monsgeek.com"><kbd>MonsGeek FUN60 Ultra</kbd
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Tame+Impala">Tame Impala</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Red+Vox">Red Vox</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Molchat+Doma">Molchat Doma</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=%D0%9A%D0%B8%D0%BD%D0%BE">Кино</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=%D0%9A%D0%B8%D0%BD%D0%BE">Кино</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=King+Crimson">King Crimson</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=The+Mars+Volta">The Mars Volta</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Godspeed+You%21+Black+Emperor">Godspeed You! Black Emperor</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Queen">Queen</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Nine+Inch+Nails">Nine Inch Nails</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Monobody">Monobody</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Alice+in+Chains+Them+Bones">Alice in Chains — Them Bones</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Metallica+Enter+Sandman">Metallica — Enter Sandman</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://www.youtube.com/watch?v=HpQbVqGmGSA">Klaus Johann Grobe</a>
 <br><br>
 </details>
 <details>
@@ -199,7 +218,17 @@ Current setup: <a href="https://www.monsgeek.com"><kbd>MonsGeek FUN60 Ultra</kbd
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Magdalena+Bay">Magdalena Bay</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Shygirl">Shygirl</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=ADELA">ADELA</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Billie+Eilish">Billie Eilish</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Billie+Eilish">Billie Eilish</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Caroline+Polachek">Caroline Polachek</a>
+<br><br>
+</details>
+<details>
+<summary><img src="assets/icons/oldies.svg" width="26" align="absmiddle" alt="" /> <b>Golden oldies</b> <sub>— rock &#39;n&#39; roll · crooners · western</sub></summary>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Elvis+Presley">Elvis Presley</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Frank+Sinatra">Frank Sinatra</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Marty+Robbins">Marty Robbins</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/channel/UC_X19d3yM9Nq1_4QSFP3EVQ">Jerry Burnham</a> &amp; <a href="https://music.youtube.com/channel/UCuC44ynuN075dUfz3TTLbvw">Don Burnham</a>
 <br><br>
 </details>
 <details>
@@ -224,7 +253,8 @@ Current setup: <a href="https://www.monsgeek.com"><kbd>MonsGeek FUN60 Ultra</kbd
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Yeat">Yeat</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Ken+Carson">Ken Carson</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Don+Toliver">Don Toliver</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=2hollis">2hollis</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=2hollis">2hollis</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=DrainWh0re">DrainWh0re</a>
 <br><br>
 </details>
 <details>
@@ -238,7 +268,7 @@ Current setup: <a href="https://www.monsgeek.com"><kbd>MonsGeek FUN60 Ultra</kbd
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=OBLADAET">OBLADAET</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=PLOHOYPAREN">PLOHOYPAREN</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Bumble+Beezy">Bumble Beezy</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=1%D0%BA%D0%BB%D0%B0%D1%81">1клас</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=1.Kla%24">1.Kla$</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Gavrilina">Gavrilina</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Boulevard+Depo">Boulevard Depo</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Lil+Krystalll">Lil Krystalll</a><br>
@@ -253,7 +283,10 @@ Current setup: <a href="https://www.monsgeek.com"><kbd>MonsGeek FUN60 Ultra</kbd
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=%D0%98%D0%BD%D1%81%D1%82%D0%B0%D1%81%D0%B0%D0%BC%D0%BA%D0%B0">Инстасамка</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=%D0%A1%D0%BA%D1%80%D1%8F%D0%B1%D0%B8%D0%BD">Скрябин</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=%D0%9C%D0%B5%D0%B9%D0%B1%D0%B8+%D0%91%D0%B5%D0%B9%D0%B1%D0%B8">Мейби Бейби</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB+%D0%9A%D1%80%D1%83%D0%B3">Михаил Круг</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB+%D0%9A%D1%80%D1%83%D0%B3">Михаил Круг</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=%D0%A8%D0%BE%D1%80%D1%82%D0%BF%D0%B0%D1%80%D0%B8%D1%81">Шортпарис</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=IC3PEAK">IC3PEAK</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ Klavdia Petrivna: <a href="https://www.youtube.com/watch?v=nApYUBVaJYY">one</a> · <a href="https://www.youtube.com/watch?v=sY-zOE6q83c">two</a>
 <br><br>
 </details>
 <details>
@@ -299,7 +332,13 @@ Current setup: <a href="https://www.monsgeek.com"><kbd>MonsGeek FUN60 Ultra</kbd
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=GTA+radio">GTA radio</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Supercell+soundtrack+Clash+of+Clans+Brawl+Stars">Supercell games</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Plants+vs+Zombies+soundtrack">Plants vs. Zombies</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Balatro+soundtrack">Balatro</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Balatro+soundtrack">Balatro</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Toby+Fox+Undertale+Deltarune+soundtrack">Undertale & Deltarune</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=OneShot+soundtrack">OneShot</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Hyper+Light+Drifter+soundtrack+Disasterpeace">Hyper Light Drifter</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Katana+Zero+soundtrack">Katana Zero</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Cult+of+the+Lamb+soundtrack">Cult of the Lamb</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Echo+Point+Nova+soundtrack">Echo Point Nova</a>
 <br><br>
 </details>
 
@@ -317,6 +356,7 @@ Current setup: <a href="https://www.monsgeek.com"><kbd>MonsGeek FUN60 Ultra</kbd
 
 <p>
   <a href="https://signal.me/#eu/jYQ_tF8RVF1xH5HM1sRJypxOGtHM7Rxzm1rRiPzu9L9B-57MHMhCIpVary7ETOg7"><img src="https://img.shields.io/badge/SIGNAL_%E2%86%97-9FE870?style=for-the-badge&logo=signal&logoColor=101510" alt="Signal" /></a>
+  <a href="https://t.me/ponyal_syt"><img src="https://img.shields.io/badge/TELEGRAM_%E2%86%97-9FE870?style=for-the-badge&logo=telegram&logoColor=101510" alt="Telegram" /></a>
   <a href="https://m.me/oleklysiuk167"><img src="https://img.shields.io/badge/MESSENGER_%E2%86%97-9FE870?style=for-the-badge&logo=messenger&logoColor=101510" alt="Messenger" /></a>
   <br>
   <a href="https://www.linkedin.com/in/oleksandr-lysiuk-606a21410"><img src="https://img.shields.io/badge/LINKEDIN_%E2%86%97-9FE870?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzEwMTUxMCIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
