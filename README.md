@@ -79,7 +79,7 @@ Current setup: <kbd>MonsGeek FUN60 Ultra</kbd> + <kbd>Astrolink switches</kbd>
 
 **🧭 Perspective** — My brain often takes a non-standard route. That's where a lot of my ideas come from — and also some of the friction. I've learned to work with it instead of fighting it: no romanticizing the hard parts, no making them my whole identity. Adapt, stay curious, leave room for joy. *Amor fati.*
 
-**🎧 Music** — ethereal and dark ambient, plunderphonics and the avant-garde (The Caretaker), Radiohead-style art rock, Devin Townsend, game soundtracks (Minecraft, Core Keeper). And sometimes the exact opposite: Yeat, Ken Carson, Don Toliver, 2hollis.
+**🎧 Music** — ethereal and dark ambient, plunderphonics and the avant-garde (The Caretaker), Radiohead, Muse, Devin Townsend, game soundtracks (Minecraft, Core Keeper) and Kane Parsons' Backrooms score. And sometimes the exact opposite: Yeat, Ken Carson, Don Toliver, 2hollis.
 
 **📚 Also into** — philosophy (Nietzsche, Hegel, Wittgenstein), questions of consciousness and AI, and an ever-growing collection of useful tools, guides and channels.
 
