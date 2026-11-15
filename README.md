@@ -5,6 +5,7 @@
 <img src="assets/terminal.svg" width="480" alt="$ whoami → curious tech tinkerer" />
 
 Engineer, not a developer: I figure out what's needed, use whatever gets results, and build the rest with AI.<br>
+I pick things up fast — from zero to something useful in hours, not weeks.<br>
 A vibe coder — with taste. Curious by default, AuDHD by design.<br>
 **Currently going deeper into:** DevOps.
 
