@@ -11,7 +11,7 @@ I like understanding how things work, finding the right tools for the job, and b
   <a href="https://www.docker.com"><img src="https://img.shields.io/badge/DOCKER-101510?style=flat-square&logo=docker&logoColor=9FE870" alt="Docker" /></a>
 </p>
 
-**Currently going deeper into:** automation and CI/CD.
+**Currently going deeper into:** DevOps.
 
 ---
 
