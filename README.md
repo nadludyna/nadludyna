@@ -340,8 +340,6 @@ My head never really goes quiet, so I rest by doing: fast typing, music that kee
 
 ---
 
-<img src="assets/icons/pin.svg" width="26" align="absmiddle" alt="" /> Lublin, Poland · Open to remote work and freelance
-
 **Find me ↓**
 
 <p>
