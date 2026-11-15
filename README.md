@@ -19,13 +19,13 @@ I like understanding how things work, finding the right tools for the job, and b
 
 ### ▸ Things I've built
 
-<img src="https://github.com/nadludyna/typeTrainer/raw/HEAD/web/favicon.svg" width="22" align="center" alt="" /> &nbsp;[**typeTrainer**](https://github.com/nadludyna/typeTrainer) — a typing trainer that finds your weak letters and builds the next words around them. Real words only. My engineering thesis.<br>
+<img src="https://github.com/nadludyna/typeTrainer/raw/HEAD/web/favicon.svg" width="22" align="absmiddle" alt="" /> &nbsp;[**typeTrainer**](https://github.com/nadludyna/typeTrainer) — a typing trainer that finds your weak letters and builds the next words around them. Real words only. My engineering thesis.<br>
 `Go` `JavaScript` `PostgreSQL`
 
-<img src="https://github.com/nadludyna/tyaga/raw/HEAD/winres/icon.svg" width="22" align="center" alt="" /> &nbsp;[**ТЯГА**](https://github.com/nadludyna/tyaga) — paste a YouTube link, get a file. One small program with a browser UI, built on [yt-dlp](https://github.com/yt-dlp/yt-dlp), with releases for Windows, macOS and Linux.<br>
+<img src="https://github.com/nadludyna/tyaga/raw/HEAD/winres/icon.svg" width="22" align="absmiddle" alt="" /> &nbsp;[**ТЯГА**](https://github.com/nadludyna/tyaga) — paste a YouTube link, get a file. One small program with a browser UI, built on [yt-dlp](https://github.com/yt-dlp/yt-dlp), with releases for Windows, macOS and Linux.<br>
 `Go` `yt-dlp` `GitHub Actions`
 
-<img src="https://github.com/nadludyna/top10gier/raw/HEAD/grafika/ikona/favicon-192.png" width="22" align="center" alt="" /> &nbsp;[**TOP 10 GIER**](https://github.com/nadludyna/top10gier) — my personal hall of fame: the ten best games ever, with tiers and reviews I'll defend to the end. A one-page site for a university web course.<br>
+<img src="https://github.com/nadludyna/top10gier/raw/HEAD/grafika/ikona/favicon-192.png" width="22" align="absmiddle" alt="" /> &nbsp;[**TOP 10 GIER**](https://github.com/nadludyna/top10gier) — my personal hall of fame: the ten best games ever, with tiers and reviews I'll defend to the end. A one-page site for a university web course.<br>
 `HTML` `CSS` `vanilla JS`
 
 ---
@@ -45,11 +45,11 @@ I like understanding how things work, finding the right tools for the job, and b
 **🔧 Tinkering** — userscripts, Android app tweaks for my family (like [Morphe](https://morphe.software) patches for YouTube), and getting old games to run on modern PCs.
 
 **🧩 Modding**<br>
-<img src="https://www.google.com/s2/favicons?domain=prismlauncher.org&sz=64" width="16" align="center" alt="" /> [Prism Launcher](https://prismlauncher.org) — minimal Minecraft modpacks, the best way to juggle instances.<br>
+<img src="https://www.google.com/s2/favicons?domain=prismlauncher.org&sz=64" width="16" align="absmiddle" alt="" /> [Prism Launcher](https://prismlauncher.org) — minimal Minecraft modpacks, the best way to juggle instances.<br>
 [Fallout: New Vegas](https://store.steampowered.com/app/22490/Fallout_New_Vegas/) / [Tale of Two Wastelands](https://taleoftwowastelands.com), built by the guides that actually work:<br>
-<img src="https://www.google.com/s2/favicons?domain=vivanewvegas.moddinglinked.com&sz=64" width="16" align="center" alt="" /> [Viva New Vegas](https://vivanewvegas.moddinglinked.com/intro.html)<br>
-<img src="https://www.google.com/s2/favicons?domain=mojaveexpressguide.com&sz=64" width="16" align="center" alt="" /> [Mojave Express](https://mojaveexpressguide.com/docs/Introduction)<br>
-<img src="https://www.google.com/s2/favicons?domain=wastelandsurvival.guide&sz=64" width="16" align="center" alt="" /> [Wasteland Survival Guide](https://wastelandsurvival.guide/docs/intro)
+<img src="https://www.google.com/s2/favicons?domain=vivanewvegas.moddinglinked.com&sz=64" width="16" align="absmiddle" alt="" /> [Viva New Vegas](https://vivanewvegas.moddinglinked.com/intro.html)<br>
+<img src="https://www.google.com/s2/favicons?domain=mojaveexpressguide.com&sz=64" width="16" align="absmiddle" alt="" /> [Mojave Express](https://mojaveexpressguide.com/docs/Introduction)<br>
+<img src="https://www.google.com/s2/favicons?domain=wastelandsurvival.guide&sz=64" width="16" align="absmiddle" alt="" /> [Wasteland Survival Guide](https://wastelandsurvival.guide/docs/intro)
 
 **🔓 Open source** — my default. But I'm happy to pay for software that earns it.
 
