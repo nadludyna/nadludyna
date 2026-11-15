@@ -1,5 +1,3 @@
-<div align="center">
-
 ### Hey <img src="assets/icons/hey.svg" width="30" align="absmiddle" alt="" />
 
 <img src="assets/terminal.svg" width="480" alt="$ whoami → curious tech tinkerer" />
@@ -8,8 +6,6 @@ Engineer, not a developer: I figure out what's needed, use whatever gets results
 I pick things up fast — from zero to something useful in hours, not weeks.<br>
 A vibe coder — with taste. Curious by default, AuDHD by design.<br>
 **Currently going deeper into:** DevOps.
-
-</div>
 
 ---
 
@@ -24,7 +20,7 @@ A vibe coder — with taste. Curious by default, AuDHD by design.<br>
 <img src="https://github.com/nadludyna/top10gier/raw/HEAD/grafika/ikona/favicon-192.png" width="28" align="absmiddle" alt="" /> &nbsp;[**TOP 10 GIER**](https://github.com/nadludyna/top10gier) — my personal hall of fame: ten favorite games, with tiers and very subjective reviews. A one-page site for a university web course.<br>
 `HTML` `CSS` `vanilla JS`
 
-<p align="center">
+<p>
   <a href="https://github.com/nadludyna/typeTrainer"><img src="https://github.com/nadludyna/typeTrainer/raw/HEAD/docs/media/social-preview.png" height="150" alt="typeTrainer" /></a>
   <a href="https://github.com/nadludyna/tyaga"><img src="https://github.com/nadludyna/tyaga/raw/HEAD/docs/screenshot.png" height="150" alt="ТЯГА" /></a>
   <a href="https://nadludyna.github.io/top10gier/"><img src="assets/shots/top10gier.jpg" height="150" alt="TOP 10 GIER" /></a>
@@ -57,8 +53,6 @@ A vibe coder — with taste. Curious by default, AuDHD by design.<br>
 
 ### ▸ How I approach problems
 
-<div align="center">
-
 <img src="assets/icons/step1.svg" width="26" align="absmiddle" alt="1" /> **Define** — figure out what actually needs solving.<br>
 <img src="assets/icons/step2.svg" width="26" align="absmiddle" alt="2" /> **Search** — check what already exists before reinventing the wheel.<br>
 <img src="assets/icons/step3.svg" width="26" align="absmiddle" alt="3" /> **Use or build** — if a tool does the job, use it. If nothing fits, build a focused one.
@@ -72,13 +66,9 @@ A vibe coder — with taste. Curious by default, AuDHD by design.<br>
   <code>docs = part of the work</code>
 </p>
 
-</div>
-
 ---
 
 ### ▸ Working with AI
-
-<div align="center">
 
 <p>
   <a href="https://claude.ai"><img src="https://img.shields.io/badge/CLAUDE-101510?style=flat-square&logo=claude&logoColor=9FE870" alt="Claude" /></a>
@@ -89,8 +79,6 @@ A vibe coder — with taste. Curious by default, AuDHD by design.<br>
 I've been using LLMs since GPT-3. Today, Claude is my main coding agent — and just as much a thinking partner.
 
 `raw thought` → `talk it through` → `let it brew` → `.md in the vault` → `notes pile up` → `build`
-
-</div>
 
 **Thinking:** I say raw thoughts straight to Claude and talk them through. Then I let them brew — walk around, come back, finish the conversation. Whatever's worth keeping becomes a Markdown note in my Obsidian vault.
 
@@ -351,8 +339,6 @@ Current setup: <a href="https://www.monsgeek.com"><kbd>MonsGeek FUN60 Ultra</kbd
 
 ---
 
-<div align="center">
-
 <img src="assets/icons/pin.svg" width="26" align="absmiddle" alt="" /> Lublin, Poland · Open to remote work and freelance
 
 **Find me ↓**
@@ -368,6 +354,4 @@ Current setup: <a href="https://www.monsgeek.com"><kbd>MonsGeek FUN60 Ultra</kbd
   <a href="https://www.youtube.com/@nadludyna"><img src="https://img.shields.io/badge/YOUTUBE_%E2%86%97-9FE870?style=for-the-badge&logo=youtube&logoColor=101510" alt="YouTube" /></a>
 </p>
 
-*One must still have chaos in oneself to give birth to a dancing star.* — Nietzsche
-
-</div>
+> *One must still have chaos in oneself to give birth to a dancing star.* — Nietzsche
