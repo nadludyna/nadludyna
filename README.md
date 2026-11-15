@@ -79,7 +79,7 @@ Current setup: <kbd>MonsGeek FUN60 Ultra</kbd> + <kbd>Astrolink switches</kbd>
 
 **🧭 Perspective** — My brain often takes a non-standard route. That's where a lot of my ideas come from — and also some of the friction. I've learned to work with it instead of fighting it: no romanticizing the hard parts, no making them my whole identity. Adapt, stay curious, leave room for joy. *Amor fati.*
 
-**🎧 Music** — mostly atmosphere: ethereal and dark ambient, plunderphonics and hauntology, vaporwave, barber beats and the muzak they're built from, experimental, game soundtracks and liminal-space scores. Then alternative, art and progressive rock, avant-prog, progressive and avant-garde metal, lo-fi experimental indie. And sometimes the exact opposite: breakcore, jungle and digital hardcore, rage rap, trap and hyperpop.
+**🎧 Music** — mostly atmosphere: ethereal and dark ambient, plunderphonics and hauntology, vaporwave, barber beats and the muzak they're built from, IDM and glitchy electronica, experimental, game soundtracks and liminal-space scores. Then alternative, art and progressive rock, avant-prog, progressive and avant-garde metal, lo-fi experimental indie. And sometimes the exact opposite: breakcore, jungle and digital hardcore, rage rap, trap and hyperpop.
 
 **📚 Also into** — philosophy (Nietzsche, Hegel, Wittgenstein), questions of consciousness and AI, and an ever-growing collection of useful tools, guides and channels.
 
