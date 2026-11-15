@@ -9,7 +9,6 @@ I like understanding how things work, finding the right tools for the job, and b
 <p>
   <a href="https://go.dev"><img src="https://img.shields.io/badge/GO-101510?style=flat-square&logo=go&logoColor=9FE870" alt="Go" /></a>
   <a href="https://www.kernel.org"><img src="https://img.shields.io/badge/LINUX-101510?style=flat-square&logo=linux&logoColor=9FE870" alt="Linux" /></a>
-  <a href="https://kde.org/plasma-desktop/"><img src="https://img.shields.io/badge/KDE_PLASMA-101510?style=flat-square&logo=kde&logoColor=9FE870" alt="KDE Plasma" /></a>
   <a href="https://www.docker.com"><img src="https://img.shields.io/badge/DOCKER-101510?style=flat-square&logo=docker&logoColor=9FE870" alt="Docker" /></a>
 </p>
 
@@ -29,6 +28,12 @@ I like understanding how things work, finding the right tools for the job, and b
 
 <img src="https://github.com/nadludyna/top10gier/raw/HEAD/grafika/ikona/favicon-192.png" width="28" align="absmiddle" alt="" /> &nbsp;[**TOP 10 GIER**](https://github.com/nadludyna/top10gier) — my personal hall of fame: the ten best games ever, with tiers and reviews I'll defend to the end. A one-page site for a university web course.<br>
 `HTML` `CSS` `vanilla JS`
+
+<p align="center">
+  <a href="https://github.com/nadludyna/typeTrainer"><img src="https://github.com/nadludyna/typeTrainer/raw/HEAD/docs/media/social-preview.png" height="150" alt="typeTrainer" /></a>
+  <a href="https://github.com/nadludyna/tyaga"><img src="https://github.com/nadludyna/tyaga/raw/HEAD/docs/screenshot.png" height="150" alt="ТЯГА" /></a>
+  <a href="https://nadludyna.github.io/top10gier/"><img src="assets/shots/top10gier.jpg" height="150" alt="TOP 10 GIER" /></a>
+</p>
 
 ---
 
@@ -160,7 +165,6 @@ Current setup: <a href="https://www.monsgeek.com"><kbd>MonsGeek FUN60 Ultra</kbd
 **Find me ↓**
 
 <p>
-  <a href="mailto:oleksandrlysiuk88@gmail.com"><img src="https://img.shields.io/badge/EMAIL_%E2%86%97-9FE870?style=for-the-badge&logo=gmail&logoColor=101510" alt="Email" /></a>
   <a href="https://signal.me/#eu/jYQ_tF8RVF1xH5HM1sRJypxOGtHM7Rxzm1rRiPzu9L9B-57MHMhCIpVary7ETOg7"><img src="https://img.shields.io/badge/SIGNAL_%E2%86%97-9FE870?style=for-the-badge&logo=signal&logoColor=101510" alt="Signal" /></a>
   <a href="https://m.me/oleklysiuk167"><img src="https://img.shields.io/badge/MESSENGER_%E2%86%97-9FE870?style=for-the-badge&logo=messenger&logoColor=101510" alt="Messenger" /></a>
   <br>
