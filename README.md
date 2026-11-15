@@ -32,15 +32,15 @@ A vibe coder — with taste. Curious by default, AuDHD by design.<br>
 
 <img src="assets/icons/linux.svg" width="26" align="absmiddle" alt="" /> **Linux** — Distro-curious, practical first: a clean, focused system without noise or bloat. Home base is [CachyOS](https://cachyos.org) — built on [Arch](https://archlinux.org) — with KDE Plasma.
 
-<img src="assets/icons/windows.svg" width="26" align="absmiddle" alt="" /> **Windows** — Main system right now. Clean installs via [Rufus](https://rufus.ie) (it even grabs the official ISO) or [balenaEtcher](https://etcher.balena.io), then [WinUtil](https://github.com/ChrisTitusTech/winutil) for tweaks and [UniGetUI](https://devolutions.net/unigetui/) for updates. WSL and PowerShell day to day.
+<img src="assets/icons/windows.svg" width="26" align="absmiddle" alt="" /> **Windows** — Main system right now. Clean installs via [Rufus](https://rufus.ie) or [balenaEtcher](https://etcher.balena.io), [WinUtil](https://github.com/ChrisTitusTech/winutil) for tweaks, [UniGetUI](https://devolutions.net/unigetui/) for updates. WSL and PowerShell day to day.
 
-<img src="assets/icons/pendulum.svg" width="26" align="absmiddle" alt="" /> **The pendulum** — Windows annoys me → I move to CachyOS for a while → Linux wears me out → back to Windows. Repeat. Both setups stay ready, so switching is cheap.
+<img src="assets/icons/pendulum.svg" width="26" align="absmiddle" alt="" /> **The pendulum** — Windows ⇄ CachyOS, depending on which one annoys me less this month. Both setups stay ready, so switching is cheap.
 
 <img src="assets/icons/selfhost.svg" width="26" align="absmiddle" alt="" /> **Self-hosting** — one project so far: a modded [Minecraft](https://www.minecraft.net) server on [Fabric](https://fabricmc.net), with scripts that check for mod updates.
 
-<img src="assets/icons/tinker.svg" width="26" align="absmiddle" alt="" /> **Tinkering** — userscripts, Android app tweaks for my family (like [Morphe](https://morphe.software) patches for YouTube), and getting old games to run on modern PCs.
+<img src="assets/icons/tinker.svg" width="26" align="absmiddle" alt="" /> **Tinkering** — userscripts, patched Android apps for my family ([Morphe](https://morphe.software)), and old games running on modern PCs.
 
-<img src="assets/icons/opensource.svg" width="26" align="absmiddle" alt="" /> **Open source** — not a rule, more of a pattern. I pick software that's popular for a reason, solid, and does its job — and more often than not, that turns out to be open source. Happy to pay for anything that earns it.
+<img src="assets/icons/opensource.svg" width="26" align="absmiddle" alt="" /> **Open source** — my usual pick, not as a rule but because it's so often the best tool. Happy to pay for anything that earns it.
 
 ---
 
@@ -50,7 +50,7 @@ A vibe coder — with taste. Curious by default, AuDHD by design.<br>
 <img src="assets/icons/step2.svg" width="26" align="absmiddle" alt="2" /> **Search** — check what already exists before reinventing the wheel.<br>
 <img src="assets/icons/step3.svg" width="26" align="absmiddle" alt="3" /> **Use or build** — if a tool does the job, use it. If nothing fits, build a focused one.
 
-**How I learn:** I keep the core in my head — the few load-bearing ideas every field stands on — and look up the rest when I need it. New things land on that frame fast: hours, not weeks.
+**How I learn:** I keep the core in my head — the few load-bearing ideas every field stands on — and look up the rest when I need it. New things land on that frame fast.
 
 <p>
   <code>practical &gt; complex</code><br>
@@ -73,11 +73,11 @@ I've been using LLMs since GPT-3. Today, Claude is my main coding agent — and 
 
 `raw thought` → `talk it through` → `let it brew` → `.md in the vault` → `notes pile up` → `build`
 
-**Thinking:** I say raw thoughts straight to Claude and talk them through. Then I let them brew — walk around, come back, finish the conversation. Whatever's worth keeping becomes a Markdown note in my Obsidian vault.
+**Thinking:** raw thoughts go straight to Claude. I talk them through, let them brew, and keep what's worth it as Markdown notes in my Obsidian vault.
 
 **Building:** once enough notes pile up and something clicks — *okay, this could be a thing* — I point Claude to that part of the vault and we build from my notes, not a blank prompt. Branches, PRs and tests before anything merges.
 
-**Other models:** I've tried most mainstream and Chinese ones ([GLM 5.3](https://z.ai), [DeepSeek](https://www.deepseek.com) and [Kimi](https://www.kimi.com) were pleasant surprises), but Claude stays the strongest all-rounder for me. Gemini covers side chats and images; other models handle second opinions and code audits.
+**Other models:** I've tried most mainstream and Chinese ones ([GLM 5.3](https://z.ai), [DeepSeek](https://www.deepseek.com) and [Kimi](https://www.kimi.com) stood out). Claude stays the main tool; the others give second opinions and code audits.
 
 ---
 
