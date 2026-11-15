@@ -196,7 +196,7 @@ My head never really goes quiet, so I rest by doing: fast typing, music that kee
 <br><br>
 </details>
 <details>
-<summary><img src="assets/icons/pop.svg" width="26" align="absmiddle" alt="" /> <b>Pop</b></summary>
+<summary><img src="assets/icons/pop.svg" width="26" align="absmiddle" alt="" /> <b>Pop</b> <sub>— dance-pop · synth-pop · alt-pop</sub></summary>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Michael+Jackson">Michael Jackson</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Modern+Talking">Modern Talking</a><br>
