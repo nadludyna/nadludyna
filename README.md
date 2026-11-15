@@ -36,11 +36,11 @@ I automate boring stuff, experiment with Linux, and occasionally build tools jus
 
 ### ▸ How I approach problems
 
-**Define** Figure out what actually needs to be solved.
+**Define:** Figure out what actually needs to be solved.
 
-**Look for an existing solution.** Check what's already available before reinventing the wheel.
+**Look for an existing solution:** Check what's already available before reinventing the wheel.
 
-**Use it — or build your solution.** If a tool does the job well, I use it. If nothing fits, or I need functionality that isn't there, I build a focused tool for that specific need.
+**Use it — or build your solution:** If a tool does the job well, I use it. If nothing fits, or I need functionality that isn't there, I build a focused tool for that specific need.
 
 I prefer practical solutions over complexity, and useful tools over building something just for the sake of it. I also care about clear READMEs and documentation — they're part of the work, not an afterthought.
 
