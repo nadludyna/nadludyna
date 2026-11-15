@@ -41,8 +41,8 @@ I like understanding how things work, finding the right tools for the job, and b
 <img src="assets/icons/tinker.svg" width="20" align="absmiddle" alt="" /> **Tinkering** — userscripts, Android app tweaks for my family (like [Morphe](https://morphe.software) patches for YouTube), and getting old games to run on modern PCs.
 
 <img src="assets/icons/modding.svg" width="20" align="absmiddle" alt="" /> **Modding**<br>
-<img src="https://www.google.com/s2/favicons?domain=prismlauncher.org&sz=64" width="16" align="absmiddle" alt="" /> [Prism Launcher](https://prismlauncher.org) — minimal Minecraft modpacks, the best way to juggle instances.<br>
-[Fallout: New Vegas](https://store.steampowered.com/app/22490/Fallout_New_Vegas/) / [Tale of Two Wastelands](https://taleoftwowastelands.com), built by the guides that actually work:<br>
+▸ ***Minecraft*** — <img src="https://www.google.com/s2/favicons?domain=prismlauncher.org&sz=64" width="16" align="absmiddle" alt="" /> [Prism Launcher](https://prismlauncher.org) for minimal modpacks, the best way to juggle instances.<br>
+▸ ***[Fallout: New Vegas](https://store.steampowered.com/app/22490/Fallout_New_Vegas/) / [TTW](https://taleoftwowastelands.com)*** — built by the guides that actually work:<br>
 <img src="https://www.google.com/s2/favicons?domain=vivanewvegas.moddinglinked.com&sz=64" width="16" align="absmiddle" alt="" /> [Viva New Vegas](https://vivanewvegas.moddinglinked.com/intro.html)<br>
 <img src="https://www.google.com/s2/favicons?domain=mojaveexpressguide.com&sz=64" width="16" align="absmiddle" alt="" /> [Mojave Express](https://mojaveexpressguide.com/docs/Introduction)<br>
 <img src="https://www.google.com/s2/favicons?domain=wastelandsurvival.guide&sz=64" width="16" align="absmiddle" alt="" /> [Wasteland Survival Guide](https://wastelandsurvival.guide/docs/intro)
