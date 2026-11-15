@@ -19,7 +19,7 @@ I like understanding how things work, finding the right tools for the job, and b
 
 ---
 
-### ▸ Things I've built
+### ▸ Things I've built so far
 
 <img src="https://github.com/nadludyna/typeTrainer/raw/HEAD/web/favicon.svg" width="28" align="absmiddle" alt="" /> &nbsp;[**typeTrainer**](https://github.com/nadludyna/typeTrainer) — a typing trainer that finds your weak letters and builds the next words around them. Real words only. My engineering thesis.<br>
 `Go` `JavaScript` `PostgreSQL`
