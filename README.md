@@ -9,6 +9,8 @@ A vibe coder — with taste. Curious by default, AuDHD by design.<br>
 
 ---
 
+<div align="center">
+
 ### ▸ Things I've built so far
 
 <img src="https://github.com/nadludyna/typeTrainer/raw/HEAD/web/favicon.svg" width="28" align="absmiddle" alt="" /> &nbsp;[**typeTrainer**](https://github.com/nadludyna/typeTrainer) — a typing trainer that finds your weak letters and builds the next words around them. Real words only. My engineering thesis.<br>
@@ -25,6 +27,8 @@ A vibe coder — with taste. Curious by default, AuDHD by design.<br>
   <a href="https://github.com/nadludyna/tyaga"><img src="https://github.com/nadludyna/tyaga/raw/HEAD/docs/screenshot.png" height="150" alt="ТЯГА" /></a>
   <a href="https://nadludyna.github.io/top10gier/"><img src="assets/shots/top10gier.jpg" height="150" alt="TOP 10 GIER" /></a>
 </p>
+
+</div>
 
 ---
 
