@@ -81,7 +81,7 @@ I've been using LLMs since GPT-3. Today, [Claude](https://claude.ai) is my main 
 
 **Building:** once enough notes and references pile up, something clicks: *okay, this could be a thing.* I point Claude to the relevant part of the vault, and we build from my own notes instead of a blank prompt. Then it's collaborative engineering: project rules, focused branches, pull requests, tests, and performance checks before merging.
 
-**Other models:** I've tried most mainstream and Chinese ones ([GLM 5.3](https://z.ai) was a pleasant surprise), but Claude stays the strongest all-rounder for me. [Gemini](https://gemini.google.com) covers side chats and images; other models handle second opinions and code audits.
+**Other models:** I've tried most mainstream and Chinese ones ([GLM 5.3](https://z.ai), [DeepSeek](https://www.deepseek.com) and [Kimi](https://www.kimi.com) were pleasant surprises), but Claude stays the strongest all-rounder for me. [Gemini](https://gemini.google.com) covers side chats and images; other models handle second opinions and code audits.
 
 ---
 
