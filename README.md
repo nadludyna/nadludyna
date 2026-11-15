@@ -219,7 +219,8 @@ Current setup: <a href="https://www.monsgeek.com"><kbd>MonsGeek FUN60 Ultra</kbd
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Shygirl">Shygirl</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=ADELA">ADELA</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Billie+Eilish">Billie Eilish</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Caroline+Polachek">Caroline Polachek</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Caroline+Polachek">Caroline Polachek</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Dev+Lemons">Dev Lemons</a>
 <br><br>
 </details>
 <details>
@@ -232,7 +233,7 @@ Current setup: <a href="https://www.monsgeek.com"><kbd>MonsGeek FUN60 Ultra</kbd
 <br><br>
 </details>
 <details>
-<summary><img src="assets/icons/opposite.svg" width="26" align="absmiddle" alt="" /> <b>The exact opposite</b> <sub>— breakcore · digital hardcore · rage · trap · hyperpop</sub></summary>
+<summary><img src="assets/icons/opposite.svg" width="26" align="absmiddle" alt="" /> <b>Loud &amp; chaotic</b> <sub>— breakcore · digital hardcore · rage · trap · hyperpop</sub></summary>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=bye2">bye2</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Machine+Girl">Machine Girl</a><br>
@@ -242,11 +243,8 @@ Current setup: <a href="https://www.monsgeek.com"><kbd>MonsGeek FUN60 Ultra</kbd
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=strxwberrymilk">strxwberrymilk</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Yameii+Online">Yameii Online</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Odetari">Odetari</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Dev+Lemons">Dev Lemons</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Dekma">Dekma</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Ghostemane">Ghostemane</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Scarlxrd">Scarlxrd</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=DMT+Boy">DMT Boy</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Tyler%2C+The+Creator">Tyler, The Creator</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Travis+Scott">Travis Scott</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Playboi+Carti">Playboi Carti</a><br>
@@ -286,7 +284,9 @@ Current setup: <a href="https://www.monsgeek.com"><kbd>MonsGeek FUN60 Ultra</kbd
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB+%D0%9A%D1%80%D1%83%D0%B3">Михаил Круг</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=%D0%A8%D0%BE%D1%80%D1%82%D0%BF%D0%B0%D1%80%D0%B8%D1%81">Шортпарис</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=IC3PEAK">IC3PEAK</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ Klavdia Petrivna: <a href="https://www.youtube.com/watch?v=nApYUBVaJYY">one</a> · <a href="https://www.youtube.com/watch?v=sY-zOE6q83c">two</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ Klavdia Petrivna: <a href="https://www.youtube.com/watch?v=nApYUBVaJYY">one</a> · <a href="https://www.youtube.com/watch?v=sY-zOE6q83c">two</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Dekma">Dekma</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=DMT+Boy">DMT Boy</a>
 <br><br>
 </details>
 <details>
