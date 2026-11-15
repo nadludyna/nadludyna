@@ -40,11 +40,11 @@ I like understanding how things work, finding the right tools for the job, and b
 
 ```mermaid
 %%{init: {"theme": "base", "themeVariables": {"fontFamily": "JetBrains Mono, monospace", "lineColor": "#9FE870", "primaryTextColor": "#9FE870", "textColor": "#9FE870", "edgeLabelBackground": "#101510"}}}%%
-flowchart LR
-    P(["🧩 problem"]) --> D["<b>1 · define</b><br/>what actually<br/>needs solving?"]
-    D --> S{"<b>2 · search</b><br/>does a good<br/>tool exist?"}
-    S -- yes --> U["✅ <b>use it</b>"]
-    S -- no --> B["🛠️ <b>build</b><br/>a focused tool<br/>for exactly that"]
+flowchart TD
+    P(["🧩 problem"]) --> D["<b>define</b><br/>what actually needs solving?"]
+    D --> S{"<b>search</b><br/>good tool exists?"}
+    S -- yes --> U["✅ use it"]
+    S -- no --> B["🛠️ build my own"]
     classDef box fill:#101510,stroke:#9FE870,color:#9FE870,stroke-width:1.5px
     class P,D,S,U,B box
 ```
