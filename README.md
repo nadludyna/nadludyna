@@ -40,13 +40,6 @@ A vibe coder — with taste. Curious by default, AuDHD by design.<br>
 
 <img src="assets/icons/tinker.svg" width="26" align="absmiddle" alt="" /> **Tinkering** — userscripts, Android app tweaks for my family (like [Morphe](https://morphe.software) patches for YouTube), and getting old games to run on modern PCs.
 
-<img src="assets/icons/modding.svg" width="26" align="absmiddle" alt="" /> **Modding**<br>
-<img src="assets/icons/minecraft.svg" width="22" align="absmiddle" alt="" /> ***Minecraft*** — <img src="https://www.google.com/s2/favicons?domain=prismlauncher.org&sz=64" width="20" align="absmiddle" alt="" /> [Prism Launcher](https://prismlauncher.org) for minimal modpacks, the best way to juggle instances.<br>
-<img src="assets/icons/fallout.svg" width="22" align="absmiddle" alt="" /> ***[Fallout: New Vegas](https://store.steampowered.com/app/22490/Fallout_New_Vegas/) / [TTW](https://taleoftwowastelands.com)*** — set up by following these guides:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?domain=vivanewvegas.moddinglinked.com&sz=64" width="20" align="absmiddle" alt="" /> [Viva New Vegas](https://vivanewvegas.moddinglinked.com/intro.html)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?domain=mojaveexpressguide.com&sz=64" width="20" align="absmiddle" alt="" /> [Mojave Express](https://mojaveexpressguide.com/docs/Introduction)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?domain=wastelandsurvival.guide&sz=64" width="20" align="absmiddle" alt="" /> [Wasteland Survival Guide](https://wastelandsurvival.guide/docs/intro)
-
 <img src="assets/icons/opensource.svg" width="26" align="absmiddle" alt="" /> **Open source** — not a rule, more of a pattern. I pick software that's popular for a reason, solid, and does its job — and more often than not, that turns out to be open source. Happy to pay for anything that earns it.
 
 ---
@@ -98,6 +91,13 @@ I've been using LLMs since GPT-3. Today, Claude is my main coding agent — and 
 
 <img src="assets/icons/gaming.svg" width="26" align="absmiddle" alt="" /> **Gaming** — I play a lot of different things, but I keep coming back to the same few:<br>
 `atmospheric worlds` `RPGs` `immersive sims` `horror` `weird indie` — plus a soft spot for puzzles and the occasional cozy game. The full library is on [Steam](https://steamcommunity.com/id/nadludyna/), my all-time top 10 is [here](https://nadludyna.github.io/top10gier/).
+
+<img src="assets/icons/modding.svg" width="26" align="absmiddle" alt="" /> **Modding**<br>
+<img src="assets/icons/minecraft.svg" width="22" align="absmiddle" alt="" /> ***Minecraft*** — <img src="https://www.google.com/s2/favicons?domain=prismlauncher.org&sz=64" width="20" align="absmiddle" alt="" /> [Prism Launcher](https://prismlauncher.org) for minimal modpacks, the best way to juggle instances.<br>
+<img src="assets/icons/fallout.svg" width="22" align="absmiddle" alt="" /> ***Fallout: New Vegas / TTW*** — set up by following these guides:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?domain=vivanewvegas.moddinglinked.com&sz=64" width="20" align="absmiddle" alt="" /> [Viva New Vegas](https://vivanewvegas.moddinglinked.com/intro.html)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?domain=mojaveexpressguide.com&sz=64" width="20" align="absmiddle" alt="" /> [Mojave Express](https://mojaveexpressguide.com/docs/Introduction)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?domain=wastelandsurvival.guide&sz=64" width="20" align="absmiddle" alt="" /> [Wasteland Survival Guide](https://wastelandsurvival.guide/docs/intro)
 
 <img src="assets/icons/typing.svg" width="26" align="absmiddle" alt="" /> **Typing** — regular practice on [Monkeytype](https://monkeytype.com/profile/nadludyna), tracking speed and accuracy. It's also my main way to switch my head off. I like mechanical keyboards.<br>
 Current setup: <a href="https://www.monsgeek.com"><kbd>MonsGeek FUN60 Ultra</kbd></a> + <kbd>Astrolink switches</kbd>
@@ -343,7 +343,6 @@ My head never really goes quiet, so I rest by doing: fast typing, music that kee
 <img src="assets/icons/books.svg" width="26" align="absmiddle" alt="" /> **Also into** — philosophy as a curious reader ([Nietzsche](https://plato.stanford.edu/entries/nietzsche/), [Hegel](https://plato.stanford.edu/entries/hegel/), [Wittgenstein](https://plato.stanford.edu/entries/wittgenstein/)), questions of consciousness and AI, and hoarding good tools, guides and YouTube channels like other people hoard tabs.
 
 </details>
-
 
 ---
 
