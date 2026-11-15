@@ -17,7 +17,7 @@ I automate boring stuff, experiment with Linux, and occasionally build tools jus
 
 ### ▸ Things I've built
 
-- [**typeTrainer**](https://github.com/nadludyna/typeTrainer) — a typing trainer that finds your weak letters and builds the next words around them. My engineering thesis. Go, JavaScript, PostgreSQL. [Try it](https://nadludyna.github.io/typeTrainer/)
+- [**typeTrainer**](https://github.com/nadludyna/typeTrainer) — a typing trainer that finds your weak letters and builds the next words around them. My engineering thesis. Go, JavaScript, PostgreSQL.[Try it](https://nadludyna.github.io/typeTrainer/)
 - [**ТЯГА**](https://github.com/nadludyna/tyaga) — paste a YouTube link, get a file. A small Go app with a browser UI, built on yt-dlp, with CI and releases for Windows, macOS and Linux.
 
 ---
