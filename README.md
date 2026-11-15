@@ -2,7 +2,7 @@
 
 <img src="assets/terminal.svg" width="480" alt="$ whoami → curious tech tinkerer" />
 
-Engineer, not a developer: I figure out what's needed, use whatever gets results, and build the rest with AI.<br>
+**Engineer, not a developer:** I figure out what's needed, use whatever gets results, and build the rest with AI.<br>
 I pick things up fast — from zero to something useful in hours, not weeks.<br>
 A vibe coder — with taste. Curious by default, AuDHD by design.<br>
 **Currently going deeper into:** DevOps.
@@ -30,9 +30,9 @@ A vibe coder — with taste. Curious by default, AuDHD by design.<br>
 
 ### ▸ Around the computer
 
-<img src="assets/icons/linux.svg" width="26" align="absmiddle" alt="" /> **Linux** — I've tried quite a few distros, some hands-on, some just by reading and watching about them. What I care about is practical value: a clean, focused system without noise or bloat. My Linux home is [CachyOS](https://cachyos.org) — built on [Arch](https://archlinux.org), polished, a great all-rounder, with KDE Plasma on top.
+<img src="assets/icons/linux.svg" width="26" align="absmiddle" alt="" /> **Linux** — Distro-curious, practical first: a clean, focused system without noise or bloat. Home base is [CachyOS](https://cachyos.org) — built on [Arch](https://archlinux.org) — with KDE Plasma.
 
-<img src="assets/icons/windows.svg" width="26" align="absmiddle" alt="" /> **Windows** — my main system right now. Clean installs with [Rufus](https://rufus.ie) (it even downloads the official ISO for you) or [balenaEtcher](https://etcher.balena.io). Then [WinUtil](https://github.com/ChrisTitusTech/winutil) by Chris Titus Tech for tweaks and debloat, [UniGetUI](https://devolutions.net/unigetui/) to install and update everything in one place, and driver cleanup. Day to day: WSL and PowerShell.
+<img src="assets/icons/windows.svg" width="26" align="absmiddle" alt="" /> **Windows** — Main system right now. Clean installs via [Rufus](https://rufus.ie) (it even grabs the official ISO) or [balenaEtcher](https://etcher.balena.io), then [WinUtil](https://github.com/ChrisTitusTech/winutil) for tweaks and [UniGetUI](https://devolutions.net/unigetui/) for updates. WSL and PowerShell day to day.
 
 <img src="assets/icons/pendulum.svg" width="26" align="absmiddle" alt="" /> **The pendulum** — Windows annoys me → I move to CachyOS for a while → Linux wears me out → back to Windows. Repeat. Both setups stay ready, so switching is cheap.
 
@@ -82,7 +82,7 @@ I've been using LLMs since GPT-3. Today, Claude is my main coding agent — and 
 
 **Thinking:** I say raw thoughts straight to Claude and talk them through. Then I let them brew — walk around, come back, finish the conversation. Whatever's worth keeping becomes a Markdown note in my Obsidian vault.
 
-**Building:** once enough notes and references pile up, something clicks: *okay, this could be a thing.* I point Claude to the relevant part of the vault, and we build from my own notes instead of a blank prompt. Then it's collaborative engineering: project rules, focused branches, pull requests, tests, and performance checks before merging.
+**Building:** once enough notes pile up and something clicks — *okay, this could be a thing* — I point Claude to that part of the vault and we build from my notes, not a blank prompt. Branches, PRs and tests before anything merges.
 
 **Other models:** I've tried most mainstream and Chinese ones ([GLM 5.3](https://z.ai), [DeepSeek](https://www.deepseek.com) and [Kimi](https://www.kimi.com) were pleasant surprises), but Claude stays the strongest all-rounder for me. Gemini covers side chats and images; other models handle second opinions and code audits.
 
@@ -96,7 +96,8 @@ I've been using LLMs since GPT-3. Today, Claude is my main coding agent — and 
 <img src="assets/icons/typing.svg" width="26" align="absmiddle" alt="" /> **Typing** — regular practice on [Monkeytype](https://monkeytype.com/profile/nadludyna), tracking speed and accuracy. It's also my main way to switch my head off. I like mechanical keyboards.<br>
 Current setup: <a href="https://www.monsgeek.com"><kbd>MonsGeek FUN60 Ultra</kbd></a> + <kbd>Astrolink switches</kbd>
 
-<img src="assets/icons/perspective.svg" width="26" align="absmiddle" alt="" /> **Perspective** — I'm AuDHD: autistic and ADHD at once. I say it openly because it makes me easier to understand — for other people and for myself. My brain often takes a non-standard route. That's where a lot of my ideas come from — and also some of the friction. My head never really goes quiet, so I rest by doing, not by stopping: fast typing, music that keeps evolving, repeating phrases and voices until they sound just right (which is also why impressions come easy). I've learned to work with it instead of fighting it: no romanticizing the hard parts, no making them my whole identity. Adapt, stay curious, leave room for joy. *[Amor fati](https://en.wikipedia.org/wiki/Amor_fati).*
+<img src="assets/icons/perspective.svg" width="26" align="absmiddle" alt="" /> **Perspective** — I'm AuDHD: autistic and ADHD at once. I say it openly because it makes me easier to understand — for others and for myself. My brain often takes a non-standard route: that's where many of my ideas come from, and some of the friction.<br><br>
+My head never really goes quiet, so I rest by doing: fast typing, music that keeps evolving, repeating voices until they sound just right (hence the easy impressions). I work with it, not against it — no romanticizing, no making it my whole identity. *[Amor fati](https://en.wikipedia.org/wiki/Amor_fati).*
 
 <img src="assets/icons/music.svg" width="26" align="absmiddle" alt="" /> **Music** — a tuning knob for my nervous system: sometimes to balance a mood, sometimes to lean into it. These are just the highlights: my taste swings like a pendulum — something clicks, wears off, and later I come back and hear it anew. Some of it I know inside out, some I just heard a few times and it stuck.
 
