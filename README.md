@@ -90,6 +90,12 @@ I've been using LLMs since GPT-3. Today, Claude is my main coding agent — and 
 
 ### ▸ Beyond tech
 
+<img src="assets/icons/languages.svg" width="26" align="absmiddle" alt="" /> **Languages** — Ukrainian · Russian · Polish · English · German *(basic)*
+
+<details>
+<summary><b>The person behind the work</b> <sub>— games, typing, AuDHD, music, philosophy · click to expand</sub></summary>
+<br>
+
 <img src="assets/icons/gaming.svg" width="26" align="absmiddle" alt="" /> **Gaming** — I play a lot of different things, but I keep coming back to the same few:<br>
 `atmospheric worlds` `RPGs` `immersive sims` `horror` `weird indie` — plus a soft spot for puzzles and the occasional cozy game. The full library is on [Steam](https://steamcommunity.com/id/nadludyna/), my all-time top 10 is [here](https://nadludyna.github.io/top10gier/).
 
@@ -336,7 +342,8 @@ My head never really goes quiet, so I rest by doing: fast typing, music that kee
 
 <img src="assets/icons/books.svg" width="26" align="absmiddle" alt="" /> **Also into** — philosophy as a curious reader ([Nietzsche](https://plato.stanford.edu/entries/nietzsche/), [Hegel](https://plato.stanford.edu/entries/hegel/), [Wittgenstein](https://plato.stanford.edu/entries/wittgenstein/)), questions of consciousness and AI, and hoarding good tools, guides and YouTube channels like other people hoard tabs.
 
-<img src="assets/icons/languages.svg" width="26" align="absmiddle" alt="" /> **Languages** — Ukrainian · Russian · Polish · English · German *(basic)*
+</details>
+
 
 ---
 
