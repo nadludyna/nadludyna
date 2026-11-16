@@ -13,8 +13,6 @@ A vibe coder — with taste. Curious by default, AuDHD by design.<br>
 
 ---
 
-<div align="center">
-
 ### ▸ Things I've built so far
 
 <img src="https://github.com/nadludyna/typeTrainer/raw/HEAD/web/favicon.svg" width="28" align="absmiddle" alt="" /> &nbsp;[**typeTrainer**](https://github.com/nadludyna/typeTrainer) — a typing trainer that finds your weak letters and builds the next words around them. Real words only. My engineering thesis.<br>
@@ -25,8 +23,6 @@ A vibe coder — with taste. Curious by default, AuDHD by design.<br>
 
 <img src="https://github.com/nadludyna/top10gier/raw/HEAD/grafika/ikona/favicon-192.png" width="28" align="absmiddle" alt="" /> &nbsp;[**TOP 10 GIER**](https://github.com/nadludyna/top10gier) — my personal hall of fame: ten favorite games, with tiers and very subjective reviews. A one-page site for a university web course.<br>
 <img src="https://img.shields.io/badge/HTML-101510?style=flat-square" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-101510?style=flat-square" alt="CSS" /> <img src="https://img.shields.io/badge/VANILLA_JS-101510?style=flat-square" alt="VANILLA JS" />
-
-</div>
 
 ---
 
