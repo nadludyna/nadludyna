@@ -15,10 +15,10 @@ A vibe coder — with taste. Curious by default, AuDHD by design.<br>
 
 ### ▸ Things I've built so far
 
-<img src="https://github.com/nadludyna/typeTrainer/raw/HEAD/web/favicon.svg" width="28" align="absmiddle" alt="" /> &nbsp;[**typeTrainer**](https://github.com/nadludyna/typeTrainer) — a typing trainer that finds your weak letters and builds the next words around them. Real words only. My engineering thesis.<br>
+<img src="https://github.com/nadludyna/typeTrainer/raw/HEAD/web/favicon.svg" width="28" align="absmiddle" alt="" /> &nbsp;[**typeTrainer**](https://github.com/nadludyna/typeTrainer) — a typing trainer that finds your weak letters and builds the next words around them. Real words only. I built it around the thing I do most to switch my head off — typing — and it became my engineering thesis.<br>
 <img src="https://img.shields.io/badge/GO-101510?style=flat-square" alt="GO" /> <img src="https://img.shields.io/badge/JAVASCRIPT-101510?style=flat-square" alt="JAVASCRIPT" /> <img src="https://img.shields.io/badge/POSTGRESQL-101510?style=flat-square" alt="POSTGRESQL" />
 
-<img src="https://github.com/nadludyna/tyaga/raw/HEAD/winres/icon.svg" width="28" align="absmiddle" alt="" /> &nbsp;[**ТЯГА**](https://github.com/nadludyna/tyaga) — paste a YouTube link, get a file. One small program with a browser UI, built on [yt-dlp](https://github.com/yt-dlp/yt-dlp), with releases for Windows, macOS and Linux.<br>
+<img src="https://github.com/nadludyna/tyaga/raw/HEAD/winres/icon.svg" width="28" align="absmiddle" alt="" /> &nbsp;[**ТЯГА**](https://github.com/nadludyna/tyaga) — paste a YouTube link, get a file. One small program with a browser UI, built on [yt-dlp](https://github.com/yt-dlp/yt-dlp), with releases for Windows, macOS and Linux. It started life as a Windows batch script and grew up into a proper Go app.<br>
 <img src="https://img.shields.io/badge/GO-101510?style=flat-square" alt="GO" /> <img src="https://img.shields.io/badge/GITHUB_ACTIONS-101510?style=flat-square" alt="GITHUB ACTIONS" />
 
 <img src="https://github.com/nadludyna/top10gier/raw/HEAD/grafika/ikona/favicon-192.png" width="28" align="absmiddle" alt="" /> &nbsp;[**TOP 10 GIER**](https://github.com/nadludyna/top10gier) — my personal hall of fame: ten favorite games, with tiers and very subjective reviews. A one-page site for a university web course.<br>
@@ -28,11 +28,11 @@ A vibe coder — with taste. Curious by default, AuDHD by design.<br>
 
 ### ▸ Around the computer
 
-<img src="assets/icons/linux.svg" width="26" align="absmiddle" alt="" /> **Linux** — Distro-curious, practical first: a clean, focused system without noise or bloat. Home base is [CachyOS](https://cachyos.org) — built on [Arch](https://archlinux.org) — with KDE Plasma.
+<img src="assets/icons/linux.svg" width="26" align="absmiddle" alt="" /> **Linux** — Distro-curious, practical first. I've poked at plenty of distros, and every time I land on the same wish: a system that doesn't argue with me. Home base is [CachyOS](https://cachyos.org) — built on [Arch](https://archlinux.org) — with KDE Plasma.
 
 <img src="assets/icons/windows.svg" width="26" align="absmiddle" alt="" /> **Windows** — Main system right now. Clean installs via [Rufus](https://rufus.ie) or [balenaEtcher](https://etcher.balena.io), [WinUtil](https://github.com/ChrisTitusTech/winutil) for tweaks, [UniGetUI](https://devolutions.net/unigetui/) for updates. WSL and PowerShell day to day.
 
-<img src="assets/icons/pendulum.svg" width="26" align="absmiddle" alt="" /> **The pendulum** — Windows ⇄ CachyOS, depending on which one annoys me less this month. Both setups stay ready, so switching is cheap.
+<img src="assets/icons/pendulum.svg" width="26" align="absmiddle" alt="" /> **The pendulum** — Schopenhauer said life swings like a pendulum between pain and boredom. Mine swings between Windows and CachyOS, depending on which one annoys me less this month. Both setups stay ready, so switching is cheap.
 
 <img src="assets/icons/selfhost.svg" width="26" align="absmiddle" alt="" /> **Self-hosting** — one project so far: a modded [Minecraft](https://www.minecraft.net) server on [Fabric](https://fabricmc.net), with scripts that check for mod updates.
 
@@ -57,6 +57,12 @@ A vibe coder — with taste. Curious by default, AuDHD by design.<br>
   <code>docs = part of the work</code>
 </p>
 
+**Where this comes from:**
+- **Ideas are tools.** Closest to John Dewey's pragmatism: an idea is worth what it lets you do. So I don't argue about tools — I try them and keep what works.
+- **Keep the frame, look up the rest.** Charlie Munger's "latticework of mental models": learn the few big ideas of a field, and the details hang on them by themselves.
+- **The best part is not knowing yet.** Lessing said that if God offered him all truth in one hand and the endless search for it in the other, he'd take the search. Same here: the moment something unknown clicks into place happens once, and it's my favorite feeling.
+- **Fewer, sharper moves.** Something like the Taoist *wu wei*: let the picture form, then act once and precisely, instead of looking busy.
+
 ---
 
 ### ▸ Working with AI
@@ -71,9 +77,9 @@ I've been using LLMs since GPT-3. Today, Claude is my main coding agent — and 
 
 `raw thought` → `talk it through` → `let it brew` → `.md in the vault` → `notes pile up` → `build`
 
-**Thinking:** raw thoughts go straight to Claude. I talk them through, let them brew, and keep what's worth it as Markdown notes in my Obsidian vault.
+**Thinking:** raw thoughts go straight to Claude. I talk them through, let them brew, and keep what's worth it as Markdown notes in my Obsidian vault. Clark and Chalmers called it the *extended mind* — a notebook can be part of how you think. My vault is exactly that.
 
-**Building:** once enough notes pile up and something clicks — *okay, this could be a thing* — I point Claude to that part of the vault and we build from my notes, not a blank prompt. Branches, PRs and tests before anything merges.
+**Building:** once enough notes pile up and something clicks — *okay, this could be a thing* — I point Claude to that part of the vault and we build from my notes, not a blank prompt. Branches, PRs and tests before anything merges. Example: this README started as "make it less boring" and turned into an evening of drafts, cuts and arguing about where a cursor should blink.
 
 **Other models:** I've tried most mainstream and Chinese ones. Claude stays the main tool; the others give second opinions and code audits.
 
@@ -101,7 +107,8 @@ I've been using LLMs since GPT-3. Today, Claude is my main coding agent — and 
 Current setup: <a href="https://www.monsgeek.com"><kbd>MonsGeek FUN60 Ultra</kbd></a> + <kbd>Astrolink switches</kbd>
 
 <img src="assets/icons/perspective.svg" width="26" align="absmiddle" alt="" /> **Perspective** — I'm AuDHD: autistic and ADHD at once. I say it openly because it makes me easier to understand — for others and for myself. My brain often takes a non-standard route: that's where many of my ideas come from, and some of the friction.<br><br>
-My head never really goes quiet, so I rest by doing: fast typing, music that keeps evolving, repeating voices until they sound just right (hence the easy impressions). I work with it, not against it — no romanticizing, no making it my whole identity. *[Amor fati](https://en.wikipedia.org/wiki/Amor_fati).*
+My head never really goes quiet, so I rest by doing: fast typing, music that keeps evolving, repeating voices until they sound just right (hence the easy impressions). I work with it, not against it — no romanticizing, no making it my whole identity. *[Amor fati](https://en.wikipedia.org/wiki/Amor_fati).*<br><br>
+I can often predict how something will go — but predicting is dry, and living it never matches the forecast. Every moment happens once; the Japanese call it *ichigo ichie*. Even washing dishes: different plate, different move, first and last time. That's why I don't get bored of the same things.
 
 <img src="assets/icons/music.svg" width="26" align="absmiddle" alt="" /> **Music** — a tuning knob for my nervous system: sometimes to balance a mood, sometimes to lean into it. These are just the highlights: my taste swings like a pendulum — something clicks, wears off, and later I come back and hear it anew. Some of it I know inside out, some I just heard a few times and it stuck.
 
@@ -338,7 +345,7 @@ My head never really goes quiet, so I rest by doing: fast typing, music that kee
 <br><br>
 </details>
 
-<img src="assets/icons/books.svg" width="26" align="absmiddle" alt="" /> **Also into** — philosophy as a curious reader ([Nietzsche](https://plato.stanford.edu/entries/nietzsche/), [Hegel](https://plato.stanford.edu/entries/hegel/), [Wittgenstein](https://plato.stanford.edu/entries/wittgenstein/)), questions of consciousness and AI, and hoarding good tools, guides and YouTube channels like other people hoard tabs.
+<img src="assets/icons/books.svg" width="26" align="absmiddle" alt="" /> **Also into** — philosophy as a curious reader: [Nietzsche](https://plato.stanford.edu/entries/nietzsche/) for *amor fati*, [Hegel](https://plato.stanford.edu/entries/hegel/) for the way ideas come back in spirals, [Wittgenstein](https://plato.stanford.edu/entries/wittgenstein/) for knowing where words stop working. Plus questions of consciousness and AI, and hoarding good tools, guides and YouTube channels like other people hoard tabs.
 
 </details>
 
