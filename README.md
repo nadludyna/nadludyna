@@ -301,7 +301,7 @@ I can often predict how something will go, but predicting is dry, and living it 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Deus+Ex+soundtrack">Deus Ex</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=System+Shock+2+soundtrack">System Shock 2</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Quake+soundtrack">Quake</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://www.youtube.com/playlist?list=PLn4oIa4_kWRqaLK6eTHdKqYqcpA9_-thv">Silent Hill 1–4</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://www.youtube.com/playlist?list=PLn4oIa4_kWRqaLK6eTHdKqYqcpA9_-thv">Silent Hill 1-4</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Dark+Souls+soundtrack">Dark Souls 1 & 3</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=FEAR+soundtrack">F.E.A.R.</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=DOOM+Mick+Gordon+soundtrack">DOOM 2016 & Eternal</a><br>
