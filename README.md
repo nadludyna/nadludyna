@@ -28,7 +28,7 @@ A vibe coder — with taste. Curious by default, AuDHD by design.<br>
 
 ### ▸ Around the computer
 
-<img src="assets/icons/linux.svg" width="26" align="absmiddle" alt="" /> **Linux** — Distro-curious, practical first. I've poked at plenty of distros, and every time I land on the same wish: a system that doesn't argue with me. Home base is [CachyOS](https://cachyos.org) — built on [Arch](https://archlinux.org) — with KDE Plasma.
+<img src="assets/icons/linux.svg" width="26" align="absmiddle" alt="" /> **Linux** — Distro-curious, practical first. I've poked at plenty of distros, and every time it comes down to the same thing: a clean, focused system without noise or bloat. Home base is [CachyOS](https://cachyos.org) — built on [Arch](https://archlinux.org) — with KDE Plasma.
 
 <img src="assets/icons/windows.svg" width="26" align="absmiddle" alt="" /> **Windows** — Main system right now. Clean installs via [Rufus](https://rufus.ie) or [balenaEtcher](https://etcher.balena.io), [WinUtil](https://github.com/ChrisTitusTech/winutil) for tweaks, [UniGetUI](https://devolutions.net/unigetui/) for updates. WSL and PowerShell day to day.
 
