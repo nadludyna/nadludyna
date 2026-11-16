@@ -28,13 +28,13 @@ A vibe coder — with taste. Curious by default, AuDHD by design.<br>
 
 ### ▸ Around the computer
 
-<img src="assets/icons/linux.svg" width="26" align="absmiddle" alt="" /> **Linux** — Distro-curious, practical first. I've poked at plenty of distros, and every time it comes down to the same thing: a clean, focused system without noise or bloat. Home base is [CachyOS](https://cachyos.org) — built on [Arch](https://archlinux.org) — with KDE Plasma.
+<img src="assets/icons/linux.svg" width="26" align="absmiddle" alt="" /> **Linux** — Distro-curious, practical first. I've poked at plenty of distros, and every time it comes down to the same thing: a clean, focused system without noise or bloat. Home base is [CachyOS](https://cachyos.org) — built on Arch — with KDE Plasma.
 
 <img src="assets/icons/windows.svg" width="26" align="absmiddle" alt="" /> **Windows** — Main system right now. Clean installs via [Rufus](https://rufus.ie) or [balenaEtcher](https://etcher.balena.io), [WinUtil](https://github.com/ChrisTitusTech/winutil) for tweaks, [UniGetUI](https://devolutions.net/unigetui/) for updates. WSL and PowerShell day to day.
 
 <img src="assets/icons/pendulum.svg" width="26" align="absmiddle" alt="" /> **The pendulum** — Schopenhauer said life swings like a pendulum between pain and boredom. Mine swings between Windows and CachyOS, depending on which one annoys me less this month. Both setups stay ready, so switching is cheap.
 
-<img src="assets/icons/selfhost.svg" width="26" align="absmiddle" alt="" /> **Self-hosting** — one project so far: a modded [Minecraft](https://www.minecraft.net) server on [Fabric](https://fabricmc.net), with scripts that check for mod updates.
+<img src="assets/icons/selfhost.svg" width="26" align="absmiddle" alt="" /> **Self-hosting** — one project so far: a modded Minecraft server on [Fabric](https://fabricmc.net), with scripts that check for mod updates.
 
 <img src="assets/icons/tinker.svg" width="26" align="absmiddle" alt="" /> **Tinkering** — userscripts, patched Android apps for my family ([Morphe](https://morphe.software)), and getting old games to run on modern PCs — the fix is usually on [PCGamingWiki](https://www.pcgamingwiki.com), Reddit, or one question to AI away.
 
@@ -94,7 +94,7 @@ I've been using LLMs since GPT-3. Today, Claude is my main coding agent — and 
 <br>
 
 <img src="assets/icons/gaming.svg" width="26" align="absmiddle" alt="" /> **Gaming** — I play a lot of different things, but I keep coming back to the same few:<br>
-`atmospheric worlds` `RPGs` `immersive sims` `horror` `weird indie` — plus a soft spot for puzzles and the occasional cozy game. The full library is on [Steam](https://steamcommunity.com/id/nadludyna/), my all-time top 10 is [here](https://nadludyna.github.io/top10gier/).
+`atmospheric worlds` `RPGs` `immersive sims` `horror` `weird indie` — plus a soft spot for puzzles and the occasional cozy game. The full library is on Steam, my all-time top 10 is [here](https://nadludyna.github.io/top10gier/).
 
 <img src="assets/icons/modding.svg" width="26" align="absmiddle" alt="" /> **Modding**<br>
 <img src="assets/icons/minecraft.svg" width="22" align="absmiddle" alt="" /> ***Minecraft*** — <img src="https://www.google.com/s2/favicons?domain=prismlauncher.org&sz=64" width="20" align="absmiddle" alt="" /> [Prism Launcher](https://prismlauncher.org) for minimal modpacks, the best way to juggle instances.<br>
@@ -103,8 +103,8 @@ I've been using LLMs since GPT-3. Today, Claude is my main coding agent — and 
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?domain=mojaveexpressguide.com&sz=64" width="20" align="absmiddle" alt="" /> [Mojave Express](https://mojaveexpressguide.com/docs/Introduction)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?domain=wastelandsurvival.guide&sz=64" width="20" align="absmiddle" alt="" /> [Wasteland Survival Guide](https://wastelandsurvival.guide/docs/intro)
 
-<img src="assets/icons/typing.svg" width="26" align="absmiddle" alt="" /> **Typing** — regular practice on [Monkeytype](https://monkeytype.com/profile/nadludyna), tracking speed and accuracy. It's also my main way to switch my head off. I like mechanical keyboards.<br>
-Current setup: <a href="https://www.monsgeek.com"><kbd>MonsGeek FUN60 Ultra</kbd></a> + <kbd>Astrolink switches</kbd>
+<img src="assets/icons/typing.svg" width="26" align="absmiddle" alt="" /> **Typing** — regular practice on Monkeytype, tracking speed and accuracy. It's also my main way to switch my head off. I like mechanical keyboards.<br>
+Current setup: <kbd>MonsGeek FUN60 Ultra</kbd> + <kbd>Astrolink switches</kbd>
 
 <img src="assets/icons/perspective.svg" width="26" align="absmiddle" alt="" /> **Perspective** — I'm AuDHD: autistic and ADHD at once. I say it openly because it makes me easier to understand — for others and for myself. My brain often takes a non-standard route: that's where many of my ideas come from, and some of the friction.<br><br>
 My head never really goes quiet, so I rest by doing: fast typing, music that keeps evolving, repeating voices until they sound just right (hence the easy impressions). I work with it, not against it — no romanticizing, no making it my whole identity. *[Amor fati](https://en.wikipedia.org/wiki/Amor_fati).*<br><br>
@@ -345,7 +345,7 @@ I can often predict how something will go — but predicting is dry, and living 
 <br><br>
 </details>
 
-<img src="assets/icons/books.svg" width="26" align="absmiddle" alt="" /> **Also into** — philosophy as a curious reader: [Nietzsche](https://plato.stanford.edu/entries/nietzsche/) for *amor fati*, [Hegel](https://plato.stanford.edu/entries/hegel/) for the way ideas come back in spirals, [Wittgenstein](https://plato.stanford.edu/entries/wittgenstein/) for knowing where words stop working. Plus questions of consciousness and AI, and hoarding good tools, guides and YouTube channels like other people hoard tabs.
+<img src="assets/icons/books.svg" width="26" align="absmiddle" alt="" /> **Also into** — philosophy as a curious reader: Nietzsche for *amor fati*, Hegel for the way ideas come back in spirals, Wittgenstein for knowing where words stop working. Plus questions of consciousness and AI, and hoarding good tools, guides and YouTube channels like other people hoard tabs.
 
 </details>
 
