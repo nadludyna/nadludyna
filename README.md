@@ -1,13 +1,15 @@
 <div align="center">
 
-### Hey <img src="assets/icons/hey.svg" width="30" align="absmiddle" alt="" />
+### Hey, I'm nadludyna <img src="assets/icons/hey.svg" width="30" align="absmiddle" alt="" />
 
 <img src="assets/prompt.svg" width="480" alt="$ whoami: nadludyna" />
 
-**Engineer, not a developer:** I figure out what's needed, use whatever gets results, and build the rest with AI.<br>
-I pick things up fast: from zero to something useful in hours, not weeks.<br>
-A vibe coder, but with taste. Curious by default, AuDHD by design.<br>
-**Currently going deeper into:** DevOps.
+**Engineer, not a developer.** I figure out what's needed, use whatever works and build the rest with AI.<br>
+I pick things up fast: hours, not weeks.
+
+`vibe coder with taste` · `curious by default` · `AuDHD by design`
+
+**Currently going deeper into:** DevOps
 
 </div>
 
