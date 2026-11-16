@@ -1,45 +1,70 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="48" viewBox="0 0 480 48" role="img" aria-label="whoami: curious tech tinkerer">
 <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#9FE870" stop-opacity=".05"/><stop offset=".5" stop-color="#9FE870" stop-opacity=".7"/><stop offset="1" stop-color="#9FE870" stop-opacity=".05"/></linearGradient></defs>
 <style>text{font-family:ui-monospace,SFMono-Regular,"JetBrains Mono",Consolas,"DejaVu Sans Mono",monospace;font-size:16px;white-space:pre}
-.p{fill:#9FE870;font-weight:700}.c{fill:#7DD3FC;font-weight:700}.a{fill:#FCD34D}.r{fill:#6B7A6B}.out{fill:#E6EDF3}.cur{fill:#9FE870;animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}
+.p{fill:#9FE870;font-weight:700}.c{fill:#7DD3FC;font-weight:700}.a{fill:#FCD34D}.r{fill:#6B7A6B}.out{fill:#E6EDF3}
+.blink{animation:b 1.06s step-end infinite}@keyframes b{50%{opacity:0}}
 .sweep{animation:sw 3.5s ease-in-out infinite}@keyframes sw{0%{transform:translateX(-480px)}100%{transform:translateX(480px)}}
-@keyframes v0{0%,0.000%{opacity:0}0.048%,16.429%{opacity:1}16.667%,100%{opacity:0}}.s0{opacity:0;animation:v0 21.0s linear infinite}
-@keyframes c0{0%{width:0}1.190%{width:2px}1.476%{width:12px}1.762%{width:21px}2.048%{width:31px}2.333%{width:40px}2.619%{width:50px}2.905%{width:60px}100%{width:480px}}.k0{animation:c0 21.0s linear infinite}
-@keyframes o0{0%,3.619%{opacity:0}4.333%,100%{opacity:1}}.o0{opacity:0;animation:o0 21.0s linear infinite}
-@keyframes v1{0%,16.667%{opacity:0}16.714%,33.095%{opacity:1}33.333%,100%{opacity:0}}.s1{opacity:0;animation:v1 21.0s linear infinite}
-@keyframes c1{0%{width:0}17.857%{width:2px}18.143%{width:12px}18.429%{width:21px}18.714%{width:31px}19.000%{width:40px}19.286%{width:50px}100%{width:480px}}.k1{animation:c1 21.0s linear infinite}
-@keyframes o1{0%,20.000%{opacity:0}20.714%,100%{opacity:1}}.o1{opacity:0;animation:o1 21.0s linear infinite}
-@keyframes v2{0%,33.333%{opacity:0}33.381%,49.762%{opacity:1}50.000%,100%{opacity:0}}.s2{opacity:0;animation:v2 21.0s linear infinite}
-@keyframes c2{0%{width:0}34.524%{width:2px}34.810%{width:12px}35.095%{width:21px}100%{width:480px}}.k2{animation:c2 21.0s linear infinite}
-@keyframes o2{0%,35.810%{opacity:0}36.524%,100%{opacity:1}}.o2{opacity:0;animation:o2 21.0s linear infinite}
-@keyframes v3{0%,50.000%{opacity:0}50.048%,66.429%{opacity:1}66.667%,100%{opacity:0}}.s3{opacity:0;animation:v3 21.0s linear infinite}
-@keyframes c3{0%{width:0}51.190%{width:2px}51.476%{width:12px}51.762%{width:21px}52.048%{width:31px}52.333%{width:40px}52.619%{width:50px}52.905%{width:60px}53.190%{width:69px}53.476%{width:79px}100%{width:480px}}.k3{animation:c3 21.0s linear infinite}
-@keyframes o3{0%,54.190%{opacity:0}54.905%,100%{opacity:1}}.o3{opacity:0;animation:o3 21.0s linear infinite}
-@keyframes v4{0%,66.667%{opacity:0}66.714%,83.095%{opacity:1}83.333%,100%{opacity:0}}.s4{opacity:0;animation:v4 21.0s linear infinite}
-@keyframes c4{0%{width:0}67.857%{width:2px}68.143%{width:12px}68.429%{width:21px}68.714%{width:31px}69.000%{width:40px}69.286%{width:50px}69.571%{width:60px}69.857%{width:69px}70.143%{width:79px}70.429%{width:88px}70.714%{width:98px}71.000%{width:108px}71.286%{width:117px}71.571%{width:127px}100%{width:480px}}.k4{animation:c4 21.0s linear infinite}
-@keyframes o4{0%,72.286%{opacity:0}73.000%,100%{opacity:1}}.o4{opacity:0;animation:o4 21.0s linear infinite}
-@keyframes v5{0%,83.333%{opacity:0}83.381%,99.762%{opacity:1}100.000%,100%{opacity:0}}.s5{opacity:0;animation:v5 21.0s linear infinite}
-@keyframes c5{0%{width:0}84.524%{width:2px}84.810%{width:12px}85.095%{width:21px}85.381%{width:31px}85.667%{width:40px}85.952%{width:50px}86.238%{width:60px}100%{width:480px}}.k5{animation:c5 21.0s linear infinite}
-@keyframes o5{0%,86.952%{opacity:0}87.667%,100%{opacity:1}}.o5{opacity:0;animation:o5 21.0s linear infinite}</style>
+@keyframes v0{0%,0.000%{opacity:0}0.004%,16.161%{opacity:1}16.164%,100%{opacity:0}}.s0{opacity:0;animation:v0 27.72s linear infinite}
+@keyframes c0{0%{width:0}2.165%{width:0.0px}2.534%{width:9.6px}2.841%{width:19.2px}3.329%{width:28.8px}3.607%{width:38.4px}4.053%{width:48.0px}4.438%{width:57.6px}100%{width:61.6px}}.k0{animation:c0 27.72s step-end infinite}
+@keyframes m0{0%{transform:translateX(0)}2.165%{transform:translateX(0.0px)}2.534%{transform:translateX(9.6px)}2.841%{transform:translateX(19.2px)}3.329%{transform:translateX(28.8px)}3.607%{transform:translateX(38.4px)}4.053%{transform:translateX(48.0px)}4.438%{transform:translateX(57.6px)}100%{transform:translateX(57.6px)}}.mc0{animation:m0 27.72s step-end infinite}
+@keyframes q0{0%,0.000%{opacity:0}0.004%,6.061%{opacity:1}6.065%,100%{opacity:0}}.tc0{opacity:0;animation:q0 27.72s step-end infinite}
+@keyframes o0{0%,6.061%{opacity:0}6.065%,100%{opacity:1}}.o0{opacity:0;animation:o0 27.72s step-end infinite}
+@keyframes v1{0%,16.164%{opacity:0}16.168%,31.714%{opacity:1}31.718%,100%{opacity:0}}.s1{opacity:0;animation:v1 27.72s linear infinite}
+@keyframes c1{0%{width:0}18.329%{width:0.0px}18.603%{width:9.6px}19.038%{width:19.2px}19.304%{width:28.8px}19.713%{width:38.4px}19.991%{width:48.0px}100%{width:52.0px}}.k1{animation:c1 27.72s step-end infinite}
+@keyframes m1{0%{transform:translateX(0)}18.329%{transform:translateX(0.0px)}18.603%{transform:translateX(9.6px)}19.038%{transform:translateX(19.2px)}19.304%{transform:translateX(28.8px)}19.713%{transform:translateX(38.4px)}19.991%{transform:translateX(48.0px)}100%{transform:translateX(48.0px)}}.mc1{animation:m1 27.72s step-end infinite}
+@keyframes q1{0%,16.164%{opacity:0}16.168%,21.615%{opacity:1}21.618%,100%{opacity:0}}.tc1{opacity:0;animation:q1 27.72s step-end infinite}
+@keyframes o1{0%,21.615%{opacity:0}21.618%,100%{opacity:1}}.o1{opacity:0;animation:o1 27.72s step-end infinite}
+@keyframes v2{0%,31.718%{opacity:0}31.721%,46.296%{opacity:1}46.300%,100%{opacity:0}}.s2{opacity:0;animation:v2 27.72s linear infinite}
+@keyframes c2{0%{width:0}33.882%{width:0.0px}34.168%{width:9.6px}34.573%{width:19.2px}100%{width:23.2px}}.k2{animation:c2 27.72s step-end infinite}
+@keyframes m2{0%{transform:translateX(0)}33.882%{transform:translateX(0.0px)}34.168%{transform:translateX(9.6px)}34.573%{transform:translateX(19.2px)}100%{transform:translateX(19.2px)}}.mc2{animation:m2 27.72s step-end infinite}
+@keyframes q2{0%,31.718%{opacity:0}31.721%,36.197%{opacity:1}36.201%,100%{opacity:0}}.tc2{opacity:0;animation:q2 27.72s step-end infinite}
+@keyframes o2{0%,36.197%{opacity:0}36.201%,100%{opacity:1}}.o2{opacity:0;animation:o2 27.72s step-end infinite}
+@keyframes v3{0%,46.300%{opacity:0}46.303%,64.238%{opacity:1}64.241%,100%{opacity:0}}.s3{opacity:0;animation:v3 27.72s linear infinite}
+@keyframes c3{0%{width:0}48.465%{width:0.0px}49.016%{width:9.6px}49.313%{width:19.2px}49.646%{width:28.8px}50.125%{width:38.4px}50.719%{width:48.0px}51.641%{width:57.6px}52.245%{width:67.2px}52.515%{width:76.8px}100%{width:80.8px}}.k3{animation:c3 27.72s step-end infinite}
+@keyframes m3{0%{transform:translateX(0)}48.465%{transform:translateX(0.0px)}49.016%{transform:translateX(9.6px)}49.313%{transform:translateX(19.2px)}49.646%{transform:translateX(28.8px)}50.125%{transform:translateX(38.4px)}50.719%{transform:translateX(48.0px)}51.641%{transform:translateX(57.6px)}52.245%{transform:translateX(67.2px)}52.515%{transform:translateX(76.8px)}100%{transform:translateX(76.8px)}}.mc3{animation:m3 27.72s step-end infinite}
+@keyframes q3{0%,46.300%{opacity:0}46.303%,54.138%{opacity:1}54.142%,100%{opacity:0}}.tc3{opacity:0;animation:q3 27.72s step-end infinite}
+@keyframes o3{0%,54.138%{opacity:0}54.142%,100%{opacity:1}}.o3{opacity:0;animation:o3 27.72s step-end infinite}
+@keyframes v4{0%,64.241%{opacity:0}64.245%,83.594%{opacity:1}83.597%,100%{opacity:0}}.s4{opacity:0;animation:v4 27.72s linear infinite}
+@keyframes c4{0%{width:0}66.406%{width:0.0px}66.968%{width:9.6px}67.325%{width:19.2px}67.630%{width:28.8px}68.347%{width:38.4px}68.894%{width:48.0px}69.212%{width:57.6px}69.675%{width:67.2px}70.158%{width:76.8px}70.545%{width:86.4px}70.995%{width:96.0px}71.270%{width:105.6px}71.544%{width:115.2px}71.871%{width:124.8px}100%{width:128.8px}}.k4{animation:c4 27.72s step-end infinite}
+@keyframes m4{0%{transform:translateX(0)}66.406%{transform:translateX(0.0px)}66.968%{transform:translateX(9.6px)}67.325%{transform:translateX(19.2px)}67.630%{transform:translateX(28.8px)}68.347%{transform:translateX(38.4px)}68.894%{transform:translateX(48.0px)}69.212%{transform:translateX(57.6px)}69.675%{transform:translateX(67.2px)}70.158%{transform:translateX(76.8px)}70.545%{transform:translateX(86.4px)}70.995%{transform:translateX(96.0px)}71.270%{transform:translateX(105.6px)}71.544%{transform:translateX(115.2px)}71.871%{transform:translateX(124.8px)}100%{transform:translateX(124.8px)}}.mc4{animation:m4 27.72s step-end infinite}
+@keyframes q4{0%,64.241%{opacity:0}64.245%,73.495%{opacity:1}73.498%,100%{opacity:0}}.tc4{opacity:0;animation:q4 27.72s step-end infinite}
+@keyframes o4{0%,73.495%{opacity:0}73.498%,100%{opacity:1}}.o4{opacity:0;animation:o4 27.72s step-end infinite}
+@keyframes v5{0%,83.597%{opacity:0}83.601%,99.996%{opacity:1}100.000%,100%{opacity:0}}.s5{opacity:0;animation:v5 27.72s linear infinite}
+@keyframes c5{0%{width:0}85.762%{width:0.0px}86.260%{width:9.6px}86.667%{width:19.2px}87.033%{width:28.8px}87.497%{width:38.4px}87.913%{width:48.0px}88.274%{width:57.6px}100%{width:61.6px}}.k5{animation:c5 27.72s step-end infinite}
+@keyframes m5{0%{transform:translateX(0)}85.762%{transform:translateX(0.0px)}86.260%{transform:translateX(9.6px)}86.667%{transform:translateX(19.2px)}87.033%{transform:translateX(28.8px)}87.497%{transform:translateX(38.4px)}87.913%{transform:translateX(48.0px)}88.274%{transform:translateX(57.6px)}100%{transform:translateX(57.6px)}}.mc5{animation:m5 27.72s step-end infinite}
+@keyframes q5{0%,83.597%{opacity:0}83.601%,89.897%{opacity:1}89.901%,100%{opacity:0}}.tc5{opacity:0;animation:q5 27.72s step-end infinite}
+@keyframes o5{0%,89.897%{opacity:0}89.901%,100%{opacity:1}}.o5{opacity:0;animation:o5 27.72s step-end infinite}</style>
 <rect x=".5" y=".5" width="479" height="47" rx="10" fill="#101510" stroke="#9FE870" stroke-opacity=".25"/>
 <clipPath id="bx"><rect width="480" height="48" rx="10"/></clipPath>
 <g clip-path="url(#bx)"><rect class="sweep" x="0" y="46" width="480" height="2" fill="url(#g)"/></g>
-<g class="s0"><text x="86" y="30" class="p">$</text><clipPath id="cp0"><rect class="k0" x="106" y="10" width="0" height="28"/></clipPath>
-<text x="106" y="30" clip-path="url(#cp0)"><tspan class="c">whoami</tspan></text>
-<text x="173" y="30" class="o0"><tspan class="r">→ </tspan><tspan class="out">curious tech tinkerer</tspan><tspan class="cur">▋</tspan></text></g>
-<g class="s1"><text x="101" y="30" class="p">$</text><clipPath id="cp1"><rect class="k1" x="120" y="10" width="0" height="28"/></clipPath>
-<text x="120" y="30" clip-path="url(#cp1)"><tspan class="c">stack</tspan></text>
-<text x="178" y="30" class="o1"><tspan class="r">→ </tspan><tspan class="out">Go · Linux · Docker</tspan><tspan class="cur">▋</tspan></text></g>
-<g class="s2"><text x="67" y="30" class="p">$</text><clipPath id="cp2"><rect class="k2" x="86" y="10" width="0" height="28"/></clipPath>
-<text x="86" y="30" clip-path="url(#cp2)"><tspan class="c">ls</tspan></text>
-<text x="115" y="30" class="o2"><tspan class="r">→ </tspan><tspan class="out">typeTrainer  tyaga  top10gier</tspan><tspan class="cur">▋</tspan></text></g>
-<g class="s3"><text x="96" y="30" class="p">$</text><clipPath id="cp3"><rect class="k3" x="115" y="10" width="0" height="28"/></clipPath>
-<text x="115" y="30" clip-path="url(#cp3)"><tspan class="c">uname</tspan><tspan class="a"> -o</tspan></text>
-<text x="202" y="30" class="o3"><tspan class="r">→ </tspan><tspan class="out">Windows ⇄ CachyOS</tspan><tspan class="cur">▋</tspan></text></g>
-<g class="s4"><text x="53" y="30" class="p">$</text><clipPath id="cp4"><rect class="k4" x="72" y="10" width="0" height="28"/></clipPath>
-<text x="72" y="30" clip-path="url(#cp4)"><tspan class="c">cat</tspan><tspan class="a"> motto.txt</tspan></text>
-<text x="206" y="30" class="o4"><tspan class="r">→ </tspan><tspan class="out">define, search, build</tspan><tspan class="cur">▋</tspan></text></g>
-<g class="s5"><text x="62" y="30" class="p">$</text><clipPath id="cp5"><rect class="k5" x="82" y="10" width="0" height="28"/></clipPath>
-<text x="82" y="30" clip-path="url(#cp5)"><tspan class="c">status</tspan></text>
-<text x="149" y="30" class="o5"><tspan class="r">→ </tspan><tspan class="out">open to remote &amp; freelance</tspan><tspan class="cur">▋</tspan></text></g>
+<g class="s0"><text x="86.4" y="30" class="p">$</text>
+<clipPath id="cp0"><rect class="k0" x="105.6" y="10" width="0" height="28"/></clipPath>
+<text x="105.6" y="30" clip-path="url(#cp0)"><tspan class="c">whoami</tspan></text>
+<g class="tc0"><rect class="mc0" x="105.6" y="16" width="8.6" height="18" fill="#9FE870"/></g>
+<g class="o0"><text x="172.8" y="30"><tspan class="r">→ </tspan><tspan class="out">curious tech tinkerer</tspan></text><rect class="blink" x="393.6" y="16" width="8.6" height="18" fill="#9FE870"/></g></g>
+<g class="s1"><text x="100.8" y="30" class="p">$</text>
+<clipPath id="cp1"><rect class="k1" x="120.0" y="10" width="0" height="28"/></clipPath>
+<text x="120.0" y="30" clip-path="url(#cp1)"><tspan class="c">stack</tspan></text>
+<g class="tc1"><rect class="mc1" x="120.0" y="16" width="8.6" height="18" fill="#9FE870"/></g>
+<g class="o1"><text x="177.6" y="30"><tspan class="r">→ </tspan><tspan class="out">Go · Linux · Docker</tspan></text><rect class="blink" x="379.2" y="16" width="8.6" height="18" fill="#9FE870"/></g></g>
+<g class="s2"><text x="67.2" y="30" class="p">$</text>
+<clipPath id="cp2"><rect class="k2" x="86.4" y="10" width="0" height="28"/></clipPath>
+<text x="86.4" y="30" clip-path="url(#cp2)"><tspan class="c">ls</tspan></text>
+<g class="tc2"><rect class="mc2" x="86.4" y="16" width="8.6" height="18" fill="#9FE870"/></g>
+<g class="o2"><text x="115.2" y="30"><tspan class="r">→ </tspan><tspan class="out">typeTrainer  tyaga  top10gier</tspan></text><rect class="blink" x="412.8" y="16" width="8.6" height="18" fill="#9FE870"/></g></g>
+<g class="s3"><text x="96.0" y="30" class="p">$</text>
+<clipPath id="cp3"><rect class="k3" x="115.2" y="10" width="0" height="28"/></clipPath>
+<text x="115.2" y="30" clip-path="url(#cp3)"><tspan class="c">uname</tspan><tspan class="a"> -o</tspan></text>
+<g class="tc3"><rect class="mc3" x="115.2" y="16" width="8.6" height="18" fill="#9FE870"/></g>
+<g class="o3"><text x="201.6" y="30"><tspan class="r">→ </tspan><tspan class="out">Windows ⇄ CachyOS</tspan></text><rect class="blink" x="384.0" y="16" width="8.6" height="18" fill="#9FE870"/></g></g>
+<g class="s4"><text x="52.8" y="30" class="p">$</text>
+<clipPath id="cp4"><rect class="k4" x="72.0" y="10" width="0" height="28"/></clipPath>
+<text x="72.0" y="30" clip-path="url(#cp4)"><tspan class="c">cat</tspan><tspan class="a"> motto.txt</tspan></text>
+<g class="tc4"><rect class="mc4" x="72.0" y="16" width="8.6" height="18" fill="#9FE870"/></g>
+<g class="o4"><text x="206.4" y="30"><tspan class="r">→ </tspan><tspan class="out">define, search, build</tspan></text><rect class="blink" x="427.2" y="16" width="8.6" height="18" fill="#9FE870"/></g></g>
+<g class="s5"><text x="62.4" y="30" class="p">$</text>
+<clipPath id="cp5"><rect class="k5" x="81.6" y="10" width="0" height="28"/></clipPath>
+<text x="81.6" y="30" clip-path="url(#cp5)"><tspan class="c">status</tspan></text>
+<g class="tc5"><rect class="mc5" x="81.6" y="16" width="8.6" height="18" fill="#9FE870"/></g>
+<g class="o5"><text x="148.8" y="30"><tspan class="r">→ </tspan><tspan class="out">open to remote &amp; freelance</tspan></text><rect class="blink" x="417.6" y="16" width="8.6" height="18" fill="#9FE870"/></g></g>
 </svg>
