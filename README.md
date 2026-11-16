@@ -353,7 +353,7 @@ I can often predict how something will go, but predicting is dry, and living it 
 
 <div align="center">
 
-**Find me ↓**
+**Feel free to reach out, or just look around ↓**
 
 <p>
   <a href="https://signal.me/#eu/jYQ_tF8RVF1xH5HM1sRJypxOGtHM7Rxzm1rRiPzu9L9B-57MHMhCIpVary7ETOg7"><img src="https://img.shields.io/badge/SIGNAL_%E2%86%97-9FE870?style=for-the-badge&logo=signal&logoColor=101510" alt="Signal" /></a>
