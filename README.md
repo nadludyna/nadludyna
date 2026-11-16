@@ -348,6 +348,8 @@ My head never really goes quiet, so I rest by doing: fast typing, music that kee
 
 ---
 
+<div align="center">
+
 **Find me ↓**
 
 <p>
@@ -361,4 +363,6 @@ My head never really goes quiet, so I rest by doing: fast typing, music that kee
   <a href="https://www.youtube.com/@nadludyna"><img src="https://img.shields.io/badge/YOUTUBE_%E2%86%97-9FE870?style=for-the-badge&logo=youtube&logoColor=101510" alt="YouTube" /></a>
 </p>
 
-> *One must still have chaos in oneself to give birth to a dancing star.* — Nietzsche
+*One must still have chaos in oneself to give birth to a dancing star.* — Nietzsche
+
+</div>
