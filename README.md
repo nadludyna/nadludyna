@@ -1,3 +1,5 @@
+<div align="center">
+
 ### Hey <img src="assets/icons/hey.svg" width="30" align="absmiddle" alt="" />
 
 <img src="assets/terminal.svg" width="480" alt="$ whoami → curious tech tinkerer" />
@@ -6,6 +8,8 @@
 I pick things up fast — from zero to something useful in hours, not weeks.<br>
 A vibe coder — with taste. Curious by default, AuDHD by design.<br>
 **Currently going deeper into:** DevOps.
+
+</div>
 
 ---
 
