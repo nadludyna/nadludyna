@@ -32,7 +32,7 @@ I pick things up fast: hours, not weeks.
 
 <img src="assets/icons/windows.svg" width="26" align="absmiddle" alt="" /> **Windows**: Main system right now. Clean installs via [Rufus](https://rufus.ie) or [balenaEtcher](https://etcher.balena.io), [WinUtil](https://github.com/ChrisTitusTech/winutil) for tweaks, [UniGetUI](https://devolutions.net/unigetui/) for updates. WSL and PowerShell day to day.
 
-<img src="assets/icons/pendulum.svg" width="26" align="absmiddle" alt="" /> **The pendulum**: Windows ⇄ CachyOS, depending on which one annoys me less this month. Both setups stay ready, so switching is cheap.
+<img src="assets/icons/pendulum.svg" width="26" align="absmiddle" alt="" /> **The pendulum**: Schopenhauer said life swings like a pendulum between pain and boredom. Mine swings between Windows and CachyOS, depending on which one annoys me less this month. Both setups stay ready, so switching is cheap.
 
 <img src="assets/icons/selfhost.svg" width="26" align="absmiddle" alt="" /> **Self-hosting**: one project so far: a modded Minecraft server on [Fabric](https://fabricmc.net), with scripts that check for mod updates.
 
