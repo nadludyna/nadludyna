@@ -79,7 +79,7 @@ I've been using LLMs since GPT-3. Today, Claude is my main coding agent — and 
 
 **Building:** once enough notes pile up and something clicks — *okay, this could be a thing* — I point Claude to that part of the vault and we build from my notes, not a blank prompt. Branches, PRs and tests before anything merges.
 
-**Other models:** I've tried most mainstream and Chinese ones ([GLM 5.3](https://z.ai), [DeepSeek](https://www.deepseek.com) and [Kimi](https://www.kimi.com) stood out). Claude stays the main tool; the others give second opinions and code audits.
+**Other models:** I've tried most mainstream and Chinese ones. Claude stays the main tool; the others give second opinions and code audits.
 
 ---
 
