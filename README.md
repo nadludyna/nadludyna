@@ -2,11 +2,11 @@
 
 ### Hey <img src="assets/icons/hey.svg" width="30" align="absmiddle" alt="" />
 
-<img src="assets/prompt.svg" width="480" alt="$ whoami — nadludyna" />
+<img src="assets/prompt.svg" width="480" alt="$ whoami: nadludyna" />
 
 **Engineer, not a developer:** I figure out what's needed, use whatever gets results, and build the rest with AI.<br>
-I pick things up fast — from zero to something useful in hours, not weeks.<br>
-A vibe coder — with taste. Curious by default, AuDHD by design.<br>
+I pick things up fast: from zero to something useful in hours, not weeks.<br>
+A vibe coder, but with taste. Curious by default, AuDHD by design.<br>
 **Currently going deeper into:** DevOps.
 
 </div>
@@ -15,40 +15,40 @@ A vibe coder — with taste. Curious by default, AuDHD by design.<br>
 
 ### ▸ Things I've built so far
 
-<img src="https://github.com/nadludyna/typeTrainer/raw/HEAD/web/favicon.svg" width="28" align="absmiddle" alt="" /> &nbsp;[**typeTrainer**](https://github.com/nadludyna/typeTrainer) — a typing trainer that finds your weak letters and builds the next words around them. Real words only. I built it around the thing I do most to switch my head off — typing — and it became my engineering thesis.<br>
+<img src="https://github.com/nadludyna/typeTrainer/raw/HEAD/web/favicon.svg" width="28" align="absmiddle" alt="" /> &nbsp;[**typeTrainer**](https://github.com/nadludyna/typeTrainer): a typing trainer that finds your weak letters and builds the next words around them. Real words only. I built it around the thing I do most to switch my head off (typing), and it became my engineering thesis.<br>
 <img src="https://img.shields.io/badge/GO-101510?style=flat-square" alt="GO" /> <img src="https://img.shields.io/badge/JAVASCRIPT-101510?style=flat-square" alt="JAVASCRIPT" /> <img src="https://img.shields.io/badge/POSTGRESQL-101510?style=flat-square" alt="POSTGRESQL" />
 
-<img src="https://github.com/nadludyna/tyaga/raw/HEAD/winres/icon.svg" width="28" align="absmiddle" alt="" /> &nbsp;[**ТЯГА**](https://github.com/nadludyna/tyaga) — paste a YouTube link, get a file. One small program with a browser UI, built on [yt-dlp](https://github.com/yt-dlp/yt-dlp), with releases for Windows, macOS and Linux. It started life as a Windows batch script and grew up into a proper Go app.<br>
+<img src="https://github.com/nadludyna/tyaga/raw/HEAD/winres/icon.svg" width="28" align="absmiddle" alt="" /> &nbsp;[**ТЯГА**](https://github.com/nadludyna/tyaga): paste a YouTube link, get a file. One small program with a browser UI, built on [yt-dlp](https://github.com/yt-dlp/yt-dlp), with releases for Windows, macOS and Linux. It started life as a Windows batch script and grew up into a proper Go app.<br>
 <img src="https://img.shields.io/badge/GO-101510?style=flat-square" alt="GO" /> <img src="https://img.shields.io/badge/GITHUB_ACTIONS-101510?style=flat-square" alt="GITHUB ACTIONS" />
 
-<img src="https://github.com/nadludyna/top10gier/raw/HEAD/grafika/ikona/favicon-192.png" width="28" align="absmiddle" alt="" /> &nbsp;[**TOP 10 GIER**](https://github.com/nadludyna/top10gier) — my personal hall of fame: ten favorite games, with tiers and very subjective reviews. A one-page site for a university web course.<br>
+<img src="https://github.com/nadludyna/top10gier/raw/HEAD/grafika/ikona/favicon-192.png" width="28" align="absmiddle" alt="" /> &nbsp;[**TOP 10 GIER**](https://github.com/nadludyna/top10gier): my personal hall of fame: ten favorite games, with tiers and very subjective reviews. A one-page site for a university web course.<br>
 <img src="https://img.shields.io/badge/HTML-101510?style=flat-square" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-101510?style=flat-square" alt="CSS" /> <img src="https://img.shields.io/badge/VANILLA_JS-101510?style=flat-square" alt="VANILLA JS" />
 
 ---
 
 ### ▸ Around the computer
 
-<img src="assets/icons/linux.svg" width="26" align="absmiddle" alt="" /> **Linux** — Distro-curious, practical first. I've poked at plenty of distros, and every time it comes down to the same thing: a clean, focused system without noise or bloat. Home base is [CachyOS](https://cachyos.org) — built on Arch — with KDE Plasma.
+<img src="assets/icons/linux.svg" width="26" align="absmiddle" alt="" /> **Linux**: Distro-curious, practical first. I've poked at plenty of distros, and every time it comes down to the same thing: a clean, focused system without noise or bloat. Home base is [CachyOS](https://cachyos.org), built on Arch, with KDE Plasma.
 
-<img src="assets/icons/windows.svg" width="26" align="absmiddle" alt="" /> **Windows** — Main system right now. Clean installs via [Rufus](https://rufus.ie) or [balenaEtcher](https://etcher.balena.io), [WinUtil](https://github.com/ChrisTitusTech/winutil) for tweaks, [UniGetUI](https://devolutions.net/unigetui/) for updates. WSL and PowerShell day to day.
+<img src="assets/icons/windows.svg" width="26" align="absmiddle" alt="" /> **Windows**: Main system right now. Clean installs via [Rufus](https://rufus.ie) or [balenaEtcher](https://etcher.balena.io), [WinUtil](https://github.com/ChrisTitusTech/winutil) for tweaks, [UniGetUI](https://devolutions.net/unigetui/) for updates. WSL and PowerShell day to day.
 
-<img src="assets/icons/pendulum.svg" width="26" align="absmiddle" alt="" /> **The pendulum** — Schopenhauer said life swings like a pendulum between pain and boredom. Mine swings between Windows and CachyOS, depending on which one annoys me less this month. Both setups stay ready, so switching is cheap.
+<img src="assets/icons/pendulum.svg" width="26" align="absmiddle" alt="" /> **The pendulum**: Schopenhauer said life swings like a pendulum between pain and boredom. Mine swings between Windows and CachyOS, depending on which one annoys me less this month. Both setups stay ready, so switching is cheap.
 
-<img src="assets/icons/selfhost.svg" width="26" align="absmiddle" alt="" /> **Self-hosting** — one project so far: a modded Minecraft server on [Fabric](https://fabricmc.net), with scripts that check for mod updates.
+<img src="assets/icons/selfhost.svg" width="26" align="absmiddle" alt="" /> **Self-hosting**: one project so far: a modded Minecraft server on [Fabric](https://fabricmc.net), with scripts that check for mod updates.
 
-<img src="assets/icons/tinker.svg" width="26" align="absmiddle" alt="" /> **Tinkering** — userscripts, patched Android apps for my family ([Morphe](https://morphe.software)), and getting old games to run on modern PCs — the fix is usually on [PCGamingWiki](https://www.pcgamingwiki.com), Reddit, or one question to AI away.
+<img src="assets/icons/tinker.svg" width="26" align="absmiddle" alt="" /> **Tinkering**: userscripts, patched Android apps for my family ([Morphe](https://morphe.software)), and getting old games to run on modern PCs. The fix is usually on [PCGamingWiki](https://www.pcgamingwiki.com), Reddit, or one question to AI away.
 
-<img src="assets/icons/opensource.svg" width="26" align="absmiddle" alt="" /> **Open source** — my usual pick, not as a rule but because it's so often the best tool. Happy to pay for anything that earns it.
+<img src="assets/icons/opensource.svg" width="26" align="absmiddle" alt="" /> **Open source**: my usual pick, not as a rule but because it's so often the best tool. Happy to pay for anything that earns it.
 
 ---
 
 ### ▸ How I approach problems
 
-<img src="assets/icons/step1.svg" width="26" align="absmiddle" alt="1" /> **Define** — figure out what actually needs solving.<br>
-<img src="assets/icons/step2.svg" width="26" align="absmiddle" alt="2" /> **Search** — check what already exists before reinventing the wheel.<br>
-<img src="assets/icons/step3.svg" width="26" align="absmiddle" alt="3" /> **Use or build** — if a tool does the job, use it. If nothing fits, build a focused one.
+<img src="assets/icons/step1.svg" width="26" align="absmiddle" alt="1" /> **Define**: figure out what actually needs solving.<br>
+<img src="assets/icons/step2.svg" width="26" align="absmiddle" alt="2" /> **Search**: check what already exists before reinventing the wheel.<br>
+<img src="assets/icons/step3.svg" width="26" align="absmiddle" alt="3" /> **Use or build**: if a tool does the job, use it. If nothing fits, build a focused one.
 
-**How I learn:** I keep the core in my head — the few load-bearing ideas every field stands on — and look up the rest when I need it. New things land on that frame fast.
+**How I learn:** I keep the core in my head (the few load-bearing ideas every field stands on) and look up the rest when I need it. New things land on that frame fast.
 
 <p>
   <code>practical &gt; complex</code><br>
@@ -58,7 +58,7 @@ A vibe coder — with taste. Curious by default, AuDHD by design.<br>
 </p>
 
 **Where this comes from:**
-- **Ideas are tools.** Closest to John Dewey's pragmatism: an idea is worth what it lets you do. So I don't argue about tools — I try them and keep what works.
+- **Ideas are tools.** Closest to John Dewey's pragmatism: an idea is worth what it lets you do. So I don't argue about tools, I try them and keep what works.
 - **Keep the frame, look up the rest.** Charlie Munger's "latticework of mental models": learn the few big ideas of a field, and the details hang on them by themselves.
 - **The best part is not knowing yet.** Lessing said that if God offered him all truth in one hand and the endless search for it in the other, he'd take the search. Same here: the moment something unknown clicks into place happens once, and it's my favorite feeling.
 - **Fewer, sharper moves.** Something like the Taoist *wu wei*: let the picture form, then act once and precisely, instead of looking busy.
@@ -73,13 +73,13 @@ A vibe coder — with taste. Curious by default, AuDHD by design.<br>
   <a href="https://gemini.google.com"><img src="https://img.shields.io/badge/GEMINI-101510?style=flat-square&logo=googlegemini&logoColor=9FE870" alt="Gemini" /></a>
 </p>
 
-I've been using LLMs since GPT-3. Today, Claude is my main coding agent — and just as much a thinking partner.
+I've been using LLMs since GPT-3. Today, Claude is my main coding agent, and just as much a thinking partner.
 
 `raw thought` → `talk it through` → `let it brew` → `.md in the vault` → `notes pile up` → `build`
 
-**Thinking:** raw thoughts go straight to Claude. I talk them through, let them brew, and keep what's worth it as Markdown notes in my Obsidian vault. Clark and Chalmers called it the *extended mind* — a notebook can be part of how you think. My vault is exactly that.
+**Thinking:** raw thoughts go straight to Claude. I talk them through, let them brew, and keep what's worth it as Markdown notes in my Obsidian vault. Clark and Chalmers called it the *extended mind*: a notebook can be part of how you think. My vault is exactly that.
 
-**Building:** once enough notes pile up and something clicks — *okay, this could be a thing* — I point Claude to that part of the vault and we build from my notes, not a blank prompt. Branches, PRs and tests before anything merges. Example: this README started as "make it less boring" and turned into an evening of drafts, cuts and arguing about where a cursor should blink.
+**Building:** once enough notes pile up and something clicks (*okay, this could be a thing*), I point Claude to that part of the vault and we build from my notes, not a blank prompt. Branches, PRs and tests before anything merges. Example: this README started as "make it less boring" and turned into an evening of drafts, cuts and arguing about where a cursor should blink.
 
 **Other models:** I've tried most mainstream and Chinese ones. Claude stays the main tool; the others give second opinions and code audits.
 
@@ -87,33 +87,33 @@ I've been using LLMs since GPT-3. Today, Claude is my main coding agent — and 
 
 ### ▸ Beyond tech
 
-<img src="assets/icons/languages.svg" width="26" align="absmiddle" alt="" /> **Languages** — Ukrainian · Russian · Polish · English · German *(basic)*
+<img src="assets/icons/languages.svg" width="26" align="absmiddle" alt="" /> **Languages**: Ukrainian · Russian · Polish · English · German *(basic)*
 
 <details>
-<summary><b>Off the clock</b> <sub>— games, modding, typing, music, philosophy · click to expand</sub></summary>
+<summary><b>Off the clock</b> <sub>games, modding, typing, music, philosophy · click to expand</sub></summary>
 <br>
 
-<img src="assets/icons/gaming.svg" width="26" align="absmiddle" alt="" /> **Gaming** — I play a lot of different things, but I keep coming back to the same few:<br>
-`atmospheric worlds` `RPGs` `immersive sims` `horror` `weird indie` — plus a soft spot for puzzles and the occasional cozy game. The full library is on Steam, my all-time top 10 is [here](https://nadludyna.github.io/top10gier/).
+<img src="assets/icons/gaming.svg" width="26" align="absmiddle" alt="" /> **Gaming**: I play a lot of different things, but I keep coming back to the same few:<br>
+`atmospheric worlds` `RPGs` `immersive sims` `horror` `weird indie`, plus a soft spot for puzzles and the occasional cozy game. The full library is on Steam, my all-time top 10 is [here](https://nadludyna.github.io/top10gier/).
 
 <img src="assets/icons/modding.svg" width="26" align="absmiddle" alt="" /> **Modding**<br>
-<img src="assets/icons/minecraft.svg" width="22" align="absmiddle" alt="" /> ***Minecraft*** — <img src="https://www.google.com/s2/favicons?domain=prismlauncher.org&sz=64" width="20" align="absmiddle" alt="" /> [Prism Launcher](https://prismlauncher.org) for minimal modpacks, the best way to juggle instances.<br>
-<img src="assets/icons/fallout.svg" width="22" align="absmiddle" alt="" /> ***Fallout: New Vegas / TTW*** — set up by following these guides:<br>
+<img src="assets/icons/minecraft.svg" width="22" align="absmiddle" alt="" /> ***Minecraft***: <img src="https://www.google.com/s2/favicons?domain=prismlauncher.org&sz=64" width="20" align="absmiddle" alt="" /> [Prism Launcher](https://prismlauncher.org) for minimal modpacks, the best way to juggle instances.<br>
+<img src="assets/icons/fallout.svg" width="22" align="absmiddle" alt="" /> ***Fallout: New Vegas / TTW***: set up by following these guides:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?domain=vivanewvegas.moddinglinked.com&sz=64" width="20" align="absmiddle" alt="" /> [Viva New Vegas](https://vivanewvegas.moddinglinked.com/intro.html)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?domain=mojaveexpressguide.com&sz=64" width="20" align="absmiddle" alt="" /> [Mojave Express](https://mojaveexpressguide.com/docs/Introduction)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?domain=wastelandsurvival.guide&sz=64" width="20" align="absmiddle" alt="" /> [Wasteland Survival Guide](https://wastelandsurvival.guide/docs/intro)
 
-<img src="assets/icons/typing.svg" width="26" align="absmiddle" alt="" /> **Typing** — regular practice on Monkeytype, tracking speed and accuracy. It's also my main way to switch my head off. I like mechanical keyboards.<br>
+<img src="assets/icons/typing.svg" width="26" align="absmiddle" alt="" /> **Typing**: regular practice on Monkeytype, tracking speed and accuracy. It's also my main way to switch my head off. I like mechanical keyboards.<br>
 Current setup: <kbd>MonsGeek FUN60 Ultra</kbd> + <kbd>Astrolink switches</kbd>
 
-<img src="assets/icons/perspective.svg" width="26" align="absmiddle" alt="" /> **Perspective** — I'm AuDHD: autistic and ADHD at once. I say it openly because it makes me easier to understand — for others and for myself. My brain often takes a non-standard route: that's where many of my ideas come from, and some of the friction.<br><br>
-My head never really goes quiet, so I rest by doing: fast typing, music that keeps evolving, repeating voices until they sound just right (hence the easy impressions). I work with it, not against it — no romanticizing, no making it my whole identity. *[Amor fati](https://en.wikipedia.org/wiki/Amor_fati).*<br><br>
-I can often predict how something will go — but predicting is dry, and living it never matches the forecast. Every moment happens once; the Japanese call it *ichigo ichie*. Even washing dishes: different plate, different move, first and last time. That's why I don't get bored of the same things.
+<img src="assets/icons/perspective.svg" width="26" align="absmiddle" alt="" /> **Perspective**: I'm AuDHD, autistic and ADHD at once. I say it openly because it makes me easier to understand, for others and for myself. My brain often takes a non-standard route: that's where many of my ideas come from, and some of the friction.<br><br>
+My head never really goes quiet, so I rest by doing: fast typing, music that keeps evolving, repeating voices until they sound just right (hence the easy impressions). I work with it, not against it. No romanticizing, no making it my whole identity. *[Amor fati](https://en.wikipedia.org/wiki/Amor_fati).*<br><br>
+I can often predict how something will go, but predicting is dry, and living it never matches the forecast. Every moment happens once; the Japanese call it *ichigo ichie*. Even washing dishes: different plate, different move, first and last time. That's why I don't get bored of the same things.
 
-<img src="assets/icons/music.svg" width="26" align="absmiddle" alt="" /> **Music** — a tuning knob for my nervous system: sometimes to balance a mood, sometimes to lean into it. These are just the highlights: my taste swings like a pendulum — something clicks, wears off, and later I come back and hear it anew. Some of it I know inside out, some I just heard a few times and it stuck.
+<img src="assets/icons/music.svg" width="26" align="absmiddle" alt="" /> **Music**: a tuning knob for my nervous system. Sometimes it balances a mood, sometimes it leans into it. These are just the highlights: my taste swings like a pendulum: something clicks, wears off, and later I come back and hear it anew. Some of it I know inside out, some I just heard a few times and it stuck.
 
 <details>
-<summary><img src="assets/icons/atmosphere.svg" width="26" align="absmiddle" alt="" /> <b>Atmosphere</b> <sub>— ambient · drone · dark ambient · hauntology · vaporwave · barber beats</sub></summary>
+<summary><img src="assets/icons/atmosphere.svg" width="26" align="absmiddle" alt="" /> <b>Atmosphere</b> <sub>ambient · drone · dark ambient · hauntology · vaporwave · barber beats</sub></summary>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Eternal+Depths">Eternal Depths</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Warmth">Warmth</a><br>
@@ -127,18 +127,18 @@ I can often predict how something will go — but predicting is dry, and living 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Kane+Parsons">Kane Parsons</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/playlist?list=OLAK5uy_mutZ0A5Ekpmw-PcwIwOKs0kldJ6Y2myVw">Boards of Canada</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Jerry+Martin+The+Sims+build+mode">The Sims muzak</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=William+Basinski+The+Disintegration+Loops">William Basinski — The Disintegration Loops</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=William+Basinski+The+Disintegration+Loops">William Basinski: The Disintegration Loops</a>
 <br><br>
 </details>
 <details>
-<summary><img src="assets/icons/electronic.svg" width="26" align="absmiddle" alt="" /> <b>Electronic</b> <sub>— IDM · synthwave · art pop</sub></summary>
+<summary><img src="assets/icons/electronic.svg" width="26" align="absmiddle" alt="" /> <b>Electronic</b> <sub>IDM · synthwave · art pop</sub></summary>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Aphex+Twin">Aphex Twin</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Orbital">Orbital</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Kraftwerk">Kraftwerk</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=SOPHIE">SOPHIE</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Bj%C3%B6rk">Björk</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Vangelis+Blade+Runner">Vangelis — Blade Runner & 2049</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Vangelis+Blade+Runner">Vangelis: Blade Runner & 2049</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Arca">Arca</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Disasterpeace">Disasterpeace</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Susumu+Hirasawa">Susumu Hirasawa</a><br>
@@ -152,7 +152,7 @@ I can often predict how something will go — but predicting is dry, and living 
 <br><br>
 </details>
 <details>
-<summary><img src="assets/icons/ghost.svg" width="26" align="absmiddle" alt="" /> <b>Caretaker fan universe</b> <sub>— hauntology · plunderphonics</sub></summary>
+<summary><img src="assets/icons/ghost.svg" width="26" align="absmiddle" alt="" /> <b>Caretaker fan universe</b> <sub>hauntology · plunderphonics</sub></summary>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=The+Caretakers+Nowhere+at+the+Millennium+of+Space+Redux">Nowhere at the Millennium of Space: Redux</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Light+and+Darkness+Context+Switch">Light and Darkness</a><br>
@@ -163,7 +163,7 @@ I can often predict how something will go — but predicting is dry, and living 
 <br><br>
 </details>
 <details>
-<summary><img src="assets/icons/rock.svg" width="26" align="absmiddle" alt="" /> <b>Rock &amp; metal</b> <sub>— prog · shoegaze · post-rock · post-punk</sub></summary>
+<summary><img src="assets/icons/rock.svg" width="26" align="absmiddle" alt="" /> <b>Rock &amp; metal</b> <sub>prog · shoegaze · post-rock · post-punk</sub></summary>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Radiohead">Radiohead</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Muse">Muse</a><br>
@@ -188,13 +188,13 @@ I can often predict how something will go — but predicting is dry, and living 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Queen">Queen</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Nine+Inch+Nails">Nine Inch Nails</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Monobody">Monobody</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Alice+in+Chains+Them+Bones">Alice in Chains — Them Bones</a><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Metallica+Enter+Sandman">Metallica — Enter Sandman</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Alice+in+Chains+Them+Bones">Alice in Chains: Them Bones</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Metallica+Enter+Sandman">Metallica: Enter Sandman</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://www.youtube.com/watch?v=HpQbVqGmGSA">Klaus Johann Grobe</a>
 <br><br>
 </details>
 <details>
-<summary><img src="assets/icons/classical.svg" width="26" align="absmiddle" alt="" /> <b>Classical</b> <sub>— piano, symphonies, opera, organ</sub></summary>
+<summary><img src="assets/icons/classical.svg" width="26" align="absmiddle" alt="" /> <b>Classical</b> <sub>piano, symphonies, opera, organ</sub></summary>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://www.youtube.com/@HALIDONMUSIC/search?query=Bach">Bach</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://www.youtube.com/@HALIDONMUSIC/search?query=Chopin">Chopin</a><br>
@@ -207,7 +207,7 @@ I can often predict how something will go — but predicting is dry, and living 
 <br><br>
 </details>
 <details>
-<summary><img src="assets/icons/pop.svg" width="26" align="absmiddle" alt="" /> <b>Pop</b> <sub>— dance-pop · synth-pop · alt-pop</sub></summary>
+<summary><img src="assets/icons/pop.svg" width="26" align="absmiddle" alt="" /> <b>Pop</b> <sub>dance-pop · synth-pop · alt-pop</sub></summary>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Michael+Jackson">Michael Jackson</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Modern+Talking">Modern Talking</a><br>
@@ -227,7 +227,7 @@ I can often predict how something will go — but predicting is dry, and living 
 <br><br>
 </details>
 <details>
-<summary><img src="assets/icons/oldies.svg" width="26" align="absmiddle" alt="" /> <b>Golden oldies</b> <sub>— rock &#39;n&#39; roll · crooners · western</sub></summary>
+<summary><img src="assets/icons/oldies.svg" width="26" align="absmiddle" alt="" /> <b>Golden oldies</b> <sub>rock &#39;n&#39; roll · crooners · western</sub></summary>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Elvis+Presley">Elvis Presley</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Frank+Sinatra">Frank Sinatra</a><br>
@@ -236,7 +236,7 @@ I can often predict how something will go — but predicting is dry, and living 
 <br><br>
 </details>
 <details>
-<summary><img src="assets/icons/opposite.svg" width="26" align="absmiddle" alt="" /> <b>Loud &amp; chaotic</b> <sub>— breakcore · digital hardcore · rage · trap · hyperpop</sub></summary>
+<summary><img src="assets/icons/opposite.svg" width="26" align="absmiddle" alt="" /> <b>Loud &amp; chaotic</b> <sub>breakcore · digital hardcore · rage · trap · hyperpop</sub></summary>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=bye2">bye2</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Machine+Girl">Machine Girl</a><br>
@@ -259,7 +259,7 @@ I can often predict how something will go — but predicting is dry, and living 
 <br><br>
 </details>
 <details>
-<summary><img src="assets/icons/scene.svg" width="26" align="absmiddle" alt="" /> <b>Eastern European scene</b> <sub>— rap · hyperpop · cult classics</sub></summary>
+<summary><img src="assets/icons/scene.svg" width="26" align="absmiddle" alt="" /> <b>Eastern European scene</b> <sub>rap · hyperpop · cult classics</sub></summary>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=%D0%9C%D0%B0%D0%BB%D0%B5%D0%BD%D1%8C%D0%BA%D0%B8%D0%B9+%D0%AF%D1%80%D1%87%D0%B5">Маленький Ярче</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Fendiglock">Fendiglock</a><br>
@@ -293,7 +293,7 @@ I can often predict how something will go — but predicting is dry, and living 
 <br><br>
 </details>
 <details>
-<summary><img src="assets/icons/games.svg" width="26" align="absmiddle" alt="" /> <b>Game soundtracks</b> <sub>— the highlights</sub></summary>
+<summary><img src="assets/icons/games.svg" width="26" align="absmiddle" alt="" /> <b>Game soundtracks</b> <sub>the highlights</sub></summary>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Half-Life+soundtrack">Half-Life 1 & 2</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=STALKER+soundtrack">S.T.A.L.K.E.R.</a><br>
@@ -345,7 +345,7 @@ I can often predict how something will go — but predicting is dry, and living 
 <br><br>
 </details>
 
-<img src="assets/icons/books.svg" width="26" align="absmiddle" alt="" /> **Also into** — philosophy as a curious reader: Nietzsche for *amor fati*, Hegel for the way ideas come back in spirals, Wittgenstein for knowing where words stop working. Plus questions of consciousness and AI, and hoarding good tools, guides and YouTube channels like other people hoard tabs.
+<img src="assets/icons/books.svg" width="26" align="absmiddle" alt="" /> **Also into**: philosophy as a curious reader: Nietzsche for *amor fati*, Hegel for the way ideas come back in spirals, Wittgenstein for knowing where words stop working. Plus questions of consciousness and AI, and hoarding good tools, guides and YouTube channels like other people hoard tabs.
 
 </details>
 
@@ -366,6 +366,6 @@ I can often predict how something will go — but predicting is dry, and living 
   <a href="https://www.youtube.com/@nadludyna"><img src="https://img.shields.io/badge/YOUTUBE_%E2%86%97-9FE870?style=for-the-badge&logo=youtube&logoColor=101510" alt="YouTube" /></a>
 </p>
 
-*One must still have chaos in oneself to give birth to a dancing star.* — Nietzsche
+*One must still have chaos in oneself to give birth to a dancing star.* (Nietzsche)
 
 </div>
