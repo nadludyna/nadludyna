@@ -94,7 +94,7 @@ I've been using LLMs since GPT-3. Today, Claude is my main coding agent — and 
 <img src="assets/icons/languages.svg" width="26" align="absmiddle" alt="" /> **Languages** — Ukrainian · Russian · Polish · English · German *(basic)*
 
 <details>
-<summary><b>The person behind the work</b> <sub>— games, typing, AuDHD, music, philosophy · click to expand</sub></summary>
+<summary><b>What else I'm into</b> <sub>— games, modding, typing, music, philosophy · click to expand</sub></summary>
 <br>
 
 <img src="assets/icons/gaming.svg" width="26" align="absmiddle" alt="" /> **Gaming** — I play a lot of different things, but I keep coming back to the same few:<br>
