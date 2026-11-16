@@ -1,8 +1,6 @@
 <div align="center">
 
-### Hey <img src="assets/icons/hey.svg" width="30" align="absmiddle" alt="" />
-
-<img src="assets/prompt.svg" width="480" alt="$ whoami: nadludyna" />
+<img src="assets/hello.svg" width="480" alt="Hey. $ whoami: nadludyna" />
 
 **Engineer, not a developer.** I figure out what's needed, use whatever works and build the rest with AI.<br>
 I pick things up fast: hours, not weeks.
