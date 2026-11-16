@@ -13,7 +13,7 @@ I pick things up fast: hours, not weeks.
 
 ---
 
-### ▸ Things I've built so far
+### // Things I've built so far
 
 <img src="https://github.com/nadludyna/typeTrainer/raw/HEAD/web/favicon.svg" width="28" align="absmiddle" alt="" /> &nbsp;[**typeTrainer**](https://github.com/nadludyna/typeTrainer): a typing trainer that finds your weak letters and builds the next words around them. Real words only. I built it around the thing I do most to switch my head off (typing), and it became my engineering thesis.<br>
 <img src="https://img.shields.io/badge/GO-101510?style=flat-square" alt="GO" /> <img src="https://img.shields.io/badge/JAVASCRIPT-101510?style=flat-square" alt="JAVASCRIPT" /> <img src="https://img.shields.io/badge/POSTGRESQL-101510?style=flat-square" alt="POSTGRESQL" />
@@ -26,7 +26,7 @@ I pick things up fast: hours, not weeks.
 
 ---
 
-### ▸ Around the computer
+### // Around the computer
 
 <img src="assets/icons/linux.svg" width="26" align="absmiddle" alt="" /> **Linux**: Distro-curious, practical first. I've poked at plenty of distros, and every time it comes down to the same thing: a clean, focused system without noise or bloat. Home base is [CachyOS](https://cachyos.org), built on Arch, with KDE Plasma.
 
@@ -42,7 +42,7 @@ I pick things up fast: hours, not weeks.
 
 ---
 
-### ▸ How I approach problems
+### // How I approach problems
 
 <img src="assets/icons/step1.svg" width="26" align="absmiddle" alt="1" /> **Define**: figure out what actually needs solving.<br>
 <img src="assets/icons/step2.svg" width="26" align="absmiddle" alt="2" /> **Search**: check what already exists before reinventing the wheel.<br>
@@ -65,7 +65,7 @@ I pick things up fast: hours, not weeks.
 
 ---
 
-### ▸ Working with AI
+### // Working with AI
 
 <p>
   <a href="https://claude.ai"><img src="https://img.shields.io/badge/CLAUDE-101510?style=flat-square&logo=claude&logoColor=9FE870" alt="Claude" /></a>
@@ -85,7 +85,7 @@ I've been using LLMs since GPT-3. Today, Claude is my main coding agent, and jus
 
 ---
 
-### ▸ Beyond tech
+### // Beyond tech
 
 <img src="assets/icons/languages.svg" width="26" align="absmiddle" alt="" /> **Languages**: Ukrainian · Russian · Polish · English · German *(basic)*
 
