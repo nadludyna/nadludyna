@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hey, I'm nadludyna <img src="assets/icons/hey.svg" width="30" align="absmiddle" alt="" />
+### Hey <img src="assets/icons/hey.svg" width="30" align="absmiddle" alt="" />
 
 <img src="assets/prompt.svg" width="480" alt="$ whoami: nadludyna" />
 
