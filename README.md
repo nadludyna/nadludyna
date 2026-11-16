@@ -32,7 +32,7 @@ I pick things up fast: hours, not weeks.
 
 <img src="assets/icons/windows.svg" width="26" align="absmiddle" alt="" /> **Windows**: Main system right now. Clean installs via [Rufus](https://rufus.ie) or [balenaEtcher](https://etcher.balena.io), [WinUtil](https://github.com/ChrisTitusTech/winutil) for tweaks, [UniGetUI](https://devolutions.net/unigetui/) for updates. WSL and PowerShell day to day.
 
-<img src="assets/icons/pendulum.svg" width="26" align="absmiddle" alt="" /> **The pendulum**: Schopenhauer said life swings like a pendulum between pain and boredom. Mine swings between Windows and CachyOS, depending on which one annoys me less this month. Both setups stay ready, so switching is cheap.
+<img src="assets/icons/pendulum.svg" width="26" align="absmiddle" alt="" /> **The pendulum**: Windows ⇄ CachyOS, depending on which one annoys me less this month. Both setups stay ready, so switching is cheap.
 
 <img src="assets/icons/selfhost.svg" width="26" align="absmiddle" alt="" /> **Self-hosting**: one project so far: a modded Minecraft server on [Fabric](https://fabricmc.net), with scripts that check for mod updates.
 
@@ -58,10 +58,10 @@ I pick things up fast: hours, not weeks.
 </p>
 
 **Where this comes from:**
-- **Ideas are tools.** Closest to John Dewey's pragmatism: an idea is worth what it lets you do. So I don't argue about tools, I try them and keep what works.
-- **Keep the frame, look up the rest.** Charlie Munger's "latticework of mental models": learn the few big ideas of a field, and the details hang on them by themselves.
-- **The best part is not knowing yet.** Lessing said that if God offered him all truth in one hand and the endless search for it in the other, he'd take the search. Same here: the moment something unknown clicks into place happens once, and it's my favorite feeling.
-- **Fewer, sharper moves.** Something like the Taoist *wu wei*: let the picture form, then act once and precisely, instead of looking busy.
+- **Ideas are tools.** An idea is worth what it lets you do (roughly John Dewey's pragmatism). So I don't argue about tools, I try them and keep what works.
+- **Keep the frame, look up the rest.** Learn the few big ideas of a field, and the details hang on them by themselves.
+- **The best part is not knowing yet.** The moment something unknown clicks into place happens once, and it's my favorite feeling.
+- **Fewer, sharper moves.** Let the picture form, then act once and precisely, instead of looking busy.
 
 ---
 
@@ -77,7 +77,7 @@ I've been using LLMs since GPT-3. Today, Claude is my main coding agent, and jus
 
 `raw thought` → `talk it through` → `let it brew` → `.md in the vault` → `notes pile up` → `build`
 
-**Thinking:** raw thoughts go straight to Claude. I talk them through, let them brew, and keep what's worth it as Markdown notes in my Obsidian vault. Clark and Chalmers called it the *extended mind*: a notebook can be part of how you think. My vault is exactly that.
+**Thinking:** raw thoughts go straight to Claude. I talk them through, let them brew, and keep what's worth it as Markdown notes in my Obsidian vault.
 
 **Building:** once enough notes pile up and something clicks (*okay, this could be a thing*), I point Claude to that part of the vault and we build from my notes, not a blank prompt. Branches, PRs and tests before anything merges. Example: this README started as "make it less boring" and turned into an evening of drafts, cuts and arguing about where a cursor should blink.
 
@@ -108,12 +108,12 @@ Current setup: <kbd>MonsGeek FUN60 Ultra</kbd> + <kbd>Astrolink switches</kbd>
 
 <img src="assets/icons/perspective.svg" width="26" align="absmiddle" alt="" /> **Perspective**: I'm AuDHD, autistic and ADHD at once. I say it openly because it makes me easier to understand, for others and for myself. My brain often takes a non-standard route: that's where many of my ideas come from, and some of the friction.<br><br>
 My head never really goes quiet, so I rest by doing: fast typing, music that keeps evolving, repeating voices until they sound just right (hence the easy impressions). I work with it, not against it. No romanticizing, no making it my whole identity. *[Amor fati](https://en.wikipedia.org/wiki/Amor_fati).*<br><br>
-I can often predict how something will go, but predicting is dry, and living it never matches the forecast. Every moment happens once; the Japanese call it *ichigo ichie*. Even washing dishes: different plate, different move, first and last time. That's why I don't get bored of the same things.
+I can often predict how something will go, but predicting is dry, and living it never matches the forecast. Every moment happens once. Even washing dishes: different plate, different move, first and last time. That's why I don't get bored of the same things.
 
 <img src="assets/icons/music.svg" width="26" align="absmiddle" alt="" /> **Music**: a tuning knob for my nervous system. Sometimes it balances a mood, sometimes it leans into it. These are just the highlights: my taste swings like a pendulum: something clicks, wears off, and later I come back and hear it anew. Some of it I know inside out, some I just heard a few times and it stuck.
 
 <details>
-<summary><img src="assets/icons/atmosphere.svg" width="26" align="absmiddle" alt="" /> <b>Atmosphere</b> <sub>ambient · drone · dark ambient · hauntology · vaporwave · barber beats</sub></summary>
+<summary><img src="assets/icons/atmosphere.svg" width="26" align="absmiddle" alt="" /> <b>Atmosphere</b> · ambient · drone · dark ambient · hauntology · vaporwave · barber beats</summary>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Eternal+Depths">Eternal Depths</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Warmth">Warmth</a><br>
@@ -131,7 +131,7 @@ I can often predict how something will go, but predicting is dry, and living it 
 <br><br>
 </details>
 <details>
-<summary><img src="assets/icons/electronic.svg" width="26" align="absmiddle" alt="" /> <b>Electronic</b> <sub>IDM · synthwave · art pop</sub></summary>
+<summary><img src="assets/icons/electronic.svg" width="26" align="absmiddle" alt="" /> <b>Electronic</b> · IDM · synthwave · art pop</summary>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Aphex+Twin">Aphex Twin</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Orbital">Orbital</a><br>
@@ -152,7 +152,7 @@ I can often predict how something will go, but predicting is dry, and living it 
 <br><br>
 </details>
 <details>
-<summary><img src="assets/icons/ghost.svg" width="26" align="absmiddle" alt="" /> <b>Caretaker fan universe</b> <sub>hauntology · plunderphonics</sub></summary>
+<summary><img src="assets/icons/ghost.svg" width="26" align="absmiddle" alt="" /> <b>Caretaker fan universe</b> · hauntology · plunderphonics</summary>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=The+Caretakers+Nowhere+at+the+Millennium+of+Space+Redux">Nowhere at the Millennium of Space: Redux</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Light+and+Darkness+Context+Switch">Light and Darkness</a><br>
@@ -163,7 +163,7 @@ I can often predict how something will go, but predicting is dry, and living it 
 <br><br>
 </details>
 <details>
-<summary><img src="assets/icons/rock.svg" width="26" align="absmiddle" alt="" /> <b>Rock &amp; metal</b> <sub>prog · shoegaze · post-rock · post-punk</sub></summary>
+<summary><img src="assets/icons/rock.svg" width="26" align="absmiddle" alt="" /> <b>Rock &amp; metal</b> · prog · shoegaze · post-rock · post-punk</summary>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Radiohead">Radiohead</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Muse">Muse</a><br>
@@ -194,7 +194,7 @@ I can often predict how something will go, but predicting is dry, and living it 
 <br><br>
 </details>
 <details>
-<summary><img src="assets/icons/classical.svg" width="26" align="absmiddle" alt="" /> <b>Classical</b> <sub>piano, symphonies, opera, organ</sub></summary>
+<summary><img src="assets/icons/classical.svg" width="26" align="absmiddle" alt="" /> <b>Classical</b> · piano, symphonies, opera, organ</summary>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://www.youtube.com/@HALIDONMUSIC/search?query=Bach">Bach</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://www.youtube.com/@HALIDONMUSIC/search?query=Chopin">Chopin</a><br>
@@ -207,7 +207,7 @@ I can often predict how something will go, but predicting is dry, and living it 
 <br><br>
 </details>
 <details>
-<summary><img src="assets/icons/pop.svg" width="26" align="absmiddle" alt="" /> <b>Pop</b> <sub>dance-pop · synth-pop · alt-pop</sub></summary>
+<summary><img src="assets/icons/pop.svg" width="26" align="absmiddle" alt="" /> <b>Pop</b> · dance-pop · synth-pop · alt-pop</summary>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Michael+Jackson">Michael Jackson</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Modern+Talking">Modern Talking</a><br>
@@ -227,7 +227,7 @@ I can often predict how something will go, but predicting is dry, and living it 
 <br><br>
 </details>
 <details>
-<summary><img src="assets/icons/oldies.svg" width="26" align="absmiddle" alt="" /> <b>Golden oldies</b> <sub>rock &#39;n&#39; roll · crooners · western</sub></summary>
+<summary><img src="assets/icons/oldies.svg" width="26" align="absmiddle" alt="" /> <b>Golden oldies</b> · rock &#39;n&#39; roll · crooners · western</summary>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Elvis+Presley">Elvis Presley</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Frank+Sinatra">Frank Sinatra</a><br>
@@ -236,7 +236,7 @@ I can often predict how something will go, but predicting is dry, and living it 
 <br><br>
 </details>
 <details>
-<summary><img src="assets/icons/opposite.svg" width="26" align="absmiddle" alt="" /> <b>Loud &amp; chaotic</b> <sub>breakcore · digital hardcore · rage · trap · hyperpop</sub></summary>
+<summary><img src="assets/icons/opposite.svg" width="26" align="absmiddle" alt="" /> <b>Loud &amp; chaotic</b> · breakcore · digital hardcore · rage · trap · hyperpop</summary>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=bye2">bye2</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Machine+Girl">Machine Girl</a><br>
@@ -259,7 +259,7 @@ I can often predict how something will go, but predicting is dry, and living it 
 <br><br>
 </details>
 <details>
-<summary><img src="assets/icons/scene.svg" width="26" align="absmiddle" alt="" /> <b>Eastern European scene</b> <sub>rap · hyperpop · cult classics</sub></summary>
+<summary><img src="assets/icons/scene.svg" width="26" align="absmiddle" alt="" /> <b>Eastern European scene</b> · rap · hyperpop · cult classics</summary>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=%D0%9C%D0%B0%D0%BB%D0%B5%D0%BD%D1%8C%D0%BA%D0%B8%D0%B9+%D0%AF%D1%80%D1%87%D0%B5">Маленький Ярче</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Fendiglock">Fendiglock</a><br>
@@ -293,7 +293,7 @@ I can often predict how something will go, but predicting is dry, and living it 
 <br><br>
 </details>
 <details>
-<summary><img src="assets/icons/games.svg" width="26" align="absmiddle" alt="" /> <b>Game soundtracks</b> <sub>the highlights</sub></summary>
+<summary><img src="assets/icons/games.svg" width="26" align="absmiddle" alt="" /> <b>Game soundtracks</b> · the highlights</summary>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Half-Life+soundtrack">Half-Life 1 & 2</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=STALKER+soundtrack">S.T.A.L.K.E.R.</a><br>
@@ -366,6 +366,5 @@ I can often predict how something will go, but predicting is dry, and living it 
   <a href="https://www.youtube.com/@nadludyna"><img src="https://img.shields.io/badge/YOUTUBE_%E2%86%97-9FE870?style=for-the-badge&logo=youtube&logoColor=101510" alt="YouTube" /></a>
 </p>
 
-*One must still have chaos in oneself to give birth to a dancing star.* (Nietzsche)
 
 </div>
