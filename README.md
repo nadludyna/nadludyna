@@ -36,7 +36,7 @@ A vibe coder — with taste. Curious by default, AuDHD by design.<br>
 
 <img src="assets/icons/selfhost.svg" width="26" align="absmiddle" alt="" /> **Self-hosting** — one project so far: a modded [Minecraft](https://www.minecraft.net) server on [Fabric](https://fabricmc.net), with scripts that check for mod updates.
 
-<img src="assets/icons/tinker.svg" width="26" align="absmiddle" alt="" /> **Tinkering** — userscripts, patched Android apps for my family ([Morphe](https://morphe.software)), and old games running on modern PCs.
+<img src="assets/icons/tinker.svg" width="26" align="absmiddle" alt="" /> **Tinkering** — userscripts, patched Android apps for my family ([Morphe](https://morphe.software)), and getting old games to run on modern PCs — the fix is usually on [PCGamingWiki](https://www.pcgamingwiki.com), Reddit, or one question to AI away.
 
 <img src="assets/icons/opensource.svg" width="26" align="absmiddle" alt="" /> **Open source** — my usual pick, not as a rule but because it's so often the best tool. Happy to pay for anything that earns it.
 
