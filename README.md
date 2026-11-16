@@ -26,12 +26,6 @@ A vibe coder — with taste. Curious by default, AuDHD by design.<br>
 <img src="https://github.com/nadludyna/top10gier/raw/HEAD/grafika/ikona/favicon-192.png" width="28" align="absmiddle" alt="" /> &nbsp;[**TOP 10 GIER**](https://github.com/nadludyna/top10gier) — my personal hall of fame: ten favorite games, with tiers and very subjective reviews. A one-page site for a university web course.<br>
 <img src="https://img.shields.io/badge/HTML-101510?style=flat-square" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-101510?style=flat-square" alt="CSS" /> <img src="https://img.shields.io/badge/VANILLA_JS-101510?style=flat-square" alt="VANILLA JS" />
 
-<p>
-  <a href="https://github.com/nadludyna/typeTrainer"><img src="https://github.com/nadludyna/typeTrainer/raw/HEAD/docs/media/social-preview.png" height="150" alt="typeTrainer" /></a>
-  <a href="https://github.com/nadludyna/tyaga"><img src="https://github.com/nadludyna/tyaga/raw/HEAD/docs/screenshot.png" height="150" alt="ТЯГА" /></a>
-  <a href="https://nadludyna.github.io/top10gier/"><img src="assets/shots/top10gier.jpg" height="150" alt="TOP 10 GIER" /></a>
-</p>
-
 </div>
 
 ---
