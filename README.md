@@ -2,7 +2,7 @@
 
 ### Hey <img src="assets/icons/hey.svg" width="30" align="absmiddle" alt="" />
 
-<img src="assets/header.svg" width="480" alt="$ whoami → curious tech tinkerer" />
+<img src="assets/prompt.svg" width="480" alt="$ whoami — nadludyna" />
 
 **Engineer, not a developer:** I figure out what's needed, use whatever gets results, and build the rest with AI.<br>
 I pick things up fast — from zero to something useful in hours, not weeks.<br>
