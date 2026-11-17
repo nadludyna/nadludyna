@@ -87,7 +87,7 @@ I've used LLMs since GPT-3. At first I didn't really get what they were for, but
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?domain=mojaveexpressguide.com&sz=64" width="20" align="absmiddle" alt="" /> [Mojave Express](https://mojaveexpressguide.com/docs/Introduction)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?domain=wastelandsurvival.guide&sz=64" width="20" align="absmiddle" alt="" /> [Wasteland Survival Guide](https://wastelandsurvival.guide/docs/intro)
 
-<img src="assets/icons/typing.svg" width="26" align="absmiddle" alt="" /> **Typing**: Monkeytype, mostly to switch my head off. Keyboards have been a hobby for a while: I started on [Dark Project](https://darkproject.eu) boards, even built a custom switch set from their parts, and ended up on magnetic [MonsGeek](https://www.monsgeek.com) ones. Main board today: MonsGeek FUN60 Ultra with Astrolink switches.
+<img src="assets/icons/typing.svg" width="26" align="absmiddle" alt="" /> **Typing**: Monkeytype, mostly to switch my head off. Keyboards have been a hobby for a while: I started on [Dark Project](https://darkproject.eu/catalog?category=Keyboards) boards, even built a custom switch set from their parts, and ended up on magnetic [MonsGeek](https://www.monsgeek.com) ones. Main board today: MonsGeek FUN60 Ultra with Astrolink switches.
 
 <img src="assets/icons/music.svg" width="26" align="absmiddle" alt="" /> **Music highlights**
 
