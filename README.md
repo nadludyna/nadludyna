@@ -78,7 +78,7 @@ I've used LLMs since GPT-3. Claude is my main coding agent, and I also think thi
 
 ### // Beyond tech
 
-<img src="assets/icons/gaming.svg" width="26" align="absmiddle" alt="" /> **Gaming**: atmospheric worlds, RPGs, immersive sims, horror, odd indie. My top 10 is [here](https://nadludyna.github.io/top10gier/).
+<img src="assets/icons/gaming.svg" width="26" align="absmiddle" alt="" /> **Gaming**: atmospheric worlds, RPGs, immersive sims, horror, odd indie, plus chill casual games to have on while a podcast plays. My top 10 is [here](https://nadludyna.github.io/top10gier/).
 
 <img src="assets/icons/modding.svg" width="26" align="absmiddle" alt="" /> **Modding**<br>
 <img src="assets/icons/minecraft.svg" width="22" align="absmiddle" alt="" /> ***Minecraft***: <img src="https://www.google.com/s2/favicons?domain=prismlauncher.org&sz=64" width="20" align="absmiddle" alt="" /> [Prism Launcher](https://prismlauncher.org) for small modpacks.<br>
