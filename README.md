@@ -70,7 +70,7 @@ I've used LLMs since GPT-3. At first I didn't really get what they were for, but
 
 **Building:** when enough notes pile up and an idea starts to feel real, I point Claude to that part of the vault and we build from there. Work happens in branches, with PRs and tests before anything gets merged. This README went through the same process: lots of drafts, lots of cuts.
 
-**Other models:** I've tried most of the big ones, Chinese models included, and spent some time with Mistral's tools. I test them through [OpenRouter](https://openrouter.ai) (wired into VS Code via [Kilo Code](https://kilocode.ai)), and follow new releases on [Hugging Face](https://huggingface.co) and [Arena](https://arena.ai). Claude stays the main tool; the others give second opinions and review code.
+**Other models:** I've tried most of the big ones and spent some time with Mistral's tools. These days I use [Kilo Code](https://kilocode.ai) in VS Code, connected to [OpenRouter](https://openrouter.ai), to test Chinese and other models, and to get a second opinion on ideas, plans and code reviews. New releases I follow on [Hugging Face](https://huggingface.co) and [Arena](https://arena.ai).
 
 **On AI in general:** I think it's one of the most powerful things we've built, honestly on the level of nuclear tech, and just like that, it depends on whose hands it's in. The ethical questions matter to me, just not enough to stop using it. A lot of the panic comes from how AI was sold to people: "it'll replace you, the singularity is here, get used to it." That framing is nonsense, but so is pretending AI isn't a big deal.
 
