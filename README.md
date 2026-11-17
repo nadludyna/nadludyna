@@ -78,23 +78,20 @@ I've used LLMs since GPT-3. Claude is my main coding agent, and I also think thi
 
 ### // Beyond tech
 
-<img src="assets/icons/gaming.svg" width="26" align="absmiddle" alt="" /> **Gaming**: I play a bit of everything, but keep coming back to atmospheric worlds, RPGs, immersive sims, horror and odd indie games, with puzzles and cozy games now and then. The whole library is on Steam; my top 10 is [here](https://nadludyna.github.io/top10gier/).
+<img src="assets/icons/gaming.svg" width="26" align="absmiddle" alt="" /> **Gaming**: atmospheric worlds, RPGs, immersive sims, horror, odd indie. My top 10 is [here](https://nadludyna.github.io/top10gier/).
 
 <img src="assets/icons/modding.svg" width="26" align="absmiddle" alt="" /> **Modding**<br>
-<img src="assets/icons/minecraft.svg" width="22" align="absmiddle" alt="" /> ***Minecraft***: <img src="https://www.google.com/s2/favicons?domain=prismlauncher.org&sz=64" width="20" align="absmiddle" alt="" /> [Prism Launcher](https://prismlauncher.org) keeps my small modpacks organized.<br>
-<img src="assets/icons/fallout.svg" width="22" align="absmiddle" alt="" /> ***Fallout: New Vegas / TTW***: set up following these guides:<br>
+<img src="assets/icons/minecraft.svg" width="22" align="absmiddle" alt="" /> ***Minecraft***: <img src="https://www.google.com/s2/favicons?domain=prismlauncher.org&sz=64" width="20" align="absmiddle" alt="" /> [Prism Launcher](https://prismlauncher.org) for small modpacks.<br>
+<img src="assets/icons/fallout.svg" width="22" align="absmiddle" alt="" /> ***Fallout: New Vegas / TTW***: via these guides:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?domain=vivanewvegas.moddinglinked.com&sz=64" width="20" align="absmiddle" alt="" /> [Viva New Vegas](https://vivanewvegas.moddinglinked.com/intro.html)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?domain=mojaveexpressguide.com&sz=64" width="20" align="absmiddle" alt="" /> [Mojave Express](https://mojaveexpressguide.com/docs/Introduction)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?domain=wastelandsurvival.guide&sz=64" width="20" align="absmiddle" alt="" /> [Wasteland Survival Guide](https://wastelandsurvival.guide/docs/intro)
 
-<img src="assets/icons/typing.svg" width="26" align="absmiddle" alt="" /> **Typing**: I practice on Monkeytype and keep an eye on speed and accuracy, but honestly it's mostly how I switch my head off. I like mechanical keyboards.<br>
-Current setup: <kbd>MonsGeek FUN60 Ultra</kbd> + <kbd>Astrolink switches</kbd>
+<img src="assets/icons/typing.svg" width="26" align="absmiddle" alt="" /> **Typing**: Monkeytype, mostly to switch my head off. <kbd>MonsGeek FUN60 Ultra</kbd> + <kbd>Astrolink switches</kbd>
 
-<img src="assets/icons/perspective.svg" width="26" align="absmiddle" alt="" /> **Perspective**: I'm AuDHD (autistic and ADHD). I mention it because it explains a lot about how I work. My thinking often takes a roundabout way, which gives me ideas and sometimes gets in the way.<br><br>
-My head is rarely quiet, so I rest by doing something: typing fast, music that keeps changing, repeating phrases and voices until they sound right (which is also why I'm decent at impressions). I try to work with it rather than against it, without making it my whole personality. *[Amor fati](https://en.wikipedia.org/wiki/Amor_fati).*<br><br>
-Even when I can guess how something will go, actually doing it is always a bit different. Same dishes, different plate. So repeating things doesn't really bore me.
+<img src="assets/icons/perspective.svg" width="26" align="absmiddle" alt="" /> **Perspective**: AuDHD. My head is rarely quiet, so I rest by doing: fast typing, music, repeating voices until they sound right. *[Amor fati](https://en.wikipedia.org/wiki/Amor_fati).*
 
-<img src="assets/icons/music.svg" width="26" align="absmiddle" alt="" /> **Music**: how I adjust my mood, sometimes to even it out, sometimes to go further into it. These are just highlights. My taste comes in waves: something wears off, and later I come back to it. Some of it I know well, some I've heard a few times and it stuck.
+<img src="assets/icons/music.svg" width="26" align="absmiddle" alt="" /> **Music**: how I adjust my mood. Highlights:
 
 <details>
 <summary><img src="assets/icons/atmosphere.svg" width="26" align="absmiddle" alt="" /> <b>Atmosphere</b> · ambient · drone · dark ambient · hauntology · vaporwave · barber beats</summary>
@@ -329,7 +326,7 @@ Even when I can guess how something will go, actually doing it is always a bit d
 <br><br>
 </details>
 
-<img src="assets/icons/books.svg" width="26" align="absmiddle" alt="" /> **Also into**: philosophy, as a reader rather than an expert (Nietzsche, Hegel, Wittgenstein), questions about consciousness and AI, and collecting useful tools, guides and YouTube channels.
+<img src="assets/icons/books.svg" width="26" align="absmiddle" alt="" /> **Also into**: philosophy (Nietzsche, Hegel, Wittgenstein), consciousness and AI.
 
 
 ---
