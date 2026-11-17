@@ -2,8 +2,8 @@
 
 ### Hey <img src="assets/icons/hey.svg" width="30" align="absmiddle" alt="" />
 
-I'm not a developer in the usual sense, and I've never cared much for titles. I think more like an engineer, partly because of how my brain works and partly because of how I grew up: figure out what's needed, use what already works, build the rest myself, using tools like AI.<br>
-I'm AuDHD, and when something catches my interest, I tend to pick it up fast.
+I'm not a developer in the usual sense, and titles never meant much to me. I think like an engineer: figure out what's needed, use what works, build the rest myself with tools like AI.<br>
+That comes from how I grew up and from being AuDHD. When something grabs my interest, I learn it fast.
 
 These days I'm learning DevOps.
 
