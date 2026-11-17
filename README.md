@@ -7,6 +7,8 @@ I use whatever gets the job done, AI included, and focus on results: fast, relia
 
 Currently learning DevOps.
 
+<img src="https://img.shields.io/badge/NATIVE-101510?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMCAyMCI%2BPGNsaXBQYXRoIGlkPSJjIj48cmVjdCB3aWR0aD0iMzAiIGhlaWdodD0iMjAiIHJ4PSIzIi8%2BPC9jbGlwUGF0aD48ZyBjbGlwLXBhdGg9InVybCgjYykiPjxyZWN0IHdpZHRoPSIzMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzAwNTdCNyIvPjxyZWN0IHk9IjEwIiB3aWR0aD0iMzAiIGhlaWdodD0iMTAiIGZpbGw9IiNGRkQ3MDAiLz48L2c%2BPC9zdmc%2B" alt="Ukrainian: native" title="Ukrainian" /> <img src="https://img.shields.io/badge/NATIVE-101510?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMCAyMCI%2BPGNsaXBQYXRoIGlkPSJjIj48cmVjdCB3aWR0aD0iMzAiIGhlaWdodD0iMjAiIHJ4PSIzIi8%2BPC9jbGlwUGF0aD48ZyBjbGlwLXBhdGg9InVybCgjYykiPjxyZWN0IHdpZHRoPSIzMCIgaGVpZ2h0PSI3IiBmaWxsPSIjZmZmIi8%2BPHJlY3QgeT0iNi42IiB3aWR0aD0iMzAiIGhlaWdodD0iNi44IiBmaWxsPSIjMDAzOUE2Ii8%2BPHJlY3QgeT0iMTMuMyIgd2lkdGg9IjMwIiBoZWlnaHQ9IjYuNyIgZmlsbD0iI0Q1MkIxRSIvPjwvZz48L3N2Zz4%3D" alt="Russian: native" title="Russian" /> <img src="https://img.shields.io/badge/NATIVE--LEVEL-101510?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMCAyMCI%2BPGNsaXBQYXRoIGlkPSJjIj48cmVjdCB3aWR0aD0iMzAiIGhlaWdodD0iMjAiIHJ4PSIzIi8%2BPC9jbGlwUGF0aD48ZyBjbGlwLXBhdGg9InVybCgjYykiPjxyZWN0IHdpZHRoPSIzMCIgaGVpZ2h0PSIyMCIgZmlsbD0iIzAxMjE2OSIvPjxwYXRoIGQ9Ik0wIDBMMzAgMjBNMzAgMEwwIDIwIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iNCIvPjxwYXRoIGQ9Ik0wIDBMMzAgMjBNMzAgMEwwIDIwIiBzdHJva2U9IiNDODEwMkUiIHN0cm9rZS13aWR0aD0iMS42Ii8%2BPHBhdGggZD0iTTE1IDBWMjBNMCAxMEgzMCIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjYiLz48cGF0aCBkPSJNMTUgMFYyME0wIDEwSDMwIiBzdHJva2U9IiNDODEwMkUiIHN0cm9rZS13aWR0aD0iMy40Ii8%2BPC9nPjwvc3ZnPg%3D%3D" alt="English: native-level" title="English" /> <img src="https://img.shields.io/badge/FULL_UNDERSTANDING_%C2%B7_CONVERSATIONAL-101510?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMCAyMCI%2BPGNsaXBQYXRoIGlkPSJjIj48cmVjdCB3aWR0aD0iMzAiIGhlaWdodD0iMjAiIHJ4PSIzIi8%2BPC9jbGlwUGF0aD48ZyBjbGlwLXBhdGg9InVybCgjYykiPjxyZWN0IHdpZHRoPSIzMCIgaGVpZ2h0PSIxMCIgZmlsbD0iI2ZmZiIvPjxyZWN0IHk9IjEwIiB3aWR0aD0iMzAiIGhlaWdodD0iMTAiIGZpbGw9IiNEQzE0M0MiLz48L2c%2BPC9zdmc%2B" alt="Polish: fluent understanding · conversational" title="Polish" /> <img src="https://img.shields.io/badge/BASIC-101510?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMCAyMCI%2BPGNsaXBQYXRoIGlkPSJjIj48cmVjdCB3aWR0aD0iMzAiIGhlaWdodD0iMjAiIHJ4PSIzIi8%2BPC9jbGlwUGF0aD48ZyBjbGlwLXBhdGg9InVybCgjYykiPjxyZWN0IHdpZHRoPSIzMCIgaGVpZ2h0PSI3IiBmaWxsPSIjMDAwIi8%2BPHJlY3QgeT0iNi42IiB3aWR0aD0iMzAiIGhlaWdodD0iNi44IiBmaWxsPSIjREQwMDAwIi8%2BPHJlY3QgeT0iMTMuMyIgd2lkdGg9IjMwIiBoZWlnaHQ9IjYuNyIgZmlsbD0iI0ZGQ0UwMCIvPjwvZz48L3N2Zz4%3D" alt="German: basic" title="German" />
+
 </div>
 
 ---
@@ -60,45 +62,26 @@ I'd rather keep things simple and useful than impressive, and I treat docs as pa
   <a href="https://gemini.google.com"><img src="https://img.shields.io/badge/GEMINI-101510?style=flat-square&logo=googlegemini&logoColor=9FE870" alt="Gemini" /></a>
 </p>
 
-I've used LLMs since GPT-3. Claude is my main coding agent, and I also think things through with it.
+I've used LLMs since GPT-3 and figured out early that clear prompts and good context make all the difference. Today Claude is my main coding agent and thinking partner.
 
 `raw thought` → `talk it through` → `let it brew` → `.md in the vault` → `notes pile up` → `build`
 
-**Thinking:** I dump raw thoughts on Claude, talk them through, leave them for a while, and save whatever's worth keeping as notes in my Obsidian vault.
-
-**Building:** when enough notes pile up and an idea starts to feel real, I point Claude to that part of the vault and we build from there. Work happens in branches, with PRs and tests before anything gets merged. This README went through the same process: lots of drafts, lots of cuts.
-
-**Other models:** I've tried most of the big ones, Chinese models included. Claude stays the main tool; the others give second opinions and review code.
-
-**On AI in general:** I see it as a normal step forward and a genuinely great tool in the right hands. The concerns around it (scale, consent, creators losing work) are real, and worth taking seriously.
+- **Thinking:** raw thoughts go to Claude, the useful ones end up as notes in my Obsidian vault.
+- **Building:** once an idea feels real, Claude works from those notes. Branches, PRs and tests before anything merges.
+- **Other models:** [Kilo Code](https://kilocode.ai) + [OpenRouter](https://openrouter.ai) in VS Code, to test Chinese and other models and get a second opinion on plans and code. New releases I follow on [Hugging Face](https://huggingface.co) and [Arena](https://arena.ai).
+- **On AI in general:** powerful on the level of nuclear tech, so it all depends on whose hands it's in. The ethical questions matter to me, just not enough to stop using it. "It'll replace you" is a bad framing, but pretending AI isn't a big deal is just as wrong.
 
 ---
 
 ### // Beyond tech
 
-<img src="assets/icons/languages.svg" width="26" align="absmiddle" alt="" /> **Languages**: Ukrainian · Russian · Polish · English · German *(basic)*
+<img src="assets/icons/gaming.svg" width="26" align="absmiddle" alt="" /> **Gaming**: mostly atmospheric worlds, RPGs, immersive sims, horror and odd indie games, plus something casual to keep my hands busy while a podcast is on.
 
-<details>
-<summary><b>Off the clock</b></summary>
-<br>
+<img src="assets/icons/modding.svg" width="26" align="absmiddle" alt="" /> **Modding**: small Minecraft modpacks in [Prism Launcher](https://prismlauncher.org), and Fallout New Vegas / TTW built with the [Viva New Vegas](https://vivanewvegas.moddinglinked.com/intro.html), [Mojave Express](https://mojaveexpressguide.com/docs/Introduction) and [Wasteland Survival Guide](https://wastelandsurvival.guide/docs/intro) guides.
 
-<img src="assets/icons/gaming.svg" width="26" align="absmiddle" alt="" /> **Gaming**: I play a bit of everything, but keep coming back to atmospheric worlds, RPGs, immersive sims, horror and odd indie games, with puzzles and cozy games now and then. The whole library is on Steam; my top 10 is [here](https://nadludyna.github.io/top10gier/).
+<img src="assets/icons/typing.svg" width="26" align="absmiddle" alt="" /> **Typing**: Monkeytype, mostly to switch my head off. I got into keyboards through [Dark Project](https://darkproject.eu/catalog?category=Keyboards), built a custom switch set from their parts, and ended up on magnetic [MonsGeek](https://www.monsgeek.com) boards. Right now it's a FUN60 Ultra with Astrolink switches.
 
-<img src="assets/icons/modding.svg" width="26" align="absmiddle" alt="" /> **Modding**<br>
-<img src="assets/icons/minecraft.svg" width="22" align="absmiddle" alt="" /> ***Minecraft***: <img src="https://www.google.com/s2/favicons?domain=prismlauncher.org&sz=64" width="20" align="absmiddle" alt="" /> [Prism Launcher](https://prismlauncher.org) keeps my small modpacks organized.<br>
-<img src="assets/icons/fallout.svg" width="22" align="absmiddle" alt="" /> ***Fallout: New Vegas / TTW***: set up following these guides:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?domain=vivanewvegas.moddinglinked.com&sz=64" width="20" align="absmiddle" alt="" /> [Viva New Vegas](https://vivanewvegas.moddinglinked.com/intro.html)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?domain=mojaveexpressguide.com&sz=64" width="20" align="absmiddle" alt="" /> [Mojave Express](https://mojaveexpressguide.com/docs/Introduction)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?domain=wastelandsurvival.guide&sz=64" width="20" align="absmiddle" alt="" /> [Wasteland Survival Guide](https://wastelandsurvival.guide/docs/intro)
-
-<img src="assets/icons/typing.svg" width="26" align="absmiddle" alt="" /> **Typing**: I practice on Monkeytype and keep an eye on speed and accuracy, but honestly it's mostly how I switch my head off. I like mechanical keyboards.<br>
-Current setup: <kbd>MonsGeek FUN60 Ultra</kbd> + <kbd>Astrolink switches</kbd>
-
-<img src="assets/icons/perspective.svg" width="26" align="absmiddle" alt="" /> **Perspective**: I'm AuDHD (autistic and ADHD). I mention it because it explains a lot about how I work. My thinking often takes a roundabout way, which gives me ideas and sometimes gets in the way.<br><br>
-My head is rarely quiet, so I rest by doing something: typing fast, music that keeps changing, repeating phrases and voices until they sound right (which is also why I'm decent at impressions). I try to work with it rather than against it, without making it my whole personality. *[Amor fati](https://en.wikipedia.org/wiki/Amor_fati).*<br><br>
-Even when I can guess how something will go, actually doing it is always a bit different. Same dishes, different plate. So repeating things doesn't really bore me.
-
-<img src="assets/icons/music.svg" width="26" align="absmiddle" alt="" /> **Music**: how I adjust my mood, sometimes to even it out, sometimes to go further into it. These are just highlights. My taste comes in waves: something wears off, and later I come back to it. Some of it I know well, some I've heard a few times and it stuck.
+<img src="assets/icons/music.svg" width="26" align="absmiddle" alt="" /> **Music**: what usually ends up in my headphones
 
 <details>
 <summary><img src="assets/icons/atmosphere.svg" width="26" align="absmiddle" alt="" /> <b>Atmosphere</b> · ambient · drone · dark ambient · hauntology · vaporwave · barber beats</summary>
@@ -333,9 +316,7 @@ Even when I can guess how something will go, actually doing it is always a bit d
 <br><br>
 </details>
 
-<img src="assets/icons/books.svg" width="26" align="absmiddle" alt="" /> **Also into**: philosophy, as a reader rather than an expert (Nietzsche, Hegel, Wittgenstein), questions about consciousness and AI, and collecting useful tools, guides and YouTube channels.
 
-</details>
 
 ---
 
