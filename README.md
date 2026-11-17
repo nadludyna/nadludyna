@@ -89,7 +89,7 @@ I've used LLMs since GPT-3. Claude is my main coding agent, and I also think thi
 
 <img src="assets/icons/typing.svg" width="26" align="absmiddle" alt="" /> **Typing**: Monkeytype, mostly to switch my head off. <kbd>MonsGeek FUN60 Ultra</kbd> + <kbd>Astrolink switches</kbd>
 
-<img src="assets/icons/perspective.svg" width="26" align="absmiddle" alt="" /> **Perspective**: I'm AuDHD. My head is rarely quiet, so I rest by doing something: fast typing, music, or singing along and trying to sound exactly like the artist. Same with lines from memes and shows: I end up saying them in the original voice. I don't fight it and I don't romanticize it. I'd rather take it as it is and make it work for me, which is pretty much what *[amor fati](https://en.wikipedia.org/wiki/Amor_fati)* means to me.
+<img src="assets/icons/perspective.svg" width="26" align="absmiddle" alt="" /> **How I see things**: I'm AuDHD, and my head is rarely quiet. I don't fight that and I don't romanticize it. I'd rather take things as they are and make them work, which is pretty much what *[amor fati](https://en.wikipedia.org/wiki/Amor_fati)* means to me. That's also why I read philosophy (Nietzsche, Hegel, Wittgenstein) and keep coming back to questions about consciousness and AI.
 
 <img src="assets/icons/music.svg" width="26" align="absmiddle" alt="" /> **Music**: how I adjust my mood.
 
@@ -328,7 +328,6 @@ I've used LLMs since GPT-3. Claude is my main coding agent, and I also think thi
 <br><br>
 </details>
 
-<img src="assets/icons/books.svg" width="26" align="absmiddle" alt="" /> **Also into**: philosophy (Nietzsche, Hegel, Wittgenstein), consciousness and AI.
 
 
 ---
