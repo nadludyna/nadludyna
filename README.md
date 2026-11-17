@@ -75,18 +75,11 @@ I've used LLMs since GPT-3 and figured out early that clear prompts and good con
 
 ### // Beyond tech
 
-<img src="assets/icons/gaming.svg" width="26" align="absmiddle" alt="" /> **Gaming**: atmospheric worlds, RPGs, immersive sims, horror, odd indie.<br>
-Plus casual games to keep my hands busy while I listen to a podcast or something else.
+<img src="assets/icons/gaming.svg" width="26" align="absmiddle" alt="" /> **Gaming**: mostly atmospheric worlds, RPGs, immersive sims, horror and odd indie games, plus something casual to keep my hands busy while a podcast is on.
 
-<img src="assets/icons/modding.svg" width="26" align="absmiddle" alt="" /> **Modding**<br>
-<img src="assets/icons/minecraft.svg" width="22" align="absmiddle" alt="" /> ***Minecraft***: <img src="https://www.google.com/s2/favicons?domain=prismlauncher.org&sz=64" width="20" align="absmiddle" alt="" /> [Prism Launcher](https://prismlauncher.org) for small modpacks.<br>
-<img src="assets/icons/fallout.svg" width="22" align="absmiddle" alt="" /> ***Fallout New Vegas / TTW***: set up with these guides<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?domain=vivanewvegas.moddinglinked.com&sz=64" width="20" align="absmiddle" alt="" /> [Viva New Vegas](https://vivanewvegas.moddinglinked.com/intro.html)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?domain=mojaveexpressguide.com&sz=64" width="20" align="absmiddle" alt="" /> [Mojave Express](https://mojaveexpressguide.com/docs/Introduction)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?domain=wastelandsurvival.guide&sz=64" width="20" align="absmiddle" alt="" /> [Wasteland Survival Guide](https://wastelandsurvival.guide/docs/intro)
+<img src="assets/icons/modding.svg" width="26" align="absmiddle" alt="" /> **Modding**: small Minecraft modpacks in [Prism Launcher](https://prismlauncher.org), and Fallout New Vegas / TTW built with the [Viva New Vegas](https://vivanewvegas.moddinglinked.com/intro.html), [Mojave Express](https://mojaveexpressguide.com/docs/Introduction) and [Wasteland Survival Guide](https://wastelandsurvival.guide/docs/intro) guides.
 
-<img src="assets/icons/typing.svg" width="26" align="absmiddle" alt="" /> **Typing**: Monkeytype, mostly to switch my head off.<br>
-Keyboards: started on [Dark Project](https://darkproject.eu/catalog?category=Keyboards), built a custom switch set from their parts, ended up on magnetic [MonsGeek](https://www.monsgeek.com). Main: FUN60 Ultra with Astrolink switches.
+<img src="assets/icons/typing.svg" width="26" align="absmiddle" alt="" /> **Typing**: Monkeytype, mostly to switch my head off. I got into keyboards through [Dark Project](https://darkproject.eu/catalog?category=Keyboards), built a custom switch set from their parts, and ended up on magnetic [MonsGeek](https://www.monsgeek.com) boards. Right now it's a FUN60 Ultra with Astrolink switches.
 
 <img src="assets/icons/music.svg" width="26" align="absmiddle" alt="" /> **Music highlights**
 
@@ -108,7 +101,6 @@ Keyboards: started on [Dark Project](https://darkproject.eu/catalog?category=Key
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=William+Basinski+The+Disintegration+Loops">William Basinski: The Disintegration Loops</a>
 <br><br>
 </details>
-<br>
 <details>
 <summary><img src="assets/icons/electronic.svg" width="26" align="absmiddle" alt="" /> <b>Electronic</b> · IDM · synthwave · art pop</summary>
 <br>
@@ -130,7 +122,6 @@ Keyboards: started on [Dark Project](https://darkproject.eu/catalog?category=Key
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Cynthoni">Cynthoni</a>
 <br><br>
 </details>
-<br>
 <details>
 <summary><img src="assets/icons/ghost.svg" width="26" align="absmiddle" alt="" /> <b>Caretaker fan universe</b> · hauntology · plunderphonics</summary>
 <br>
@@ -142,7 +133,6 @@ Keyboards: started on [Dark Project](https://darkproject.eu/catalog?category=Key
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=The+Patients+vCJD">vCJD</a>
 <br><br>
 </details>
-<br>
 <details>
 <summary><img src="assets/icons/rock.svg" width="26" align="absmiddle" alt="" /> <b>Rock &amp; metal</b> · prog · shoegaze · post-rock · post-punk</summary>
 <br>
@@ -174,7 +164,6 @@ Keyboards: started on [Dark Project](https://darkproject.eu/catalog?category=Key
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://www.youtube.com/watch?v=HpQbVqGmGSA">Klaus Johann Grobe</a>
 <br><br>
 </details>
-<br>
 <details>
 <summary><img src="assets/icons/classical.svg" width="26" align="absmiddle" alt="" /> <b>Classical</b> · piano, symphonies, opera, organ</summary>
 <br>
@@ -188,7 +177,6 @@ Keyboards: started on [Dark Project](https://darkproject.eu/catalog?category=Key
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://www.youtube.com/@EssentialClassics">more on Essential Classics</a>
 <br><br>
 </details>
-<br>
 <details>
 <summary><img src="assets/icons/pop.svg" width="26" align="absmiddle" alt="" /> <b>Pop</b> · dance-pop · synth-pop · alt-pop</summary>
 <br>
@@ -209,7 +197,6 @@ Keyboards: started on [Dark Project](https://darkproject.eu/catalog?category=Key
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Dev+Lemons">Dev Lemons</a>
 <br><br>
 </details>
-<br>
 <details>
 <summary><img src="assets/icons/oldies.svg" width="26" align="absmiddle" alt="" /> <b>Golden oldies</b> · rock &#39;n&#39; roll · crooners · western</summary>
 <br>
@@ -219,7 +206,6 @@ Keyboards: started on [Dark Project](https://darkproject.eu/catalog?category=Key
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/channel/UC_X19d3yM9Nq1_4QSFP3EVQ">Jerry Burnham</a> &amp; <a href="https://music.youtube.com/channel/UCuC44ynuN075dUfz3TTLbvw">Don Burnham</a>
 <br><br>
 </details>
-<br>
 <details>
 <summary><img src="assets/icons/opposite.svg" width="26" align="absmiddle" alt="" /> <b>Loud &amp; chaotic</b> · breakcore · digital hardcore · rage · trap · hyperpop</summary>
 <br>
@@ -243,7 +229,6 @@ Keyboards: started on [Dark Project](https://darkproject.eu/catalog?category=Key
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=DrainWh0re">DrainWh0re</a>
 <br><br>
 </details>
-<br>
 <details>
 <summary><img src="assets/icons/scene.svg" width="26" align="absmiddle" alt="" /> <b>Eastern European scene</b> · rap · hyperpop · cult classics</summary>
 <br>
@@ -278,7 +263,6 @@ Keyboards: started on [Dark Project](https://darkproject.eu/catalog?category=Key
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=DMT+Boy">DMT Boy</a>
 <br><br>
 </details>
-<br>
 <details>
 <summary><img src="assets/icons/games.svg" width="26" align="absmiddle" alt="" /> <b>Game soundtracks</b> · the highlights</summary>
 <br>
