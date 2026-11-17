@@ -7,6 +7,8 @@ I use whatever gets the job done, AI included, and focus on results: fast, relia
 
 Currently learning DevOps.
 
+<img src="assets/icons/languages.svg" width="22" align="absmiddle" alt="Languages" /> <img src="https://img.shields.io/badge/UKRAINIAN-101510?style=flat-square" alt="UKRAINIAN" /> <img src="https://img.shields.io/badge/RUSSIAN-101510?style=flat-square" alt="RUSSIAN" /> <img src="https://img.shields.io/badge/POLISH-101510?style=flat-square" alt="POLISH" /> <img src="https://img.shields.io/badge/ENGLISH-101510?style=flat-square" alt="ENGLISH" /> <img src="https://img.shields.io/badge/GERMAN_(BASIC)-101510?style=flat-square" alt="GERMAN (BASIC)" />
+
 </div>
 
 ---
@@ -75,8 +77,6 @@ I've used LLMs since GPT-3. Claude is my main coding agent, and I also think thi
 ---
 
 ### // Beyond tech
-
-<img src="assets/icons/languages.svg" width="26" align="absmiddle" alt="" /> **Languages**: Ukrainian · Russian · Polish · English · German *(basic)*
 
 <details>
 <summary><b>Off the clock</b></summary>
