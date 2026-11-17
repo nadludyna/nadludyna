@@ -2,8 +2,8 @@
 
 ### Hey <img src="assets/icons/hey.svg" width="30" align="absmiddle" alt="" />
 
-I think like an engineer: figure out what's needed, use what works, build the rest myself with tools like AI. Not a developer in the usual sense. Titles aren't something I take pride in, though I get why they exist.<br>
-That comes from how I grew up and from being AuDHD. When something grabs my interest, I learn it fast.
+I'm not really a developer, more of an engineer who uses whatever works. What matters to me is the experience and the result. How it gets built only matters in terms of speed, and in not doing harm to anyone else.<br>
+I'm AuDHD, and when something grabs my interest, I learn it fast.
 
 These days I'm learning DevOps.
 
@@ -69,6 +69,10 @@ I've used LLMs since GPT-3. Claude is my main coding agent, and I also think thi
 **Building:** when enough notes pile up and an idea starts to feel real, I point Claude to that part of the vault and we build from there. Work happens in branches, with PRs and tests before anything gets merged. This README went through the same process: lots of drafts, lots of cuts.
 
 **Other models:** I've tried most of the big ones, Chinese models included. Claude stays the main tool; the others give second opinions and review code.
+
+**On AI in general:** it's a pretty controversial topic. People argue about whether we need it at all, and whether it's okay that humanity's experience is now in almost everyone's hands. Personally, I think it's a normal step forward, and in the right hands it's something genuinely great.
+
+I also don't really buy into intellectual property as something sacred. To me it's mostly a convenient way to show who came up with what, and who's responsible for it: who to blame, who to pay, who to thank. But the way we learn is basically the same thing AI does. Nobody thinks about it like that, it's just how we work. AI made it obvious, and that's why it got so many people upset. But you can't run from reality, however hard you try.
 
 ---
 
