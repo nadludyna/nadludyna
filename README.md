@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hello.svg" width="480" alt="Hey. $ whoami: nadludyna" />
+### Hey <img src="assets/icons/hey.svg" width="30" align="absmiddle" alt="" />
 
 I'm not a developer by trade. I figure out what's needed, use what already works and build the rest with AI.<br>
 Curious, AuDHD, and quick to learn once something gets my attention.
