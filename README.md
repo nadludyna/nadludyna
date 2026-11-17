@@ -2,12 +2,10 @@
 
 <img src="assets/hello.svg" width="480" alt="Hey. $ whoami: nadludyna" />
 
-**Engineer, not a developer.** I figure out what's needed, use whatever works and build the rest with AI.<br>
-I pick things up fast: hours, not weeks.
+I'm not a developer by trade. I figure out what's needed, use what already works and build the rest with AI.<br>
+Curious, AuDHD, and quick to learn once something gets my attention.
 
-`vibe coder with taste` · `curious by default` · `AuDHD by design`
-
-**Currently going deeper into:** DevOps
+Lately: getting into DevOps.
 
 </div>
 
@@ -16,29 +14,29 @@ I pick things up fast: hours, not weeks.
 ### // Things I've built so far
 
 <img src="https://img.shields.io/badge/GO-101510?style=flat-square" alt="GO" /> <img src="https://img.shields.io/badge/JAVASCRIPT-101510?style=flat-square" alt="JAVASCRIPT" /> <img src="https://img.shields.io/badge/POSTGRESQL-101510?style=flat-square" alt="POSTGRESQL" /><br>
-<img src="https://github.com/nadludyna/typeTrainer/raw/HEAD/web/favicon.svg" width="28" align="absmiddle" alt="" /> &nbsp;[**typeTrainer**](https://github.com/nadludyna/typeTrainer): a typing trainer that finds your weak letters and builds the next words around them. Real words only. I built it around the thing I do most to switch my head off (typing), and it became my engineering thesis.
+<img src="https://github.com/nadludyna/typeTrainer/raw/HEAD/web/favicon.svg" width="28" align="absmiddle" alt="" /> &nbsp;[**typeTrainer**](https://github.com/nadludyna/typeTrainer): a typing trainer that notices which letters slow you down and builds the next words around them, real words only. I type a lot, so it was the obvious thing to build for my engineering thesis.
 
 <img src="https://img.shields.io/badge/GO-101510?style=flat-square" alt="GO" /> <img src="https://img.shields.io/badge/GITHUB_ACTIONS-101510?style=flat-square" alt="GITHUB ACTIONS" /><br>
-<img src="https://github.com/nadludyna/tyaga/raw/HEAD/winres/icon.svg" width="28" align="absmiddle" alt="" /> &nbsp;[**ТЯГА**](https://github.com/nadludyna/tyaga): paste a YouTube link, get a file. One small program with a browser UI, built on [yt-dlp](https://github.com/yt-dlp/yt-dlp), with releases for Windows, macOS and Linux. It started life as a Windows batch script and grew up into a proper Go app.
+<img src="https://github.com/nadludyna/tyaga/raw/HEAD/winres/icon.svg" width="28" align="absmiddle" alt="" /> &nbsp;[**ТЯГА**](https://github.com/nadludyna/tyaga): paste a YouTube link, get a file. A small Go program with a browser UI on top of [yt-dlp](https://github.com/yt-dlp/yt-dlp), with builds for Windows, macOS and Linux. It began as a Windows batch script.
 
 <img src="https://img.shields.io/badge/HTML-101510?style=flat-square" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-101510?style=flat-square" alt="CSS" /> <img src="https://img.shields.io/badge/VANILLA_JS-101510?style=flat-square" alt="VANILLA JS" /><br>
-<img src="https://github.com/nadludyna/top10gier/raw/HEAD/grafika/ikona/favicon-192.png" width="28" align="absmiddle" alt="" /> &nbsp;[**TOP 10 GIER**](https://github.com/nadludyna/top10gier): my personal hall of fame: ten favorite games, with tiers and very subjective reviews. A one-page site for a university web course.
+<img src="https://github.com/nadludyna/top10gier/raw/HEAD/grafika/ikona/favicon-192.png" width="28" align="absmiddle" alt="" /> &nbsp;[**TOP 10 GIER**](https://github.com/nadludyna/top10gier): my ten favorite games, sorted into tiers, with reviews that are entirely my opinion. A one-page site for a university web course.
 
 ---
 
 ### // Around the computer
 
-<img src="assets/icons/linux.svg" width="26" align="absmiddle" alt="" /> **Linux**: Distro-curious, practical first. I've poked at plenty of distros, and every time it comes down to the same thing: a clean, focused system without noise or bloat. Home base is [CachyOS](https://cachyos.org), built on Arch, with KDE Plasma.
+<img src="assets/icons/linux.svg" width="26" align="absmiddle" alt="" /> **Linux**: I've tried a fair number of distros, and I always end up wanting the same thing: a clean system without extra noise. These days that's [CachyOS](https://cachyos.org) (Arch-based) with KDE Plasma.
 
-<img src="assets/icons/windows.svg" width="26" align="absmiddle" alt="" /> **Windows**: Main system right now. Clean installs via [Rufus](https://rufus.ie) or [balenaEtcher](https://etcher.balena.io), [WinUtil](https://github.com/ChrisTitusTech/winutil) for tweaks, [UniGetUI](https://devolutions.net/unigetui/) for updates. WSL and PowerShell day to day.
+<img src="assets/icons/windows.svg" width="26" align="absmiddle" alt="" /> **Windows**: my main system right now. I install it clean with [Rufus](https://rufus.ie) or [balenaEtcher](https://etcher.balena.io), tweak it with [WinUtil](https://github.com/ChrisTitusTech/winutil) and keep apps updated through [UniGetUI](https://devolutions.net/unigetui/). WSL and PowerShell for everyday stuff.
 
-<img src="assets/icons/pendulum.svg" width="26" align="absmiddle" alt="" /> **The pendulum**: Schopenhauer said life swings like a pendulum between pain and boredom. Mine swings between Windows and CachyOS, depending on which one annoys me less this month. Both setups stay ready, so switching is cheap.
+<img src="assets/icons/pendulum.svg" width="26" align="absmiddle" alt="" /> **The pendulum**: Schopenhauer had life swinging like a pendulum between pain and boredom. Mine swings between Windows and CachyOS, depending on which one annoys me less that month. Both stay set up, so switching is easy.
 
 <img src="assets/icons/selfhost.svg" width="26" align="absmiddle" alt="" /> **Self-hosting**: one project so far: a modded Minecraft server on [Fabric](https://fabricmc.net), with scripts that check for mod updates.
 
-<img src="assets/icons/tinker.svg" width="26" align="absmiddle" alt="" /> **Tinkering**: userscripts, patched Android apps for my family ([Morphe](https://morphe.software)), and getting old games to run on modern PCs. The fix is usually on [PCGamingWiki](https://www.pcgamingwiki.com), Reddit, or one question to AI away.
+<img src="assets/icons/tinker.svg" width="26" align="absmiddle" alt="" /> **Tinkering**: userscripts, patched Android apps for my family ([Morphe](https://morphe.software)), and old games that refuse to run on new PCs. Usually [PCGamingWiki](https://www.pcgamingwiki.com), Reddit or a quick question to AI has the fix.
 
-<img src="assets/icons/opensource.svg" width="26" align="absmiddle" alt="" /> **Open source**: my usual pick, not as a rule but because it's so often the best tool. Happy to pay for anything that earns it.
+<img src="assets/icons/opensource.svg" width="26" align="absmiddle" alt="" /> **Open source**: I end up using a lot of it, mostly because it tends to be the best option. I'm fine paying for software that's worth it too.
 
 ---
 
@@ -48,20 +46,9 @@ I pick things up fast: hours, not weeks.
 <img src="assets/icons/step2.svg" width="26" align="absmiddle" alt="2" /> **Search**: check what already exists before reinventing the wheel.<br>
 <img src="assets/icons/step3.svg" width="26" align="absmiddle" alt="3" /> **Use or build**: if a tool does the job, use it. If nothing fits, build a focused one.
 
-**How I learn:** I keep the core in my head (the few load-bearing ideas every field stands on) and look up the rest when I need it. New things land on that frame fast.
+**How I learn:** I try to get the basics of a thing first, the few ideas everything else rests on, and look up details when I need them. After that, new stuff in the same area comes quickly.
 
-<p>
-  <code>practical &gt; complex</code><br>
-  <code>useful &gt; impressive</code><br>
-  <code>one precise move &gt; busywork</code><br>
-  <code>docs = part of the work</code>
-</p>
-
-**Where this comes from:**
-- **Ideas are tools.** An idea is worth what it lets you do (roughly John Dewey's pragmatism). So I don't argue about tools, I try them and keep what works.
-- **Keep the frame, look up the rest.** Learn the few big ideas of a field, and the details hang on them by themselves.
-- **The best part is not knowing yet.** The moment something unknown clicks into place happens once, and it's my favorite feeling.
-- **Fewer, sharper moves.** Let the picture form, then act once and precisely, instead of looking busy.
+I'd rather keep things simple and useful than impressive, and I treat docs as part of the work. Often the best move is to wait until the picture is clear and then do one thing well. The part I enjoy most is the moment something I didn't understand finally clicks.
 
 ---
 
@@ -73,15 +60,15 @@ I pick things up fast: hours, not weeks.
   <a href="https://gemini.google.com"><img src="https://img.shields.io/badge/GEMINI-101510?style=flat-square&logo=googlegemini&logoColor=9FE870" alt="Gemini" /></a>
 </p>
 
-I've been using LLMs since GPT-3. Today, Claude is my main coding agent, and just as much a thinking partner.
+I've used LLMs since GPT-3. Claude is my main coding agent, and I also think things through with it.
 
 `raw thought` → `talk it through` → `let it brew` → `.md in the vault` → `notes pile up` → `build`
 
-**Thinking:** raw thoughts go straight to Claude. I talk them through, let them brew, and keep what's worth it as Markdown notes in my Obsidian vault.
+**Thinking:** I dump raw thoughts on Claude, talk them through, leave them for a while, and save whatever's worth keeping as notes in my Obsidian vault.
 
-**Building:** once enough notes pile up and something clicks (*okay, this could be a thing*), I point Claude to that part of the vault and we build from my notes, not a blank prompt. Branches, PRs and tests before anything merges. Example: this README started as "make it less boring" and turned into an evening of drafts, cuts and arguing about where a cursor should blink.
+**Building:** when enough notes pile up and an idea starts to feel real, I point Claude to that part of the vault and we build from there. Work happens in branches, with PRs and tests before anything gets merged. This README went through the same process: lots of drafts, lots of cuts.
 
-**Other models:** I've tried most mainstream and Chinese ones. Claude stays the main tool; the others give second opinions and code audits.
+**Other models:** I've tried most of the big ones, Chinese models included. Claude stays the main tool; the others give second opinions and review code.
 
 ---
 
@@ -93,24 +80,23 @@ I've been using LLMs since GPT-3. Today, Claude is my main coding agent, and jus
 <summary><b>Off the clock</b></summary>
 <br>
 
-<img src="assets/icons/gaming.svg" width="26" align="absmiddle" alt="" /> **Gaming**: I play a lot of different things, but I keep coming back to the same few:<br>
-`atmospheric worlds` `RPGs` `immersive sims` `horror` `weird indie`, plus a soft spot for puzzles and the occasional cozy game. The full library is on Steam, my all-time top 10 is [here](https://nadludyna.github.io/top10gier/).
+<img src="assets/icons/gaming.svg" width="26" align="absmiddle" alt="" /> **Gaming**: I play a bit of everything, but keep coming back to atmospheric worlds, RPGs, immersive sims, horror and odd indie games, with puzzles and cozy games now and then. The whole library is on Steam; my top 10 is [here](https://nadludyna.github.io/top10gier/).
 
 <img src="assets/icons/modding.svg" width="26" align="absmiddle" alt="" /> **Modding**<br>
-<img src="assets/icons/minecraft.svg" width="22" align="absmiddle" alt="" /> ***Minecraft***: <img src="https://www.google.com/s2/favicons?domain=prismlauncher.org&sz=64" width="20" align="absmiddle" alt="" /> [Prism Launcher](https://prismlauncher.org) for minimal modpacks, the best way to juggle instances.<br>
-<img src="assets/icons/fallout.svg" width="22" align="absmiddle" alt="" /> ***Fallout: New Vegas / TTW***: set up by following these guides:<br>
+<img src="assets/icons/minecraft.svg" width="22" align="absmiddle" alt="" /> ***Minecraft***: <img src="https://www.google.com/s2/favicons?domain=prismlauncher.org&sz=64" width="20" align="absmiddle" alt="" /> [Prism Launcher](https://prismlauncher.org) keeps my small modpacks organized.<br>
+<img src="assets/icons/fallout.svg" width="22" align="absmiddle" alt="" /> ***Fallout: New Vegas / TTW***: set up following these guides:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?domain=vivanewvegas.moddinglinked.com&sz=64" width="20" align="absmiddle" alt="" /> [Viva New Vegas](https://vivanewvegas.moddinglinked.com/intro.html)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?domain=mojaveexpressguide.com&sz=64" width="20" align="absmiddle" alt="" /> [Mojave Express](https://mojaveexpressguide.com/docs/Introduction)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?domain=wastelandsurvival.guide&sz=64" width="20" align="absmiddle" alt="" /> [Wasteland Survival Guide](https://wastelandsurvival.guide/docs/intro)
 
-<img src="assets/icons/typing.svg" width="26" align="absmiddle" alt="" /> **Typing**: regular practice on Monkeytype, tracking speed and accuracy. It's also my main way to switch my head off. I like mechanical keyboards.<br>
+<img src="assets/icons/typing.svg" width="26" align="absmiddle" alt="" /> **Typing**: I practice on Monkeytype and keep an eye on speed and accuracy, but honestly it's mostly how I switch my head off. I like mechanical keyboards.<br>
 Current setup: <kbd>MonsGeek FUN60 Ultra</kbd> + <kbd>Astrolink switches</kbd>
 
-<img src="assets/icons/perspective.svg" width="26" align="absmiddle" alt="" /> **Perspective**: I'm AuDHD, autistic and ADHD at once. I say it openly because it makes me easier to understand, for others and for myself. My brain often takes a non-standard route: that's where many of my ideas come from, and some of the friction.<br><br>
-My head never really goes quiet, so I rest by doing: fast typing, music that keeps evolving, repeating voices until they sound just right (hence the easy impressions). I work with it, not against it. No romanticizing, no making it my whole identity. *[Amor fati](https://en.wikipedia.org/wiki/Amor_fati).*<br><br>
-I can often predict how something will go, but predicting is dry, and living it never matches the forecast. Every moment happens once. Even washing dishes: different plate, different move, first and last time. That's why I don't get bored of the same things.
+<img src="assets/icons/perspective.svg" width="26" align="absmiddle" alt="" /> **Perspective**: I'm AuDHD (autistic and ADHD). I mention it because it explains a lot about how I work. My thinking often takes a roundabout way, which gives me ideas and sometimes gets in the way.<br><br>
+My head is rarely quiet, so I rest by doing something: typing fast, music that keeps changing, repeating phrases and voices until they sound right (which is also why I'm decent at impressions). I try to work with it rather than against it, without making it my whole personality. *[Amor fati](https://en.wikipedia.org/wiki/Amor_fati).*<br><br>
+Even when I can guess how something will go, actually doing it is always a bit different. Same dishes, different plate. So repeating things doesn't really bore me.
 
-<img src="assets/icons/music.svg" width="26" align="absmiddle" alt="" /> **Music**: a tuning knob for my nervous system. Sometimes it balances a mood, sometimes it leans into it. These are just the highlights: my taste swings like a pendulum: something clicks, wears off, and later I come back and hear it anew. Some of it I know inside out, some I just heard a few times and it stuck.
+<img src="assets/icons/music.svg" width="26" align="absmiddle" alt="" /> **Music**: how I adjust my mood, sometimes to even it out, sometimes to go further into it. These are just highlights. My taste comes in waves: something wears off, and later I come back to it. Some of it I know well, some I've heard a few times and it stuck.
 
 <details>
 <summary><img src="assets/icons/atmosphere.svg" width="26" align="absmiddle" alt="" /> <b>Atmosphere</b> · ambient · drone · dark ambient · hauntology · vaporwave · barber beats</summary>
@@ -345,7 +331,7 @@ I can often predict how something will go, but predicting is dry, and living it 
 <br><br>
 </details>
 
-<img src="assets/icons/books.svg" width="26" align="absmiddle" alt="" /> **Also into**: philosophy as a curious reader: Nietzsche for *amor fati*, Hegel for the way ideas come back in spirals, Wittgenstein for knowing where words stop working. Plus questions of consciousness and AI, and hoarding good tools, guides and YouTube channels like other people hoard tabs.
+<img src="assets/icons/books.svg" width="26" align="absmiddle" alt="" /> **Also into**: philosophy, as a reader rather than an expert (Nietzsche, Hegel, Wittgenstein), questions about consciousness and AI, and collecting useful tools, guides and YouTube channels.
 
 </details>
 
