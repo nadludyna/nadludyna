@@ -81,7 +81,7 @@ I've used LLMs since GPT-3 and figured out early that clear prompts and good con
 
 <img src="assets/icons/typing.svg" width="26" align="absmiddle" alt="" /> **Typing**: Monkeytype, mostly to switch my head off. I got into keyboards through [Dark Project](https://darkproject.eu/catalog?category=Keyboards), built a custom switch set from their parts, and ended up on magnetic [MonsGeek](https://www.monsgeek.com) boards. Right now it's a FUN60 Ultra with Astrolink switches.
 
-<img src="assets/icons/music.svg" width="26" align="absmiddle" alt="" /> **Music highlights**
+<img src="assets/icons/music.svg" width="26" align="absmiddle" alt="" /> **Music**: what usually ends up in my headphones
 
 <details>
 <summary><img src="assets/icons/atmosphere.svg" width="26" align="absmiddle" alt="" /> <b>Atmosphere</b> · ambient · drone · dark ambient · hauntology · vaporwave · barber beats</summary>
