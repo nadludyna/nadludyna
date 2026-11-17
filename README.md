@@ -2,10 +2,10 @@
 
 ### Hey <img src="assets/icons/hey.svg" width="30" align="absmiddle" alt="" />
 
-I'm not really a developer, more of an engineer who uses whatever works. What matters to me is the experience and the result. How it gets built only matters in terms of speed, and in not doing harm to anyone else.<br>
-When something grabs my interest, I learn it fast.
+Engineer-minded tinkerer: I automate the boring stuff and build small practical tools.<br>
+I use whatever gets the job done, AI included, and focus on results: fast, reliable, no harm to anyone else.
 
-These days I'm learning DevOps.
+Currently learning DevOps.
 
 </div>
 
@@ -70,9 +70,7 @@ I've used LLMs since GPT-3. Claude is my main coding agent, and I also think thi
 
 **Other models:** I've tried most of the big ones, Chinese models included. Claude stays the main tool; the others give second opinions and review code.
 
-**On AI in general:** it's a pretty controversial topic. People argue about whether we need it at all, and whether it's okay that humanity's experience is now in almost everyone's hands. Personally, I think it's a normal step forward, and in the right hands it's something genuinely great.
-
-I'm also not big on treating intellectual property as something sacred. To me it's mostly a useful way to show who came up with what, who's responsible for it, and who should get paid or thanked. And I think the way we learn isn't that different from how AI does it: we pick things up from others and rebuild them into something of our own. AI just made that more visible, and I understand why it worries people. Scale, consent and creators losing work are real concerns. I just don't think the answer is pretending it isn't happening.
+**On AI in general:** I see it as a normal step forward and a genuinely great tool in the right hands. The concerns around it (scale, consent, creators losing work) are real, and worth taking seriously.
 
 ---
 
