@@ -62,7 +62,7 @@ I'd rather keep things simple and useful than impressive, and I treat docs as pa
   <a href="https://gemini.google.com"><img src="https://img.shields.io/badge/GEMINI-101510?style=flat-square&logo=googlegemini&logoColor=9FE870" alt="Gemini" /></a>
 </p>
 
-I've used LLMs since GPT-3. Claude is my main coding agent, and I also think things through with it.
+I've used LLMs since GPT-3. At first I didn't really get what they were for, but along the way I figured out that clear prompts and good context make all the difference, a while before that became common advice. Today Claude is my main coding agent, and I also think things through with it.
 
 `raw thought` → `talk it through` → `let it brew` → `.md in the vault` → `notes pile up` → `build`
 
