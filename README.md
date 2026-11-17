@@ -2,7 +2,7 @@
 
 ### Hey <img src="assets/icons/hey.svg" width="30" align="absmiddle" alt="" />
 
-I'm not a developer by trade. I figure out what's needed, use what already works and build the rest with AI.<br>
+I'm not a developer in the usual sense, and I've never cared much for titles. I think more like an engineer, partly because of how my brain works and partly because of how I grew up: figure out what's needed, use what already works, build the rest with AI.<br>
 I'm AuDHD, and when something catches my interest, I tend to pick it up fast.
 
 These days I'm learning DevOps.
