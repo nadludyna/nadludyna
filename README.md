@@ -2,7 +2,7 @@
 
 ### Hey <img src="assets/icons/hey.svg" width="30" align="absmiddle" alt="" />
 
-I'm not a developer in the usual sense, and titles never meant much to me. I think like an engineer: figure out what's needed, use what works, build the rest myself with tools like AI.<br>
+I think like an engineer: figure out what's needed, use what works, build the rest myself with tools like AI. Not a developer in the usual sense. Titles aren't something I take pride in, though I get why they exist.<br>
 That comes from how I grew up and from being AuDHD. When something grabs my interest, I learn it fast.
 
 These days I'm learning DevOps.
