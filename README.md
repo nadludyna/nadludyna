@@ -78,10 +78,6 @@ I've used LLMs since GPT-3. Claude is my main coding agent, and I also think thi
 
 ### // Beyond tech
 
-<details>
-<summary><b>Off the clock</b></summary>
-<br>
-
 <img src="assets/icons/gaming.svg" width="26" align="absmiddle" alt="" /> **Gaming**: I play a bit of everything, but keep coming back to atmospheric worlds, RPGs, immersive sims, horror and odd indie games, with puzzles and cozy games now and then. The whole library is on Steam; my top 10 is [here](https://nadludyna.github.io/top10gier/).
 
 <img src="assets/icons/modding.svg" width="26" align="absmiddle" alt="" /> **Modding**<br>
@@ -335,7 +331,6 @@ Even when I can guess how something will go, actually doing it is always a bit d
 
 <img src="assets/icons/books.svg" width="26" align="absmiddle" alt="" /> **Also into**: philosophy, as a reader rather than an expert (Nietzsche, Hegel, Wittgenstein), questions about consciousness and AI, and collecting useful tools, guides and YouTube channels.
 
-</details>
 
 ---
 
