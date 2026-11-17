@@ -72,7 +72,7 @@ I've used LLMs since GPT-3. At first I didn't really get what they were for, but
 
 **Other models:** I've tried most of the big ones, Chinese models included, and spent some time with Mistral's tools. I test them through [OpenRouter](https://openrouter.ai) (wired into VS Code via [Kilo Code](https://kilocode.ai)), and follow new releases on [Hugging Face](https://huggingface.co) and [Arena](https://arena.ai). Claude stays the main tool; the others give second opinions and review code.
 
-**On AI in general:** I see it as a normal step forward and a genuinely great tool in the right hands. The concerns around it (scale, consent, creators losing work) are real, and worth taking seriously.
+**On AI in general:** I think it's one of the most powerful things we've built, honestly on the level of nuclear tech, and just like that, it depends on whose hands it's in. The ethical questions matter to me, just not enough to stop using it. A lot of the panic comes from how AI was sold to people: "it'll replace you, the singularity is here, get used to it." That framing is nonsense, but so is pretending AI isn't a big deal.
 
 ---
 
