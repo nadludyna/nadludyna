@@ -70,7 +70,7 @@ I've used LLMs since GPT-3. Claude is my main coding agent, and I also think thi
 
 **Building:** when enough notes pile up and an idea starts to feel real, I point Claude to that part of the vault and we build from there. Work happens in branches, with PRs and tests before anything gets merged. This README went through the same process: lots of drafts, lots of cuts.
 
-**Other models:** I've tried most of the big ones, Chinese models included. I test them through [OpenRouter](https://openrouter.ai) (wired into VS Code via [Kilo Code](https://kilocode.ai)) and [Mistral](https://mistral.ai)'s platform, and follow new releases on [Hugging Face](https://huggingface.co) and [Arena](https://arena.ai). Claude stays the main tool; the others give second opinions and review code.
+**Other models:** I've tried most of the big ones, Chinese models included, and spent some time with Mistral's tools. I test them through [OpenRouter](https://openrouter.ai) (wired into VS Code via [Kilo Code](https://kilocode.ai)), and follow new releases on [Hugging Face](https://huggingface.co) and [Arena](https://arena.ai). Claude stays the main tool; the others give second opinions and review code.
 
 **On AI in general:** I see it as a normal step forward and a genuinely great tool in the right hands. The concerns around it (scale, consent, creators losing work) are real, and worth taking seriously.
 
