@@ -5,7 +5,7 @@
 I'm not a developer by trade. I figure out what's needed, use what already works and build the rest with AI.<br>
 I'm AuDHD, and when something catches my interest, I tend to pick it up fast.
 
-Lately: getting into DevOps.
+These days I'm learning DevOps.
 
 </div>
 
