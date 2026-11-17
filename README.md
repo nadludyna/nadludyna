@@ -15,14 +15,14 @@ I pick things up fast: hours, not weeks.
 
 ### // Things I've built so far
 
-<img src="https://github.com/nadludyna/typeTrainer/raw/HEAD/web/favicon.svg" width="28" align="absmiddle" alt="" /> &nbsp;[**typeTrainer**](https://github.com/nadludyna/typeTrainer): a typing trainer that finds your weak letters and builds the next words around them. Real words only. I built it around the thing I do most to switch my head off (typing), and it became my engineering thesis.<br>
-<img src="https://img.shields.io/badge/GO-101510?style=flat-square" alt="GO" /> <img src="https://img.shields.io/badge/JAVASCRIPT-101510?style=flat-square" alt="JAVASCRIPT" /> <img src="https://img.shields.io/badge/POSTGRESQL-101510?style=flat-square" alt="POSTGRESQL" />
+<img src="https://img.shields.io/badge/GO-101510?style=flat-square" alt="GO" /> <img src="https://img.shields.io/badge/JAVASCRIPT-101510?style=flat-square" alt="JAVASCRIPT" /> <img src="https://img.shields.io/badge/POSTGRESQL-101510?style=flat-square" alt="POSTGRESQL" /><br>
+<img src="https://github.com/nadludyna/typeTrainer/raw/HEAD/web/favicon.svg" width="28" align="absmiddle" alt="" /> &nbsp;[**typeTrainer**](https://github.com/nadludyna/typeTrainer): a typing trainer that finds your weak letters and builds the next words around them. Real words only. I built it around the thing I do most to switch my head off (typing), and it became my engineering thesis.
 
-<img src="https://github.com/nadludyna/tyaga/raw/HEAD/winres/icon.svg" width="28" align="absmiddle" alt="" /> &nbsp;[**ТЯГА**](https://github.com/nadludyna/tyaga): paste a YouTube link, get a file. One small program with a browser UI, built on [yt-dlp](https://github.com/yt-dlp/yt-dlp), with releases for Windows, macOS and Linux. It started life as a Windows batch script and grew up into a proper Go app.<br>
-<img src="https://img.shields.io/badge/GO-101510?style=flat-square" alt="GO" /> <img src="https://img.shields.io/badge/GITHUB_ACTIONS-101510?style=flat-square" alt="GITHUB ACTIONS" />
+<img src="https://img.shields.io/badge/GO-101510?style=flat-square" alt="GO" /> <img src="https://img.shields.io/badge/GITHUB_ACTIONS-101510?style=flat-square" alt="GITHUB ACTIONS" /><br>
+<img src="https://github.com/nadludyna/tyaga/raw/HEAD/winres/icon.svg" width="28" align="absmiddle" alt="" /> &nbsp;[**ТЯГА**](https://github.com/nadludyna/tyaga): paste a YouTube link, get a file. One small program with a browser UI, built on [yt-dlp](https://github.com/yt-dlp/yt-dlp), with releases for Windows, macOS and Linux. It started life as a Windows batch script and grew up into a proper Go app.
 
-<img src="https://github.com/nadludyna/top10gier/raw/HEAD/grafika/ikona/favicon-192.png" width="28" align="absmiddle" alt="" /> &nbsp;[**TOP 10 GIER**](https://github.com/nadludyna/top10gier): my personal hall of fame: ten favorite games, with tiers and very subjective reviews. A one-page site for a university web course.<br>
-<img src="https://img.shields.io/badge/HTML-101510?style=flat-square" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-101510?style=flat-square" alt="CSS" /> <img src="https://img.shields.io/badge/VANILLA_JS-101510?style=flat-square" alt="VANILLA JS" />
+<img src="https://img.shields.io/badge/HTML-101510?style=flat-square" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-101510?style=flat-square" alt="CSS" /> <img src="https://img.shields.io/badge/VANILLA_JS-101510?style=flat-square" alt="VANILLA JS" /><br>
+<img src="https://github.com/nadludyna/top10gier/raw/HEAD/grafika/ikona/favicon-192.png" width="28" align="absmiddle" alt="" /> &nbsp;[**TOP 10 GIER**](https://github.com/nadludyna/top10gier): my personal hall of fame: ten favorite games, with tiers and very subjective reviews. A one-page site for a university web course.
 
 ---
 
