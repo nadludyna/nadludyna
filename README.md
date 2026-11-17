@@ -3,7 +3,7 @@
 ### Hey <img src="assets/icons/hey.svg" width="30" align="absmiddle" alt="" />
 
 I'm not really a developer, more of an engineer who uses whatever works. What matters to me is the experience and the result. How it gets built only matters in terms of speed, and in not doing harm to anyone else.<br>
-I'm AuDHD, and when something grabs my interest, I learn it fast.
+When something grabs my interest, I learn it fast.
 
 These days I'm learning DevOps.
 
