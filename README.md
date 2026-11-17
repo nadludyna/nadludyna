@@ -78,7 +78,7 @@ I've used LLMs since GPT-3. Claude is my main coding agent, and I also think thi
 
 ### // Beyond tech
 
-<img src="assets/icons/gaming.svg" width="26" align="absmiddle" alt="" /> **Gaming**: atmospheric worlds, RPGs, immersive sims, horror, odd indie, plus chill casual games to have on while a podcast plays. My top 10 is [here](https://nadludyna.github.io/top10gier/).
+<img src="assets/icons/gaming.svg" width="26" align="absmiddle" alt="" /> **Gaming**: atmospheric worlds, RPGs, immersive sims, horror, odd indie, plus casual games to keep my hands busy while I listen to a podcast or something similar. My top 10 is [here](https://nadludyna.github.io/top10gier/).
 
 <img src="assets/icons/modding.svg" width="26" align="absmiddle" alt="" /> **Modding**<br>
 <img src="assets/icons/minecraft.svg" width="22" align="absmiddle" alt="" /> ***Minecraft***: <img src="https://www.google.com/s2/favicons?domain=prismlauncher.org&sz=64" width="20" align="absmiddle" alt="" /> [Prism Launcher](https://prismlauncher.org) for small modpacks.<br>
@@ -89,9 +89,11 @@ I've used LLMs since GPT-3. Claude is my main coding agent, and I also think thi
 
 <img src="assets/icons/typing.svg" width="26" align="absmiddle" alt="" /> **Typing**: Monkeytype, mostly to switch my head off. <kbd>MonsGeek FUN60 Ultra</kbd> + <kbd>Astrolink switches</kbd>
 
-<img src="assets/icons/perspective.svg" width="26" align="absmiddle" alt="" /> **Perspective**: AuDHD. My head is rarely quiet, so I rest by doing: fast typing, music, repeating voices until they sound right. *[Amor fati](https://en.wikipedia.org/wiki/Amor_fati).*
+<img src="assets/icons/perspective.svg" width="26" align="absmiddle" alt="" /> **Perspective**: I'm AuDHD. My head is rarely quiet, so I rest by doing something: fast typing, music, repeating voices until they sound right. I don't fight it and I don't romanticize it. I'd rather take it as it is and make it work for me, which is pretty much what *[amor fati](https://en.wikipedia.org/wiki/Amor_fati)* means to me.
 
-<img src="assets/icons/music.svg" width="26" align="absmiddle" alt="" /> **Music**: how I adjust my mood. Highlights:
+<img src="assets/icons/music.svg" width="26" align="absmiddle" alt="" /> **Music**: how I adjust my mood.
+
+**Highlights ↓**
 
 <details>
 <summary><img src="assets/icons/atmosphere.svg" width="26" align="absmiddle" alt="" /> <b>Atmosphere</b> · ambient · drone · dark ambient · hauntology · vaporwave · barber beats</summary>
