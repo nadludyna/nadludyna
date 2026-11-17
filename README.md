@@ -62,23 +62,21 @@ I'd rather keep things simple and useful than impressive, and I treat docs as pa
   <a href="https://gemini.google.com"><img src="https://img.shields.io/badge/GEMINI-101510?style=flat-square&logo=googlegemini&logoColor=9FE870" alt="Gemini" /></a>
 </p>
 
-I've used LLMs since GPT-3. At first I didn't really get what they were for, but along the way I figured out that clear prompts and good context make all the difference, a while before that became common advice. Today Claude is my main coding agent, and I also think things through with it.
+I've used LLMs since GPT-3 and figured out early that clear prompts and good context make all the difference. Today Claude is my main coding agent and thinking partner.
 
 `raw thought` → `talk it through` → `let it brew` → `.md in the vault` → `notes pile up` → `build`
 
-**Thinking:** I dump raw thoughts on Claude, talk them through, leave them for a while, and save whatever's worth keeping as notes in my Obsidian vault.
-
-**Building:** when enough notes pile up and an idea starts to feel real, I point Claude to that part of the vault and we build from there. Work happens in branches, with PRs and tests before anything gets merged. This README went through the same process: lots of drafts, lots of cuts.
-
-**Other models:** I've tried most of the big ones and spent some time with Mistral's tools. These days I use [Kilo Code](https://kilocode.ai) in VS Code, connected to [OpenRouter](https://openrouter.ai), to test Chinese and other models, and to get a second opinion on ideas, plans and code reviews. New releases I follow on [Hugging Face](https://huggingface.co) and [Arena](https://arena.ai).
-
-**On AI in general:** I think it's one of the most powerful things we've built, honestly on the level of nuclear tech, and just like that, it depends on whose hands it's in. The ethical questions matter to me, just not enough to stop using it. A lot of the panic comes from how AI was sold to people: "it'll replace you, the singularity is here, get used to it." That framing is nonsense, but so is pretending AI isn't a big deal.
+- **Thinking:** raw thoughts go to Claude, the useful ones end up as notes in my Obsidian vault.
+- **Building:** once an idea feels real, Claude works from those notes. Branches, PRs and tests before anything merges.
+- **Other models:** [Kilo Code](https://kilocode.ai) + [OpenRouter](https://openrouter.ai) in VS Code, to test Chinese and other models and get a second opinion on plans and code. New releases I follow on [Hugging Face](https://huggingface.co) and [Arena](https://arena.ai).
+- **On AI in general:** powerful on the level of nuclear tech, so it all depends on whose hands it's in. The ethical questions matter to me, just not enough to stop using it. "It'll replace you" is a bad framing, but pretending AI isn't a big deal is just as wrong.
 
 ---
 
 ### // Beyond tech
 
-<img src="assets/icons/gaming.svg" width="26" align="absmiddle" alt="" /> **Gaming**: atmospheric worlds, RPGs, immersive sims, horror, odd indie, plus casual games to keep my hands busy while I listen to a podcast or something else.
+<img src="assets/icons/gaming.svg" width="26" align="absmiddle" alt="" /> **Gaming**: atmospheric worlds, RPGs, immersive sims, horror, odd indie.<br>
+Plus casual games to keep my hands busy while I listen to a podcast or something else.
 
 <img src="assets/icons/modding.svg" width="26" align="absmiddle" alt="" /> **Modding**<br>
 <img src="assets/icons/minecraft.svg" width="22" align="absmiddle" alt="" /> ***Minecraft***: <img src="https://www.google.com/s2/favicons?domain=prismlauncher.org&sz=64" width="20" align="absmiddle" alt="" /> [Prism Launcher](https://prismlauncher.org) for small modpacks.<br>
@@ -87,7 +85,8 @@ I've used LLMs since GPT-3. At first I didn't really get what they were for, but
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?domain=mojaveexpressguide.com&sz=64" width="20" align="absmiddle" alt="" /> [Mojave Express](https://mojaveexpressguide.com/docs/Introduction)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?domain=wastelandsurvival.guide&sz=64" width="20" align="absmiddle" alt="" /> [Wasteland Survival Guide](https://wastelandsurvival.guide/docs/intro)
 
-<img src="assets/icons/typing.svg" width="26" align="absmiddle" alt="" /> **Typing**: Monkeytype, mostly to switch my head off. Keyboards have been a hobby for a while: I started on [Dark Project](https://darkproject.eu/catalog?category=Keyboards) boards, even built a custom switch set from their parts, and ended up on magnetic [MonsGeek](https://www.monsgeek.com) ones. Main board today: MonsGeek FUN60 Ultra with Astrolink switches.
+<img src="assets/icons/typing.svg" width="26" align="absmiddle" alt="" /> **Typing**: Monkeytype, mostly to switch my head off.<br>
+Keyboards: started on [Dark Project](https://darkproject.eu/catalog?category=Keyboards), built a custom switch set from their parts, ended up on magnetic [MonsGeek](https://www.monsgeek.com). Main: FUN60 Ultra with Astrolink switches.
 
 <img src="assets/icons/music.svg" width="26" align="absmiddle" alt="" /> **Music highlights**
 
