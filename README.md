@@ -3,7 +3,7 @@
 ### Hey <img src="assets/icons/hey.svg" width="30" align="absmiddle" alt="" />
 
 I'm not a developer by trade. I figure out what's needed, use what already works and build the rest with AI.<br>
-Curious, AuDHD, and quick to learn once something gets my attention.
+I'm AuDHD, and when something catches my interest, I tend to pick it up fast.
 
 Lately: getting into DevOps.
 
