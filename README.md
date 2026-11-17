@@ -78,16 +78,16 @@ I've used LLMs since GPT-3. At first I didn't really get what they were for, but
 
 ### // Beyond tech
 
-<img src="assets/icons/gaming.svg" width="26" align="absmiddle" alt="" /> **Gaming**: atmospheric worlds, RPGs, immersive sims, horror, odd indie, plus casual games to keep my hands busy while I listen to a podcast or something similar. My top 10 is [here](https://nadludyna.github.io/top10gier/).
+<img src="assets/icons/gaming.svg" width="26" align="absmiddle" alt="" /> **Gaming**: atmospheric worlds, RPGs, immersive sims, horror, odd indie, plus casual games to keep my hands busy while I listen to a podcast or something else.
 
 <img src="assets/icons/modding.svg" width="26" align="absmiddle" alt="" /> **Modding**<br>
 <img src="assets/icons/minecraft.svg" width="22" align="absmiddle" alt="" /> ***Minecraft***: <img src="https://www.google.com/s2/favicons?domain=prismlauncher.org&sz=64" width="20" align="absmiddle" alt="" /> [Prism Launcher](https://prismlauncher.org) for small modpacks.<br>
-<img src="assets/icons/fallout.svg" width="22" align="absmiddle" alt="" /> ***Fallout: New Vegas / TTW***: via these guides:<br>
+<img src="assets/icons/fallout.svg" width="22" align="absmiddle" alt="" /> ***Fallout New Vegas / TTW***: set up with these guides<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?domain=vivanewvegas.moddinglinked.com&sz=64" width="20" align="absmiddle" alt="" /> [Viva New Vegas](https://vivanewvegas.moddinglinked.com/intro.html)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?domain=mojaveexpressguide.com&sz=64" width="20" align="absmiddle" alt="" /> [Mojave Express](https://mojaveexpressguide.com/docs/Introduction)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://www.google.com/s2/favicons?domain=wastelandsurvival.guide&sz=64" width="20" align="absmiddle" alt="" /> [Wasteland Survival Guide](https://wastelandsurvival.guide/docs/intro)
 
-<img src="assets/icons/typing.svg" width="26" align="absmiddle" alt="" /> **Typing**: Monkeytype, mostly to switch my head off, and keyboards have been a thing for me for a while. I started with Dark Project boards: ALU Midnight, ALU Bushido and DP087. The DP087 had no hot-swap, so I took it apart, pulled the springs and combined them with the switches from my Bushido into a custom set: 1.5 mm travel and a light press, for speed. Those boards are a collection now. Then I found MonsGeek on AliExpress, they turned out to be magnetic, and that was exactly what I wanted. Main board today: <kbd>MonsGeek FUN60 Ultra</kbd> with <kbd>Astrolink</kbd> switches I bought separately for the sound and feel, tuned through the software. Next on the list: the [M1 V5 TMR](https://www.monsgeek.com/keyboard/m1-v5-tmr-fully-assembled/).
+<img src="assets/icons/typing.svg" width="26" align="absmiddle" alt="" /> **Typing**: Monkeytype, mostly to switch my head off. Keyboards have been a hobby for a while: I started on [Dark Project](https://darkproject.eu) boards, even built a custom switch set from their parts, and ended up on magnetic [MonsGeek](https://www.monsgeek.com) ones. Main board today: MonsGeek FUN60 Ultra with Astrolink switches.
 
 <img src="assets/icons/music.svg" width="26" align="absmiddle" alt="" /> **Music highlights**
 
@@ -109,6 +109,7 @@ I've used LLMs since GPT-3. At first I didn't really get what they were for, but
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=William+Basinski+The+Disintegration+Loops">William Basinski: The Disintegration Loops</a>
 <br><br>
 </details>
+<br>
 <details>
 <summary><img src="assets/icons/electronic.svg" width="26" align="absmiddle" alt="" /> <b>Electronic</b> · IDM · synthwave · art pop</summary>
 <br>
@@ -130,6 +131,7 @@ I've used LLMs since GPT-3. At first I didn't really get what they were for, but
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Cynthoni">Cynthoni</a>
 <br><br>
 </details>
+<br>
 <details>
 <summary><img src="assets/icons/ghost.svg" width="26" align="absmiddle" alt="" /> <b>Caretaker fan universe</b> · hauntology · plunderphonics</summary>
 <br>
@@ -141,6 +143,7 @@ I've used LLMs since GPT-3. At first I didn't really get what they were for, but
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=The+Patients+vCJD">vCJD</a>
 <br><br>
 </details>
+<br>
 <details>
 <summary><img src="assets/icons/rock.svg" width="26" align="absmiddle" alt="" /> <b>Rock &amp; metal</b> · prog · shoegaze · post-rock · post-punk</summary>
 <br>
@@ -172,6 +175,7 @@ I've used LLMs since GPT-3. At first I didn't really get what they were for, but
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://www.youtube.com/watch?v=HpQbVqGmGSA">Klaus Johann Grobe</a>
 <br><br>
 </details>
+<br>
 <details>
 <summary><img src="assets/icons/classical.svg" width="26" align="absmiddle" alt="" /> <b>Classical</b> · piano, symphonies, opera, organ</summary>
 <br>
@@ -185,6 +189,7 @@ I've used LLMs since GPT-3. At first I didn't really get what they were for, but
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://www.youtube.com/@EssentialClassics">more on Essential Classics</a>
 <br><br>
 </details>
+<br>
 <details>
 <summary><img src="assets/icons/pop.svg" width="26" align="absmiddle" alt="" /> <b>Pop</b> · dance-pop · synth-pop · alt-pop</summary>
 <br>
@@ -205,6 +210,7 @@ I've used LLMs since GPT-3. At first I didn't really get what they were for, but
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=Dev+Lemons">Dev Lemons</a>
 <br><br>
 </details>
+<br>
 <details>
 <summary><img src="assets/icons/oldies.svg" width="26" align="absmiddle" alt="" /> <b>Golden oldies</b> · rock &#39;n&#39; roll · crooners · western</summary>
 <br>
@@ -214,6 +220,7 @@ I've used LLMs since GPT-3. At first I didn't really get what they were for, but
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/channel/UC_X19d3yM9Nq1_4QSFP3EVQ">Jerry Burnham</a> &amp; <a href="https://music.youtube.com/channel/UCuC44ynuN075dUfz3TTLbvw">Don Burnham</a>
 <br><br>
 </details>
+<br>
 <details>
 <summary><img src="assets/icons/opposite.svg" width="26" align="absmiddle" alt="" /> <b>Loud &amp; chaotic</b> · breakcore · digital hardcore · rage · trap · hyperpop</summary>
 <br>
@@ -237,6 +244,7 @@ I've used LLMs since GPT-3. At first I didn't really get what they were for, but
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=DrainWh0re">DrainWh0re</a>
 <br><br>
 </details>
+<br>
 <details>
 <summary><img src="assets/icons/scene.svg" width="26" align="absmiddle" alt="" /> <b>Eastern European scene</b> · rap · hyperpop · cult classics</summary>
 <br>
@@ -271,6 +279,7 @@ I've used LLMs since GPT-3. At first I didn't really get what they were for, but
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸ <a href="https://music.youtube.com/search?q=DMT+Boy">DMT Boy</a>
 <br><br>
 </details>
+<br>
 <details>
 <summary><img src="assets/icons/games.svg" width="26" align="absmiddle" alt="" /> <b>Game soundtracks</b> · the highlights</summary>
 <br>
