@@ -89,11 +89,7 @@ I've used LLMs since GPT-3. Claude is my main coding agent, and I also think thi
 
 <img src="assets/icons/typing.svg" width="26" align="absmiddle" alt="" /> **Typing**: Monkeytype, mostly to switch my head off. <kbd>MonsGeek FUN60 Ultra</kbd> + <kbd>Astrolink switches</kbd>
 
-<img src="assets/icons/perspective.svg" width="26" align="absmiddle" alt="" /> **How I see things**: I'm AuDHD, and my head is rarely quiet. I don't fight that and I don't romanticize it. I'd rather take things as they are and make them work, which is pretty much what *[amor fati](https://en.wikipedia.org/wiki/Amor_fati)* means to me. That's also why I read philosophy (Nietzsche, Hegel, Wittgenstein) and keep coming back to questions about consciousness and AI.
-
-<img src="assets/icons/music.svg" width="26" align="absmiddle" alt="" /> **Music**: how I adjust my mood.
-
-**Highlights ↓**
+<img src="assets/icons/music.svg" width="26" align="absmiddle" alt="" /> **Music highlights**
 
 <details>
 <summary><img src="assets/icons/atmosphere.svg" width="26" align="absmiddle" alt="" /> <b>Atmosphere</b> · ambient · drone · dark ambient · hauntology · vaporwave · barber beats</summary>
