@@ -1,11 +1,11 @@
 <div align="center">
 
-### Hey <img src="assets/icons/hey.svg" width="30" align="absmiddle" alt="" />
+### Hey there, Space Cowboy<img src="assets/icons/hey.svg" width="30" align="absmiddle" alt="" />
 
-Engineer-minded tinkerer: I automate the boring stuff and build small practical tools.<br>
-I use whatever gets the job done, AI included, and focus on results: fast, reliable, no harm to anyone else.
+Engineer-minded tinkerer: I try everything that interests me, primarily stuff that is related to automating tedious things, and sometimes I try to create small practical tools that I use myself and others can use too, if they want.<br>
+Right now I am in the phase of transition from vibe-coding with Claude and other AI models to understanding the basics and trying to teach myself to use my own brain and skills, with a focus on results.
 
-Currently learning DevOps.
+Currently learning the basics of CS and experimenting with Linux and automation, with mindful use of AI.
 
 <img src="https://img.shields.io/badge/NATIVE-101510?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMCAyMCI%2BPGNsaXBQYXRoIGlkPSJjIj48cmVjdCB3aWR0aD0iMzAiIGhlaWdodD0iMjAiIHJ4PSIzIi8%2BPC9jbGlwUGF0aD48ZyBjbGlwLXBhdGg9InVybCgjYykiPjxyZWN0IHdpZHRoPSIzMCIgaGVpZ2h0PSIxMCIgZmlsbD0iIzAwNTdCNyIvPjxyZWN0IHk9IjEwIiB3aWR0aD0iMzAiIGhlaWdodD0iMTAiIGZpbGw9IiNGRkQ3MDAiLz48L2c%2BPC9zdmc%2B" alt="Ukrainian: native" title="Ukrainian" /> <img src="https://img.shields.io/badge/NATIVE-101510?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMCAyMCI%2BPGNsaXBQYXRoIGlkPSJjIj48cmVjdCB3aWR0aD0iMzAiIGhlaWdodD0iMjAiIHJ4PSIzIi8%2BPC9jbGlwUGF0aD48ZyBjbGlwLXBhdGg9InVybCgjYykiPjxyZWN0IHdpZHRoPSIzMCIgaGVpZ2h0PSI3IiBmaWxsPSIjZmZmIi8%2BPHJlY3QgeT0iNi42IiB3aWR0aD0iMzAiIGhlaWdodD0iNi44IiBmaWxsPSIjMDAzOUE2Ii8%2BPHJlY3QgeT0iMTMuMyIgd2lkdGg9IjMwIiBoZWlnaHQ9IjYuNyIgZmlsbD0iI0Q1MkIxRSIvPjwvZz48L3N2Zz4%3D" alt="Russian: native" title="Russian" /> <img src="https://img.shields.io/badge/NATIVE--LEVEL-101510?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMCAyMCI%2BPGNsaXBQYXRoIGlkPSJjIj48cmVjdCB3aWR0aD0iMzAiIGhlaWdodD0iMjAiIHJ4PSIzIi8%2BPC9jbGlwUGF0aD48ZyBjbGlwLXBhdGg9InVybCgjYykiPjxyZWN0IHdpZHRoPSIzMCIgaGVpZ2h0PSIyMCIgZmlsbD0iIzAxMjE2OSIvPjxwYXRoIGQ9Ik0wIDBMMzAgMjBNMzAgMEwwIDIwIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iNCIvPjxwYXRoIGQ9Ik0wIDBMMzAgMjBNMzAgMEwwIDIwIiBzdHJva2U9IiNDODEwMkUiIHN0cm9rZS13aWR0aD0iMS42Ii8%2BPHBhdGggZD0iTTE1IDBWMjBNMCAxMEgzMCIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjYiLz48cGF0aCBkPSJNMTUgMFYyME0wIDEwSDMwIiBzdHJva2U9IiNDODEwMkUiIHN0cm9rZS13aWR0aD0iMy40Ii8%2BPC9nPjwvc3ZnPg%3D%3D" alt="English: native-level" title="English" /> <img src="https://img.shields.io/badge/FULL_UNDERSTANDING_%C2%B7_CONVERSATIONAL-101510?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMCAyMCI%2BPGNsaXBQYXRoIGlkPSJjIj48cmVjdCB3aWR0aD0iMzAiIGhlaWdodD0iMjAiIHJ4PSIzIi8%2BPC9jbGlwUGF0aD48ZyBjbGlwLXBhdGg9InVybCgjYykiPjxyZWN0IHdpZHRoPSIzMCIgaGVpZ2h0PSIxMCIgZmlsbD0iI2ZmZiIvPjxyZWN0IHk9IjEwIiB3aWR0aD0iMzAiIGhlaWdodD0iMTAiIGZpbGw9IiNEQzE0M0MiLz48L2c%2BPC9zdmc%2B" alt="Polish: fluent understanding · conversational" title="Polish" /> <img src="https://img.shields.io/badge/BASIC-101510?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMCAyMCI%2BPGNsaXBQYXRoIGlkPSJjIj48cmVjdCB3aWR0aD0iMzAiIGhlaWdodD0iMjAiIHJ4PSIzIi8%2BPC9jbGlwUGF0aD48ZyBjbGlwLXBhdGg9InVybCgjYykiPjxyZWN0IHdpZHRoPSIzMCIgaGVpZ2h0PSI3IiBmaWxsPSIjMDAwIi8%2BPHJlY3QgeT0iNi42IiB3aWR0aD0iMzAiIGhlaWdodD0iNi44IiBmaWxsPSIjREQwMDAwIi8%2BPHJlY3QgeT0iMTMuMyIgd2lkdGg9IjMwIiBoZWlnaHQ9IjYuNyIgZmlsbD0iI0ZGQ0UwMCIvPjwvZz48L3N2Zz4%3D" alt="German: basic" title="German" />
 
@@ -16,41 +16,39 @@ Currently learning DevOps.
 ### // Things I've built so far
 
 <img src="https://img.shields.io/badge/GO-101510?style=flat-square" alt="GO" /> <img src="https://img.shields.io/badge/JAVASCRIPT-101510?style=flat-square" alt="JAVASCRIPT" /> <img src="https://img.shields.io/badge/POSTGRESQL-101510?style=flat-square" alt="POSTGRESQL" /><br>
-<img src="https://github.com/nadludyna/typeTrainer/raw/HEAD/web/favicon.svg" width="28" align="absmiddle" alt="" /> &nbsp;[**typeTrainer**](https://github.com/nadludyna/typeTrainer): a typing trainer that notices which letters slow you down and builds the next words around them, real words only. I type a lot, so it was the obvious thing to build for my engineering thesis.
+<img src="https://github.com/nadludyna/typeTrainer/raw/HEAD/web/favicon.svg" width="28" align="absmiddle" alt="" /> &nbsp;[**typeTrainer**](https://github.com/nadludyna/typeTrainer): a typing trainer that notices which letters slow you down and builds the next words around them, real words only. I type a lot, so it was the obvious thing to try to build for my engineering thesis at LUT.
 
 <img src="https://img.shields.io/badge/GO-101510?style=flat-square" alt="GO" /> <img src="https://img.shields.io/badge/GITHUB_ACTIONS-101510?style=flat-square" alt="GITHUB ACTIONS" /><br>
-<img src="https://github.com/nadludyna/tyaga/raw/HEAD/winres/icon.svg" width="28" align="absmiddle" alt="" /> &nbsp;[**ТЯГА**](https://github.com/nadludyna/tyaga): paste a YouTube link, get a file. A small Go program with a browser UI on top of [yt-dlp](https://github.com/yt-dlp/yt-dlp), with builds for Windows, macOS and Linux. It began as a Windows batch script.
+<img src="https://github.com/nadludyna/tyaga/raw/HEAD/winres/icon.svg" width="28" align="absmiddle" alt="" /> &nbsp;[**ТЯГА**](https://github.com/nadludyna/tyaga): paste a YouTube link, get a file. A small Go program with a browser UI on top of [yt-dlp](https://github.com/yt-dlp/yt-dlp), with builds currently only for Windows. It began as a batch script.
 
 <img src="https://img.shields.io/badge/HTML-101510?style=flat-square" alt="HTML" /> <img src="https://img.shields.io/badge/CSS-101510?style=flat-square" alt="CSS" /> <img src="https://img.shields.io/badge/VANILLA_JS-101510?style=flat-square" alt="VANILLA JS" /><br>
-<img src="https://github.com/nadludyna/top10gier/raw/HEAD/grafika/ikona/favicon-192.png" width="28" align="absmiddle" alt="" /> &nbsp;[**TOP 10 GIER**](https://github.com/nadludyna/top10gier): my ten favorite games, sorted into tiers, with reviews that are entirely my opinion. A one-page site for a university web course.
+<img src="https://github.com/nadludyna/top10gier/raw/HEAD/grafika/ikona/favicon-192.png" width="28" align="absmiddle" alt="" /> &nbsp;[**TOP 10 GIER**](https://github.com/nadludyna/top10gier): my ten favorite games, sorted into tiers, with reviews that are entirely IMHO. A one-page site for a university web course that I just saved as an artifact of its time.
 
 ---
 
 ### // Around the computer
 
-<img src="assets/icons/linux.svg" width="26" align="absmiddle" alt="" /> **Linux**: I've tried a fair number of distros, and I always end up wanting the same thing: a clean system without extra noise. These days that's [CachyOS](https://cachyos.org) (Arch-based) with KDE Plasma.
+<img src="assets/icons/linux.svg" width="26" align="absmiddle" alt="" /> **Linux**: I've tried a fair number of distros, was a Linux fanboy for a few years. After a while, I realized that I perceive Linux as a tool for self-hosting and experiments. Ended up on [CachyOS](https://cachyos.org) (Arch-based) with KDE Plasma. Still think it's the one distro that is truly what I wanted from Linux in the first place.
 
-<img src="assets/icons/windows.svg" width="26" align="absmiddle" alt="" /> **Windows**: my main system right now. I install it clean with [Rufus](https://rufus.ie) or [balenaEtcher](https://etcher.balena.io), tweak it with [WinUtil](https://github.com/ChrisTitusTech/winutil) and keep apps updated through [UniGetUI](https://devolutions.net/unigetui/). WSL and PowerShell for everyday stuff.
+<img src="assets/icons/windows.svg" width="26" align="absmiddle" alt="" /> **Windows**: my main system right now. Used 10 for a long time, but eventually switched to 11. Not 'cause I really wanted to, but 'cause I realized that it got better with time, so it's my primary OS right now. When I install it clean, I use [Rufus](https://rufus.ie) or [balenaEtcher](https://etcher.balena.io), tweak it with [WinUtil](https://github.com/ChrisTitusTech/winutil) and keep apps updated through [UniGetUI](https://devolutions.net/unigetui/), MS Store and Windows Update. For work and general-purpose use it's optimal, not the best, not the worst. I need 125% scaling because of my eyesight, and on Linux that makes everything blurry, even with antialiasing and all that crap. Hope this changes in the future, so I can finally join the light side, lol.
 
-<img src="assets/icons/pendulum.svg" width="26" align="absmiddle" alt="" /> **The pendulum**: Schopenhauer had life swinging like a pendulum between pain and boredom. Mine swings between Windows and CachyOS, depending on which one annoys me less that month. Both stay set up, so switching is easy.
+<img src="assets/icons/selfhost.svg" width="26" align="absmiddle" alt="" /> **Self-hosting**: one practical experience so far: a modded Minecraft server on [Fabric](https://fabricmc.net), with scripts that check for mod updates.
 
-<img src="assets/icons/selfhost.svg" width="26" align="absmiddle" alt="" /> **Self-hosting**: one project so far: a modded Minecraft server on [Fabric](https://fabricmc.net), with scripts that check for mod updates.
+<img src="assets/icons/tinker.svg" width="26" align="absmiddle" alt="" /> **Tinkering**: making custom scripts to automate or solve something, patching Android apps for myself and family with [Morphe](https://morphe.software) and old games that refuse to run on new PCs. Usually [PCGamingWiki](https://www.pcgamingwiki.com), Reddit or a quick question to AI has the fix.
 
-<img src="assets/icons/tinker.svg" width="26" align="absmiddle" alt="" /> **Tinkering**: userscripts, patched Android apps for my family ([Morphe](https://morphe.software)), and old games that refuse to run on new PCs. Usually [PCGamingWiki](https://www.pcgamingwiki.com), Reddit or a quick question to AI has the fix.
-
-<img src="assets/icons/opensource.svg" width="26" align="absmiddle" alt="" /> **Open source**: I end up using a lot of it, mostly because it tends to be the best option. I'm fine paying for software that's worth it too.
+<img src="assets/icons/opensource.svg" width="26" align="absmiddle" alt="" /> **Open source**: I end up using a lot of it, mostly because it tends to be the best option there is. I'm fine paying for software or just supporting someone if I really need it or like it.
 
 ---
 
 ### // How I approach problems
 
-<img src="assets/icons/step1.svg" width="26" align="absmiddle" alt="1" /> **Define**: figure out what actually needs solving.<br>
-<img src="assets/icons/step2.svg" width="26" align="absmiddle" alt="2" /> **Search**: check what already exists before reinventing the wheel.<br>
-<img src="assets/icons/step3.svg" width="26" align="absmiddle" alt="3" /> **Use or build**: if a tool does the job, use it. If nothing fits, build a focused one.
+<img src="assets/icons/step1.svg" width="26" align="absmiddle" alt="1" /> **Define**: figure out what actually needs to be solved.<br>
+<img src="assets/icons/step2.svg" width="26" align="absmiddle" alt="2" /> **Search**: an extensive check of existing solutions.<br>
+<img src="assets/icons/step3.svg" width="26" align="absmiddle" alt="3" /> **Use or build**: if an existing solution does the job, use it. If nothing fits, make it myself.
 
-**How I learn:** I try to get the basics of a thing first, the few ideas everything else rests on, and look up details when I need them. After that, new stuff in the same area comes quickly.
+**How I learn:** I try to get the basics of a thing first, the few ideas everything else rests on, and look up details when I need them. After that, I tend to go through anything much faster and end up learning a lot in the process.
 
-I'd rather keep things simple and useful than impressive, and I treat docs as part of the work. Often the best move is to wait until the picture is clear and then do one thing well. The part I enjoy most is the moment something I didn't understand finally clicks.
+I'd rather keep things simple and useful than impressive. I try to keep docs and code in order, in good enough condition. Often the best move is to wait until the picture is clear enough and then make one precise move. The part I enjoy most is the moment something I didn't understand finally clicks.
 
 ---
 
@@ -62,22 +60,30 @@ I'd rather keep things simple and useful than impressive, and I treat docs as pa
   <a href="https://gemini.google.com"><img src="https://img.shields.io/badge/GEMINI-101510?style=flat-square&logo=googlegemini&logoColor=9FE870" alt="Gemini" /></a>
 </p>
 
-I've used LLMs since GPT-3 and figured out early that clear prompts and good context make all the difference. Today Claude is my main coding agent and thinking partner.
+I've used LLMs since AI truly went public with OpenAI's ChatGPT, and figured out early that clear prompts and good context make all the difference.
 
-`raw thought` → `talk it through` → `let it brew` → `.md in the vault` → `notes pile up` → `build`
+Today Claude is my main coding agent and thinking partner. I also use Mistral Vibe, and [Kilo Code](https://kilocode.ai) with an [OpenRouter](https://openrouter.ai) connection in VS Code, to test Chinese and other models and get a second opinion on plans and code.
 
-- **Thinking:** raw thoughts go to Claude, the useful ones end up as notes in my Obsidian vault.
-- **Building:** once an idea feels real, Claude works from those notes. Branches, PRs and tests before anything merges.
-- **Other models:** [Kilo Code](https://kilocode.ai) + [OpenRouter](https://openrouter.ai) in VS Code, to test Chinese and other models and get a second opinion on plans and code. New releases I follow on [Hugging Face](https://huggingface.co) and [Arena](https://arena.ai).
-- **On AI in general:** powerful on the level of nuclear tech, so it all depends on whose hands it's in. The ethical questions matter to me, just not enough to stop using it. "It'll replace you" is a bad framing, but pretending AI isn't a big deal is just as wrong.
+Basically my work process goes like this:
+`raw thought` → `talk it through` → `let it brew` → `.md in the vault` → `notes pile up` → `check them out` → `plan` → `build`
+
+I try to follow new releases on [Hugging Face](https://huggingface.co), [ArenaAI](https://arena.ai) and selected YT channels. Sometimes I just ask my preferred AI chatbot what is going on right now. Often it starts with that, lol.
+
+**My general take on AI:** powerful tool, terrible marketing. The ads either sell it as magic or as a replacement for your whole team, and most people still don’t really get what it is.
+
+In the right hands and under strict human control, it can do impressive things. Without that, it can go very wrong — we can already see it affecting the economy, security, education, the job market and so on. The doom talk is mostly overblown, but the risk is very real: controlling something that might end up smarter than you is a genuinely hard problem, so yeah, regulation and proper safeguards are a must.
+
+It’s a bit like nuclear deterrence: better to have AI on your side when others have it too — if there’s a risk, it’s a risk for everyone at once.
+
+Personally, I like the whole AI thing, because I’m really into philosophy and consciousness topics, so it’s something that genuinely excites me. For now I’m experimenting and hoping the people in charge keep taking the risks seriously — and that there’s still a future ahead of us as a species, lol.
 
 ---
 
 ### // Beyond tech
 
-<img src="assets/icons/gaming.svg" width="26" align="absmiddle" alt="" /> **Gaming**: mostly atmospheric worlds, RPGs, immersive sims, horror and odd indie games, plus something casual to keep my hands busy while a podcast is on.
+<img src="assets/icons/gaming.svg" width="26" align="absmiddle" alt="" /> **Gaming**: mostly atmospheric worlds, immersive sims, horror and odd indie games, plus something casual to keep my hands busy while I listen to something.
 
-<img src="assets/icons/modding.svg" width="26" align="absmiddle" alt="" /> **Modding**: small Minecraft modpacks in [Prism Launcher](https://prismlauncher.org), and Fallout New Vegas / TTW built with the [Viva New Vegas](https://vivanewvegas.moddinglinked.com/intro.html), [Mojave Express](https://mojaveexpressguide.com/docs/Introduction) and [Wasteland Survival Guide](https://wastelandsurvival.guide/docs/intro) guides.
+<img src="assets/icons/modding.svg" width="26" align="absmiddle" alt="" /> **Modding**: small self-made Minecraft modpacks in [Prism Launcher](https://prismlauncher.org), and Fallout New Vegas / TTW built with the [Viva New Vegas](https://vivanewvegas.moddinglinked.com/intro.html), [Mojave Express](https://mojaveexpressguide.com/docs/Introduction) and [Wasteland Survival Guide](https://wastelandsurvival.guide/docs/intro) guides.
 
 <img src="assets/icons/typing.svg" width="26" align="absmiddle" alt="" /> **Typing**: Monkeytype, mostly to switch my head off. I got into keyboards through [Dark Project](https://darkproject.eu/catalog?category=Keyboards), built a custom switch set from their parts, and ended up on magnetic [MonsGeek](https://www.monsgeek.com) boards. Right now it's a FUN60 Ultra with Astrolink switches.
 
@@ -322,7 +328,7 @@ I've used LLMs since GPT-3 and figured out early that clear prompts and good con
 
 <div align="center">
 
-**Feel free to reach out, or just look around ↓**
+**Feel free to reach out, or just look around**
 
 <p>
   <a href="https://t.me/ponyal_syt"><img src="assets/icons/c-telegram.svg" width="40" alt="Telegram" title="Telegram" /></a>&nbsp;
