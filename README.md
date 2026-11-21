@@ -2,7 +2,7 @@
 
 ### Hey there, Space Cowboy<img src="assets/icons/hey.svg" width="30" align="absmiddle" alt="" />
 
-Engineer-minded tinkerer: I try everything that interests me, primarily stuff that is related to automating tedious things, and sometimes I try to create small practical tools that I use myself and others can use too, if they want.
+Engineer-minded tinkerer: I try everything that interests me, primarily stuff that is related to automating tedious things, and sometimes I try to create small practical tools that I use myself and others can fork or use as it is.
 
 Right now I am in the phase of transition from vibe-coding with Claude and other AI models to understanding the basics and trying to teach myself to use my own brain and skills, with a focus on results.
 
